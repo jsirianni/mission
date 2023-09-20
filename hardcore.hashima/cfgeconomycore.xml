@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+	<ce folder="db">
+	<!--
+		╔═════════════╗
+		║ DZ - Events ║
+		╚═════════════╝
+	-->
+		<file name="events/dz_events_animal.xml" type="events" />
+		<file name="events/dz_events_misc.xml" type="events" />
+		<file name="events/dz_events_zombie.xml" type="events" />
+	<!--
+		╔═════════════════════╗
+		║ DZ - SpawnableTypes ║
+		╚═════════════════════╝
+	-->
+		<file name="spawnabletypes/dz_spawnabletypes_ammo.xml" type="spawnabletypes" />
+		<file name="spawnabletypes/dz_spawnabletypes_zombie.xml" type="spawnabletypes" />
+		<file name="spawnabletypes/dz_spawnabletypes.xml" type="spawnabletypes" />
+	<!--
+		╔═════════════╗
+		║ CCS - Types ║
+		╚═════════════╝
+	-->
+		<file name="types/ccs/ccs_types_ammo.xml" type="types" />
+		<file name="types/ccs/ccs_types_bag.xml" type="types" />
+		<file name="types/ccs/ccs_types_beer.xml" type="types" />
+		<file name="types/ccs/ccs_types_can.xml" type="types" />
+		<file name="types/ccs/ccs_types_candy.xml" type="types" />
+		<file name="types/ccs/ccs_types_clothing.xml" type="types" />
+		<file name="types/ccs/ccs_types_collectable.xml" type="types" />
+		<file name="types/ccs/ccs_types_drink.xml" type="types" />
+		<file name="types/ccs/ccs_types_jar.xml" type="types" />
+		<file name="types/ccs/ccs_types_medical.xml" type="types" />
+		<file name="types/ccs/ccs_types_snack.xml" type="types" />
+		<file name="types/ccs/ccs_types_tool.xml" type="types" />
+		<file name="types/ccs/ccs_types_weapon.xml" type="types" />
+	<!--
+		╔════════════╗
+		║ DZ - Types ║
+		╚════════════╝
+	-->
+		<file name="types/dz/dz_types_animal.xml" type="types" />
+		<file name="types/dz/dz_types_bag.xml" type="types" />
+		<file name="types/dz/dz_types_clothing.xml" type="types" />
+		<file name="types/dz/dz_types_event.xml" type="types" />
+		<file name="types/dz/dz_types_food.xml" type="types" />
+		<file name="types/dz/dz_types_tool.xml" type="types" />
+		<file name="types/dz/dz_types_weapon.xml" type="types" />
+		<file name="types/dz/dz_types_zombie.xml" type="types" />
+	</ce>
+	<!--
+		╔════════════╗
+		║ DZ - Class ║
+		╚════════════╝
+	-->
+	<classes>
+		<rootclass name="DefaultWeapon" />
+		<rootclass name="DefaultMagazine" />
+		<rootclass name="Inventory_Base" />
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+	</classes>
+</economycore>

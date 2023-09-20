@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+<!--
+	╔══════════════════════════════════════════════╗
+	║ INDEX ██████████████████████████████████████ ║
+	╠═════════════╦════════════════════════════════╣
+	║ DZ - Animal ║ db/events/dz_events_animal.xml ║
+	║ DZ - Misc   ║ db/events/dz_events_misc.xml   ║
+	║ DZ - Zombie ║ db/events/dz_events_zombie.xml ║
+	╚═════════════╩════════════════════════════════╝
+-->
+</events>

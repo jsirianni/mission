@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+	╔══════════════════════════════════════════════════════════════════════════╗
+	║ INDEX ██████████████████████████████████████████████████████████████████ ║
+	╠═════════════════════════╦════════════════════════════════════════════════╣
+	║ SpawnableTypes - Ammo   ║ db/spawnabletypes/dz_spawnabletypes_ammo.xml   ║
+	║ SpawnableTypes - Misc   ║ db/spawnabletypes/dz_spawnabletypes.xml        ║
+	║ SpawnableTypes - Zombie ║ db/spawnabletypes/dz_spawnabletypes_zombie.xml ║
+	╚═════════════════════════╩════════════════════════════════════════════════╝
+-->
+</spawnabletypes>

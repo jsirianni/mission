@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2991796735"/>
+    <territory color="3001471911">
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="4052" z="3294" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3850" z="3640" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3578" z="4322" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3198" z="4032" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3182" z="3794" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="2990" z="3220" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3600" z="3956" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="4392" z="3344" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="4474" z="2990" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="4122.67" z="2962.67" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1552" z="1802" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1086" z="2518" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="796" z="2200" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1362" z="2310" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="684" z="1518" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="980" z="1538" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1288" z="1694" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1948" z="1442" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1952" z="2228" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3277.33" z="2622.67" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3590.67" z="2352" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3808" z="2921.33" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1386" z="1340" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1188" z="2064" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3752" z="3268" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3188" z="3120" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="3292" z="2384" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1872" z="2580" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1940" z="1856" r="50"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="5" x="1732" z="1560" r="50"/>
+    </territory>
+    <territory color="2997969428">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="3" dmax="5" x="2657.14" z="2618.71" r="50"/>
+    </territory>
+    <territory color="2991796735"/>
+    <territory color="3005508207"/>
+    <territory color="2991810760">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="5" dmax="10" x="2672.57" z="2719.43" r="50"/>
+    </territory>
+    <territory color="3005508207"/>
+    <territory color="3019702276">
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="5" dmax="10" x="2636.86" z="2577" r="50"/>
+    </territory>
+    <territory color="3014847487"/>
+    <territory color="2986773248">
+        <zone name="InfectedArmy" smin="0" smax="10" dmin="15" dmax="30" x="3441" z="3418" r="120"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="2539.1" z="2580.61" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="2151" z="2974" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="1475" z="3649" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="752" z="4375" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="5" dmin="10" dmax="15" x="920.2" z="1784.2" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="15" dmin="25" dmax="35" x="560" z="4558" r="280"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="1102.67" z="4018.67" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="1821.33" z="3300.67" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="5" dmin="5" dmax="10" x="2349" z="2770.33" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="5" dmin="10" dmax="15" x="893" z="1981" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="5" dmin="10" dmax="15" x="911" z="1901" r="50"/>
+    </territory>
+</territory-type>
