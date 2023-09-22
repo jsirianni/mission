@@ -483,7 +483,6 @@
 		<cargo preset="toolsCity" />
 		<attachments preset="hatsFirefighter" />
 	</type>
-
 <!--
 	╔══════════════════════════════════════╗
 	║ SpawnableTypes - Zombie - Industrial ║

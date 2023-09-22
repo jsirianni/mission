@@ -17,6 +17,7 @@
 	║ CCS - Snack       ║ db/types/ccs/ccs_types_snack.xml       ║
 	║ CCS - Tool        ║ db/types/ccs/ccs_types_tool.xml        ║
 	║ CCS - Weapon      ║ db/types/ccs/ccs_types_weapon.xml      ║
+	║ CCS - Zombie      ║ db/types/ccs/ccs_types_zombie.xml      ║
 	╠═══════════════════╬════════════════════════════════════════╣
 	║ DZ - Animal       ║ db/types/dz/dz_types_animal.xml        ║
 	║ DZ - Bag          ║ db/types/dz/dz_types_bag.xml           ║

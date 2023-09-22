@@ -35,6 +35,7 @@
 		<file name="types/ccs/ccs_types_snack.xml" type="types" />
 		<file name="types/ccs/ccs_types_tool.xml" type="types" />
 		<file name="types/ccs/ccs_types_weapon.xml" type="types" />
+		<file name="types/ccs/ccs_types_zombie.xml" type="types" />
 	<!--
 		╔════════════╗
 		║ DZ - Types ║
