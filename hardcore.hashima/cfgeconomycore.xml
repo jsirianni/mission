@@ -2,21 +2,31 @@
 <economycore>
 	<ce folder="db">
 	<!--
+		╔══════════════╗
+		║ CCS - Events ║
+		╚══════════════╝
+	-->
+		<file name="events/css/ccs_events_zombie.xml" type="events" />
+	<!--
 		╔═════════════╗
 		║ DZ - Events ║
 		╚═════════════╝
 	-->
-		<file name="events/dz_events_animal.xml" type="events" />
-		<file name="events/dz_events_misc.xml" type="events" />
-		<file name="events/dz_events_zombie.xml" type="events" />
+		<file name="events/dz/dz_events_animal.xml" type="events" />
+		<file name="events/dz/dz_events_misc.xml" type="events" />
+	<!--
+		╔══════════════════════╗
+		║ CCS - SpawnableTypes ║
+		╚══════════════════════╝
+	-->
+		<file name="spawnabletypes/ccs/ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+		<file name="spawnabletypes/ccs/ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
 	<!--
 		╔═════════════════════╗
 		║ DZ - SpawnableTypes ║
 		╚═════════════════════╝
 	-->
-		<file name="spawnabletypes/dz_spawnabletypes_ammo.xml" type="spawnabletypes" />
-		<file name="spawnabletypes/dz_spawnabletypes_zombie.xml" type="spawnabletypes" />
-		<file name="spawnabletypes/dz_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="spawnabletypes/dz/dz_spawnabletypes_misc.xml" type="spawnabletypes" />
 	<!--
 		╔═════════════╗
 		║ CCS - Types ║
