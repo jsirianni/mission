@@ -27,7 +27,6 @@
 	║ DZ - Medical      ║ db/types/dz/dz_types_medical.xml       ║
 	║ DZ - Tool         ║ db/types/dz/dz_types_tool.xml          ║
 	║ DZ - Weapon       ║ db/types/dz/dz_types_weapon.xml        ║
-	║ DZ - Zombie       ║ db/types/dz/dz_types_zombie.xml        ║
 	╚═══════════════════╩════════════════════════════════════════╝
 -->
 </types>

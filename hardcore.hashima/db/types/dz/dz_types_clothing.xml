@@ -2772,6 +2772,86 @@
 		<category name="clothes" />
 		<usage name="Village" />
 	</type>
+	<type name="ZmijovkaCap_Black">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="ZmijovkaCap_Blue">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="ZmijovkaCap_Brown">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="ZmijovkaCap_Green">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="ZmijovkaCap_Red">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
 <!--
 	╔═════════════════════════╗
 	║ DZ - Clothing - Helmets ║
