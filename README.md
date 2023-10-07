@@ -142,15 +142,15 @@ Map Version: 0.0.1-alpha-4
 
 #### Required Mods
 
-— **[Hashima Islands 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371)**
+**[Hashima Islands 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371)**
 
-— **[Hashima Islands Assets 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)**
+**[Hashima Islands Assets 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)**
 
-— **[Dab's Framework 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)**
+**[Dab's Framework 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)**
 
 #### Recommended Mods
 
-— **[No Force Weapon Raise 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2098390861)**
+**[No Force Weapon Raise 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2098390861)**
 
 ---
 
@@ -159,6 +159,12 @@ Map Version: 0.0.1-alpha-4
 Just wanted to give you a heads-up that Hashima Islands is still in its early development stages. I'm pretty stoked to introduce this new map to the Dayz Community, but it's a work in progress. So, it's a good idea to let you know that things might change as I continue to develop it. These changes could impact any custom stuff or gameplay tweaks you've made on your server.
 
 On another note, if you're thinking about shaking things up and adding new Points of Interest (POIs) to your server, I'd suggest focusing on the ocean. Unlike the land, which might get a facelift during development, the ocean is a pretty stable part of the map. So, building custom content and new POIs in the ocean can keep your server mods compatible with future updates to Hashima Islands.
+
+---
+
+## Contribute
+
+If you want to contribute, feel free by open an **[Issue](https://github.com/hashimagg/mission/issues)** and/or **[Pull Request](https://github.com/hashimagg/mission/pulls)**.
 
 ---
 
