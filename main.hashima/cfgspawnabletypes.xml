@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-	╔═════════════════════════════════════════════════════════════════════════════════════╗
-	║ INDEX █████████████████████████████████████████████████████████████████████████████ ║
-	╠═══════════════════════════════╦═════════════════════════════════════════════════════╣
-	║ CCS - SpawnableTypes - Ammo   ║ db/spawnabletypes/ccs/ccs_spawnabletypes_ammo.xml   ║
-	║ CCS - SpawnableTypes - Zombie ║ db/spawnabletypes/ccs/ccs_spawnabletypes_zombie.xml ║
-	╠═══════════════════════════════╬═════════════════════════════════════════════════════╣
-	║ DZ - SpawnableTypes - Misc    ║ db/spawnabletypes/dz/dz_spawnabletypes_misc.xml     ║
-	╚═══════════════════════════════╩═════════════════════════════════════════════════════╝
+	╔══════════════════════════════════════════════════════════════════════╗
+	║ INDEX ██████████████████████████████████████████████████████████████ ║
+	╠═══════════════════════════════╦══════════════════════════════════════╣
+	║ CCS - SpawnableTypes - Ammo   ║ ce_ccs/ccs_spawnabletypes_ammo.xml   ║
+	║ CCS - SpawnableTypes - Zombie ║ ce_ccs/ccs_spawnabletypes_zombie.xml ║
+	╠═══════════════════════════════╬══════════════════════════════════════╣
+	║ DZ - SpawnableTypes - Misc    ║ ce_dz/dz_spawnabletypes_misc.xml     ║
+	╚═══════════════════════════════╩══════════════════════════════════════╝
 -->
 </spawnabletypes>
