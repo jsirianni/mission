@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--
+	╔═════════════════╗
+	║ CCS - Can - Cat ║
+	╚═════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Cat_1">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Cat_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Cat_2">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Cat_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Cat_3">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Cat_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔═════════════════╗
+	║ CCS - Can - Dog ║
+	╚═════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Dog_1">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_2">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_3">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_4">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_4_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_5">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_5_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_6">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Dog_6_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔═══════════════════╗
+	║ CCS - Can - Fruit ║
+	╚═══════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Fruit_Apple">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Apple_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Fruits">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Fruits_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Mandarin">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Mandarin_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Mango">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Mango_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Peach">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Peach_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Pear">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Pear_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Pineapple">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Fruit_Pineapple_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔════════════════════╗
+	║ CCS - Can - Noodle ║
+	╚════════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Noodle_1">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_2">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_3">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_4">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_4_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_5">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Noodle_5_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔════════════════════╗
+	║ CCS - Can - Pocket ║
+	╚════════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Cream_1">
+		<nominal>23</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>18</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+	</type>
+	<type name="CCS_Hashima_Can_Cream_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Cream_2">
+		<nominal>23</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>18</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+	</type>
+	<type name="CCS_Hashima_Can_Cream_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Cream_3">
+		<nominal>23</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>18</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+	</type>
+	<type name="CCS_Hashima_Can_Cream_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Meat">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>15</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+	</type>
+	<type name="CCS_Hashima_Can_Meat_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_1">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_2">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_3">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_4">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_4_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_5">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="School" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Pocket_5_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Premium">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>15</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+	</type>
+	<type name="CCS_Hashima_Can_Premium_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔═════════════════════╗
+	║ CCS - Can - Sardine ║
+	╚═════════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Sardine_1">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_2">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_2_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_3">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_3_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_4">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_4_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_5">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_5_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_6">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_6_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_7">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_7_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_8">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_8_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_9">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_9_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_10">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_1_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_11">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_11_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_12">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_12_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_13">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_13_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_14">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_14_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_15">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_15_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_16">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_16_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_17">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_17_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_18">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_18_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_19">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_19_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_20">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_20_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_21">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_21_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_22">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_22_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_23">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_23_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_24">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Sardine_24_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Unknown">
+		<nominal>37</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>27</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Office" />
+		<usage name="Prison" />
+	</type>
+	<type name="CCS_Hashima_Can_Unknown_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+<!--
+	╔═════════════════════╗
+	║ CCS - Can - Soybean ║
+	╚═════════════════════╝
+-->
+	<type name="CCS_Hashima_Can_Mizkan">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Mizkan_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+	<type name="CCS_Hashima_Can_Natto">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="CCS_Hashima_Can_Natto_Opened">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="food" />
+	</type>
+</types>
