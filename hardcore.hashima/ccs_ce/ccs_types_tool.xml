@@ -206,10 +206,10 @@
 		<usage name="Village" />
 	</type>
 	<type name="CCS_Hashima_Tool_Lighter_1">
-		<nominal>50</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>15</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
@@ -219,10 +219,10 @@
 		<usage name="Town" />
 	</type>
 	<type name="CCS_Hashima_Tool_Lighter_2">
-		<nominal>50</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>15</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
@@ -232,10 +232,10 @@
 		<usage name="Town" />
 	</type>
 	<type name="CCS_Hashima_Tool_Lighter_3">
-		<nominal>50</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>15</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
@@ -245,10 +245,10 @@
 		<usage name="Town" />
 	</type>
 	<type name="CCS_Hashima_Tool_Matchbox_1">
-		<nominal>60</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>40</min>
+		<min>15</min>
 		<quantmin>10</quantmin>
 		<quantmax>90</quantmax>
 		<cost>100</cost>
@@ -260,10 +260,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Tool_Matchbox_2">
-		<nominal>60</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>40</min>
+		<min>15</min>
 		<quantmin>10</quantmin>
 		<quantmax>90</quantmax>
 		<cost>100</cost>
@@ -275,10 +275,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Tool_Matchbox_3">
-		<nominal>60</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>40</min>
+		<min>15</min>
 		<quantmin>10</quantmin>
 		<quantmax>90</quantmax>
 		<cost>100</cost>
@@ -290,10 +290,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Tool_Matchbox_4">
-		<nominal>60</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>40</min>
+		<min>15</min>
 		<quantmin>10</quantmin>
 		<quantmax>90</quantmax>
 		<cost>100</cost>
@@ -305,10 +305,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Tool_Matchbox_5">
-		<nominal>60</nominal>
+		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>40</min>
+		<min>15</min>
 		<quantmin>10</quantmin>
 		<quantmax>90</quantmax>
 		<cost>100</cost>
@@ -376,10 +376,10 @@
 		<usage name="Farm" />
 	</type>
 	<type name="CCS_Hashima_Tool_Sewing_Kit">
-		<nominal>80</nominal>
+		<nominal>45</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>60</min>
+		<min>30</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -458,10 +458,10 @@
 		<usage name="Industrial" />
 	</type>
 	<type name="CCS_Hashima_Tool_Weapon_Cleaning_Kit">
-		<nominal>50</nominal>
+		<nominal>30</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>20</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>

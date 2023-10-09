@@ -6,7 +6,7 @@
 	╚══════════╝
 -->
 	<type name="AliceBag_Black">
-		<nominal>5</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
 		<min>1</min>
@@ -16,9 +16,12 @@
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
 	</type>
 	<type name="AliceBag_Camo">
-		<nominal>5</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
 		<min>1</min>
@@ -28,9 +31,12 @@
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
 	</type>
 	<type name="AliceBag_Green">
-		<nominal>5</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
 		<min>1</min>
@@ -40,6 +46,9 @@
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
 	</type>
 	<type name="AssaultBag_Black">
 		<nominal>5</nominal>
@@ -78,10 +87,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BurlapSack">
-		<nominal>100</nominal>
+		<nominal>80</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>80</min>
+		<min>60</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>

@@ -13,11 +13,13 @@
     <event name="InfectedArmyHard" />
     <event name="InfectedCity" />
     <event name="InfectedCityTier1" />
+    <event name="InfectedCityTier2" />
+    <event name="InfectedCityTier3" />
     <event name="InfectedFirefighter" />
     <event name="InfectedIndustrial" />
     <event name="InfectedMedic" />
     <event name="InfectedNBC" />
-    <event name="InfectedNBCYellow" />
+    <event name="InfectedNBCSpecialForce" />
     <event name="InfectedPolice" />
     <event name="InfectedPoliceHard" />
     <event name="InfectedPrisoner" />
@@ -29,7 +31,7 @@
 	<event name="Loot" />
 
 	<event name="StaticHeliCrash">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="-1" />
+        <zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="893" z="1896" a="-1" />
 		<pos x="2625" z="2513" a="-1" />
 		<pos x="3391" z="2512" a="-1" />

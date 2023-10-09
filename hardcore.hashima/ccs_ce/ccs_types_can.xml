@@ -274,10 +274,10 @@
 	╚═══════════════════╝
 -->
 	<type name="CCS_Hashima_Can_Fruit_Apple">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -303,10 +303,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Fruits">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -332,10 +332,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Mandarin">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -361,10 +361,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Mango">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -390,10 +390,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Peach">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -419,10 +419,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Pear">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -448,10 +448,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Fruit_Pineapple">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -482,10 +482,10 @@
 	╚════════════════════╝
 -->
 	<type name="CCS_Hashima_Can_Noodle_1">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -511,10 +511,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Noodle_2">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -540,10 +540,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Noodle_3">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -569,10 +569,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Noodle_4">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -598,10 +598,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Noodle_5">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -925,10 +925,10 @@
 	╚═════════════════════╝
 -->
 	<type name="CCS_Hashima_Can_Sardine_1">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -954,10 +954,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_2">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -983,10 +983,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_3">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1012,10 +1012,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_4">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1041,10 +1041,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_5">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1070,10 +1070,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_6">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1099,10 +1099,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_7">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1128,10 +1128,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_8">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1157,10 +1157,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_9">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1186,10 +1186,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_10">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1215,10 +1215,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_11">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1244,10 +1244,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_12">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1273,10 +1273,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_13">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1302,10 +1302,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_14">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1331,10 +1331,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_15">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1360,10 +1360,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_16">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1389,10 +1389,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_17">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1418,10 +1418,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_18">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1447,10 +1447,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_19">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1476,10 +1476,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_20">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1505,10 +1505,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_21">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1534,10 +1534,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_22">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1563,10 +1563,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_23">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1592,10 +1592,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Sardine_24">
-		<nominal>2</nominal>
+		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1621,10 +1621,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Unknown">
-		<nominal>43</nominal>
+		<nominal>37</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>37</min>
+		<min>27</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1653,10 +1653,10 @@
 	╚═════════════════════╝
 -->
 	<type name="CCS_Hashima_Can_Mizkan">
-		<nominal>2</nominal>
+		<nominal>10</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>8</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1681,10 +1681,10 @@
 		<category name="food" />
 	</type>
 	<type name="CCS_Hashima_Can_Natto">
-		<nominal>2</nominal>
+		<nominal>10</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>12</min>
+		<min>8</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>

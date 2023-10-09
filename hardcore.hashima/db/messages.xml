@@ -11,10 +11,6 @@
 		<text>Hello, #name will shutdown in #tmin minutes.</text>
 	</message>
 	<message>
-		<repeat>15</repeat>
-		<text>You're playing on #name.</text>
-	</message>
-	<message>
 		<delay>10</delay>
 		<repeat>50</repeat>
 		<onconnect>1</onconnect>

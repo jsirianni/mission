@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <economycore>
-	<ce folder="db">
-	<!--
-		╔══════════════╗
-		║ CCS - Events ║
-		╚══════════════╝
-	-->
-		<file name="events/css/ccs_events_zombie.xml" type="events" />
-	<!--
-		╔═════════════╗
-		║ DZ - Events ║
-		╚═════════════╝
-	-->
-		<file name="events/dz/dz_events_animal.xml" type="events" />
-		<file name="events/dz/dz_events_misc.xml" type="events" />
-	<!--
-		╔══════════════════════╗
-		║ CCS - SpawnableTypes ║
-		╚══════════════════════╝
-	-->
-		<file name="spawnabletypes/ccs/ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
-		<file name="spawnabletypes/ccs/ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
-	<!--
-		╔═════════════════════╗
-		║ DZ - SpawnableTypes ║
-		╚═════════════════════╝
-	-->
-		<file name="spawnabletypes/dz/dz_spawnabletypes_misc.xml" type="spawnabletypes" />
-	<!--
-		╔═════════════╗
-		║ CCS - Types ║
-		╚═════════════╝
-	-->
-		<file name="types/ccs/ccs_types_ammo.xml" type="types" />
-		<file name="types/ccs/ccs_types_bag.xml" type="types" />
-		<file name="types/ccs/ccs_types_beer.xml" type="types" />
-		<file name="types/ccs/ccs_types_can.xml" type="types" />
-		<file name="types/ccs/ccs_types_candy.xml" type="types" />
-		<file name="types/ccs/ccs_types_clothing.xml" type="types" />
-		<file name="types/ccs/ccs_types_collectable.xml" type="types" />
-		<file name="types/ccs/ccs_types_drink.xml" type="types" />
-		<file name="types/ccs/ccs_types_jar.xml" type="types" />
-		<file name="types/ccs/ccs_types_medical.xml" type="types" />
-		<file name="types/ccs/ccs_types_snack.xml" type="types" />
-		<file name="types/ccs/ccs_types_tool.xml" type="types" />
-		<file name="types/ccs/ccs_types_weapon.xml" type="types" />
-		<file name="types/ccs/ccs_types_zombie.xml" type="types" />
-	<!--
-		╔════════════╗
-		║ DZ - Types ║
-		╚════════════╝
-	-->
-		<file name="types/dz/dz_types_animal.xml" type="types" />
-		<file name="types/dz/dz_types_bag.xml" type="types" />
-		<file name="types/dz/dz_types_clothing.xml" type="types" />
-		<file name="types/dz/dz_types_event.xml" type="types" />
-		<file name="types/dz/dz_types_food.xml" type="types" />
-		<file name="types/dz/dz_types_tool.xml" type="types" />
-		<file name="types/dz/dz_types_weapon.xml" type="types" />
+	<ce folder="ccs_ce">
+		<!--
+			╔═════════════╗
+			║ CCS - Types ║
+			╚═════════════╝
+		-->
+		<file name="ccs_types_ammo.xml" type="types" />
+		<file name="ccs_types_bag.xml" type="types" />
+		<file name="ccs_types_beer.xml" type="types" />
+		<file name="ccs_types_can.xml" type="types" />
+		<file name="ccs_types_candy.xml" type="types" />
+		<file name="ccs_types_clothing.xml" type="types" />
+		<file name="ccs_types_collectable.xml" type="types" />
+		<file name="ccs_types_drink.xml" type="types" />
+		<file name="ccs_types_jar.xml" type="types" />
+		<file name="ccs_types_medical.xml" type="types" />
+		<file name="ccs_types_snack.xml" type="types" />
+		<file name="ccs_types_tool.xml" type="types" />
+		<file name="ccs_types_weapon.xml" type="types" />
+		<file name="ccs_types_zombie.xml" type="types" />
+		<!--
+			╔══════════════╗
+			║ CCS - Events ║
+			╚══════════════╝
+		-->
+		<file name="ccs_events_zombie.xml" type="events" />
+
+		<!--
+			╔══════════════════════╗
+			║ CCS - SpawnableTypes ║
+			╚══════════════════════╝
+		-->
+		<file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+		<file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
 	</ce>
+	
+	<ce folder="dz_ce">
+		<!--
+			╔════════════╗
+			║ DZ - Types ║
+			╚════════════╝
+		-->
+		<file name="dz_types_animal.xml" type="types" />
+		<file name="dz_types_bag.xml" type="types" />
+		<file name="dz_types_clothing.xml" type="types" />
+		<file name="dz_types_event.xml" type="types" />
+		<file name="dz_types_food.xml" type="types" />
+		<file name="dz_types_tool.xml" type="types" />
+		<file name="dz_types_weapon.xml" type="types" />
+	
+		<!--
+			╔═════════════════════╗
+			║ DZ - SpawnableTypes ║
+			╚═════════════════════╝
+		-->
+		<file name="dz_spawnabletypes_misc.xml" type="spawnabletypes" />
+
+		<!--
+			╔═════════════╗
+			║ DZ - Events ║
+			╚═════════════╝
+		-->
+		<file name="dz_events_animal.xml" type="events" />
+		<file name="dz_events_misc.xml" type="events" />
+	</ce>
+	
 	<!--
 		╔════════════╗
 		║ DZ - Class ║

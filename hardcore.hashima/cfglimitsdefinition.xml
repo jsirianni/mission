@@ -33,6 +33,7 @@
 		<usage name="Town" />
         <usage name="Underground" />
 		<usage name="Village" />
+		<usage name="Labs" />
 	</usageflags>
 	<valueflags>
 		<value name="Tier1" />

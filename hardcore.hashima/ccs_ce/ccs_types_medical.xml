@@ -13,7 +13,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools" />
 		<tag name="shelves" />
 		<usage name="Medic" />
@@ -107,10 +107,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Medical_Disinfectant_Alcohol">
-		<nominal>80</nominal>
+		<nominal>30</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>60</min>
+		<min>20</min>
 		<quantmin>10</quantmin>
 		<quantmax>50</quantmax>
 		<cost>100</cost>
@@ -162,10 +162,10 @@
 		<usage name="Medic" />
 	</type>
 	<type name="CCS_Hashima_Medical_Heat_Pack_1">
-		<nominal>50</nominal>
+		<nominal>30</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>20</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -175,10 +175,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="CCS_Hashima_Medical_Heat_Pack_2">
-		<nominal>50</nominal>
+		<nominal>30</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>20</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -264,10 +264,10 @@
 		<usage name="Medic" />
 	</type>
 	<type name="CCS_Hashima_Medical_Thermometer_1">
-		<nominal>40</nominal>
+		<nominal>20</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -278,10 +278,10 @@
 		<usage name="Village" />
 	</type>
 	<type name="CCS_Hashima_Medical_Thermometer_2">
-		<nominal>40</nominal>
+		<nominal>20</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>30</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
