@@ -5,21 +5,21 @@
 			"Type": "ContaminatedArea_Static",
 			"TriggerType": "ContaminatedTrigger",
 			"Data": {
-				"Pos": [558.000000, 1.000000, 4558.000000],
+				"Pos": [558.000000, 10.000000, 4558.000000],
 				"Radius": 273,
-				"PosHeight": 25,
-				"NegHeight": 6,
-				"InnerRingCount": 4,
-				"InnerPartDist": 10,
+				"PosHeight": 120,
+				"NegHeight": 10,
+				"InnerRingCount": 3,
+				"InnerPartDist": 25,
 				"OuterRingToggle": true,
-				"OuterPartDist": 10,
+				"OuterPartDist": 50,
 				"OuterOffset": 0,
-				"VerticalLayers": 1,
+				"VerticalLayers": 5,
 				"VerticalOffset": 0,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 			},
 			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}

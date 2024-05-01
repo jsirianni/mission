@@ -43,19 +43,19 @@ class CustomMission : MissionServer
 		super.OnInit();
 
 		// Hashima Events
-		if ( m_EventManager )
-		{
-			// min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
-		 	//m_EventManager.Run( 120, 180, 1 );
-		 	m_EventManager.Run( 400, 650, 1 );
-			// registering events and their probability
-		 	m_EventManager.RegisterEvent( LXDTropicalStorm, 0.30 );
-		 	m_EventManager.RegisterEvent( LXDRainShower, 0.15 );
-		 	m_EventManager.RegisterEvent( LXDCloudySkies, 0.15 );
-		 	m_EventManager.RegisterEvent( LXDHeavyFog, 0.15 );
-		 	m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
-		 	m_EventManager.RegisterEvent( LXDTremors, 0.40 );
-		}
+		// if ( m_EventManager )
+		// {
+		// 	// min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
+		//  	//m_EventManager.Run( 120, 180, 1 );
+		//  	m_EventManager.Run( 400, 650, 1 );
+		// 	// registering events and their probability
+		//  	m_EventManager.RegisterEvent( LXDTropicalStorm, 0.30 );
+		//  	m_EventManager.RegisterEvent( LXDRainShower, 0.15 );
+		//  	m_EventManager.RegisterEvent( LXDCloudySkies, 0.15 );
+		//  	m_EventManager.RegisterEvent( LXDHeavyFog, 0.15 );
+		//  	m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
+		//  	m_EventManager.RegisterEvent( LXDTremors, 0.40 );
+		// }
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
