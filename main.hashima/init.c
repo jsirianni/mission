@@ -7,8 +7,8 @@ void main()
 	};
 
 	// Uncomment following 2 lines ONLY when you want to export (it will mess your loot up otherwise!!)
-	//GetCEApi().ExportProxyData("2560 0 2560", 5120);    // standard map groups (buildings) export, terrain center and radius needs to be specified
-	//GetCEApi().ExportClusterData();                     // cluster-type map groups export (fruit, trees, etc.)
+	//GetCEApi().ExportProxyData("2560 0 2560", 5120);	// standard map groups (buildings) export, terrain center and radius needs to be specified
+	//GetCEApi().ExportClusterData(); // cluster-type map groups export (fruit, trees, etc.)
 
 	int year, month, day, hour, minute;
 	int reset_month = 9, reset_day = 20;
@@ -37,26 +37,25 @@ void main()
 
 class CustomMission : MissionServer
 {
-
 	override void OnInit()
 	{
 		super.OnInit();
 
 		// Hashima Events
-		// if ( m_EventManager )
-		// {
-		// 	// min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
-		//  	//m_EventManager.Run( 120, 180, 1 );
-		//  	m_EventManager.Run( 400, 650, 1 );
-		// 	// registering events and their probability
-		//  	m_EventManager.RegisterEvent( LXDTropicalStorm, 0.30 );
-		//  	m_EventManager.RegisterEvent( LXDRainShower, 0.15 );
-		//  	m_EventManager.RegisterEvent( LXDCloudySkies, 0.15 );
-		//  	m_EventManager.RegisterEvent( LXDHeavyFog, 0.15 );
-		//  	m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
-		//  	m_EventManager.RegisterEvent( LXDTremors, 0.40 );
-		// }
-	}
+		if ( m_EventManager )
+		{
+			// min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
+		 	m_EventManager.Run( 120, 180, 1 );
+		 	// m_EventManager.Run( 400, 650, 1 );
+			// registering events and their probability
+		 	m_EventManager.RegisterEvent( LXDTropicalStorm, 0.15 );
+		 	m_EventManager.RegisterEvent( LXDRainShower, 0.17 );
+		 	m_EventManager.RegisterEvent( LXDCloudySkies, 0.25 );
+		 	m_EventManager.RegisterEvent( LXDHeavyFog, 0.18 );
+		 	m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
+		 	m_EventManager.RegisterEvent( LXDTremors, 0.35 );
+		}
+	};
 
 	void SetRandomHealth(EntityAI itemEnt)
 	{
@@ -100,7 +99,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("AthleticShoes_Black");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Black");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
@@ -108,7 +107,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -129,7 +128,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("AthleticShoes_Brown");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Gray");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
@@ -137,7 +136,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -158,7 +157,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("Sneakers_Gray");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_White");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
@@ -166,7 +165,7 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -187,15 +186,15 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("AthleticShoes_Black");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Black");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
-			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Bar_3");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Bar_4");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -216,15 +215,15 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("Sneakers_Black");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Red");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
-			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Doritos");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Bar_1");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -249,11 +248,11 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
-			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Doritos");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Bar_2");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
@@ -274,15 +273,15 @@ class CustomMission : MissionServer
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Shoes
-			player.GetInventory().CreateInInventory("Sneakers_Black");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Green");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Food
-			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Kurakon");
+			player.GetInventory().CreateInInventory("CCS_Hashima_Snack_Bar_3");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Medical
-			player.GetInventory().CreateInInventory("CCS_Hashima_Medical_Bandage");
+			player.GetInventory().CreateInInventory("CCS_Toilet_Paper");
 			itemBs = ItemBase.Cast(itemEnt);
 
 			// Tool
