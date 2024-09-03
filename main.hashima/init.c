@@ -6,9 +6,8 @@ void main()
 		ce.InitOffline();
 	};
 
-	// Uncomment following 2 lines ONLY when you want to export (it will mess your loot up otherwise!!)
-	//GetCEApi().ExportProxyData("2560 0 2560", 5120);	// standard map groups (buildings) export, terrain center and radius needs to be specified
-	//GetCEApi().ExportClusterData(); // cluster-type map groups export (fruit, trees, etc.)
+	//GetCEApi().ExportProxyData("2560 0 2560", 5120);
+	//GetCEApi().ExportClusterData();
 
 	int year, month, day, hour, minute;
 	int reset_month = 9, reset_day = 20;
@@ -41,13 +40,14 @@ class CustomMission : MissionServer
 	{
 		super.OnInit();
 
-		// Hashima Events
+		// LXD Weather System
 		if ( m_EventManager )
 		{
-			// min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
+			// Min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
 		 	m_EventManager.Run( 120, 180, 1 );
 		 	// m_EventManager.Run( 400, 650, 1 );
-			// registering events and their probability
+
+			// Registering events and their probability
 		 	m_EventManager.RegisterEvent( LXDTropicalStorm, 0.15 );
 		 	m_EventManager.RegisterEvent( LXDRainShower, 0.17 );
 		 	m_EventManager.RegisterEvent( LXDCloudySkies, 0.25 );
