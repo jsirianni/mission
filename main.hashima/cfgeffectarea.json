@@ -1,29 +1,29 @@
 {
 	"Areas": [
 		{
-			"AreaName": "AwayGas",
-			"Type": "ContaminatedArea_Static",
-			"TriggerType": "ContaminatedTrigger",
-			"Data": {
-				"Pos": [558.000000, 10.000000, 4558.000000],
-				"Radius": 273,
-				"PosHeight": 120,
-				"NegHeight": 10,
-				"InnerRingCount": 3,
-				"InnerPartDist": 25,
-				"OuterRingToggle": true,
-				"OuterPartDist": 50,
-				"OuterOffset": 0,
-				"VerticalLayers": 1,
-				"VerticalOffset": 0,
-				"ParticleName": ""
-			},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
+            "AreaName": "AwayGas",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [558.000000, 10.000000, 4558.000000],
+                "Radius": 273,
+                "PosHeight": 120,
+                "NegHeight": 10,
+                "InnerRingCount": 3,
+                "InnerPartDist": 25,
+                "OuterRingToggle": true,
+                "OuterPartDist": 50,
+                "OuterOffset": 0,
+                "VerticalLayers": 1,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
 		{
 			"AreaName": "AwayBallBlueBeam",
 			"Type": "ContaminatedArea_Static",

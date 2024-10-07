@@ -1,14 +1,16 @@
 {
-	"version": 125,
+	"version": 122,
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
-		"disableRespawnDialog": false
+		"disableRespawnDialog": false,
+		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
 		"disablePersonalLight": true,
+		"spawnGearPresetFiles": [],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -66,22 +68,23 @@
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": false,
-			"disableIsCollidingPlayerCheck": false,
-			"disableIsClippingRoofCheck": false,
-			"disableIsBaseViableCheck": false,
-			"disableIsCollidingGPlotCheck": false,
-			"disableIsCollidingAngleCheck": false,
-			"disableIsPlacementPermittedCheck": false,
-			"disableHeightPlacementCheck": false,
-			"disableIsUnderwaterCheck": false,
-			"disableIsInTerrainCheck": false
+			"disableIsCollidingBBoxCheck": 1,
+			"disableIsCollidingPlayerCheck": 1,
+			"disableIsClippingRoofCheck": 1,
+			"disableIsBaseViableCheck": 1,
+			"disableIsCollidingGPlotCheck": 1,
+			"disableIsCollidingAngleCheck": 1,
+			"disableIsPlacementPermittedCheck": 1,
+			"disableHeightPlacementCheck": 1,
+			"disableIsUnderwaterCheck": 1,
+			"disableIsInTerrainCheck": 1,
+			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
 		{
-			"disablePerformRoofCheck": false,
-			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disablePerformRoofCheck": 1,
+			"disableIsCollidingCheck": 1,
+			"disableDistanceCheck": 1
 		}
 	},
 	"UIData":

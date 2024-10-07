@@ -7,7 +7,7 @@
 		<category name="explosives" />
 		<category name="food" />
 		<category name="tools" />
-		<category name="vehiclesparts" />
+		<category name="lootdispatch" />
 		<category name="weapons" />
 	</categories>
 	<tags>

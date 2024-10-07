@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!--
+	╔═══════════════════════════╗
+	║ SpawnableTypes - Clothing ║
+	╚═══════════════════════════╝
+--> 
+    <type name="CCS_Hashima_Clothing_Firefighter_Jacket_Black">
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Firefighter_Pants_Black">
+        <cargo preset="toolsPolice" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_LabCoat_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_LabCoat_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Green">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Purple">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Nurse_Dress_Red">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Paramedic_Jacket_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Paramedic_Pants_Black">
+        <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Police_Jacket_Black">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Pants_Black">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+<!--
+    ╔═══════════════════════╗
+    ║ SpawnableTypes - Bags ║
+    ╚═══════════════════════╝
+-->
+    <type name="CCS_Hashima_Bag_ChildBag_Blue">
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_ChildBag_Green">
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_ChildBag_Red">
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Black">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Orange">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_Drybag_Yellow">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Pink">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_HikingBag_Yellow">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Orange">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+</spawnabletypes>

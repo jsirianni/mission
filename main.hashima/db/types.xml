@@ -4,29 +4,29 @@
 	╔══════════════════════════════════════════════════════╗
 	║ INDEX ██████████████████████████████████████████████ ║
 	╠═══════════════════╦══════════════════════════════════╣
-	║ CCS - Ammo        ║ ce_ccs/ccs_types_ammo.xml        ║
-	║ CCS - Bag         ║ ce_ccs/ccs_types_bag.xml         ║
-	║ CCS - Beer        ║ ce_ccs/ccs_types_beer.xml        ║
-	║ CCS - Can         ║ ce_ccs/ccs_types_can.xml         ║
-	║ CCS - Candy       ║ ce_ccs/ccs_types_candy.xml       ║
-	║ CCS - Clothing    ║ ce_ccs/ccs_types_clothing.xml    ║
-	║ CCS - Collectable ║ ce_ccs/ccs_types_collectable.xml ║
-	║ CCS - Drink       ║ ce_ccs/ccs_types_drink.xml       ║
-	║ CCS - Jar         ║ ce_ccs/ccs_types_jar.xml         ║
-	║ CCS - Medical     ║ ce_ccs/ccs_types_medical.xml     ║
-	║ CCS - Snack       ║ ce_ccs/ccs_types_snack.xml       ║
-	║ CCS - Tool        ║ ce_ccs/ccs_types_tool.xml        ║
-	║ CCS - Weapon      ║ ce_ccs/ccs_types_weapon.xml      ║
-	║ CCS - Zombie      ║ ce_ccs/ccs_types_zombie.xml      ║
+	║ CCS - Ammo        ║ ccs_ce/ccs_types_ammo.xml        ║
+	║ CCS - Bag         ║ ccs_ce/ccs_types_bag.xml         ║
+	║ CCS - Beer        ║ ccs_ce/ccs_types_beer.xml        ║
+	║ CCS - Can         ║ ccs_ce/ccs_types_can.xml         ║
+	║ CCS - Candy       ║ ccs_ce/ccs_types_candy.xml       ║
+	║ CCS - Clothing    ║ ccs_ce/ccs_types_clothing.xml    ║
+	║ CCS - Collectable ║ ccs_ce/ccs_types_collectable.xml ║
+	║ CCS - Drink       ║ ccs_ce/ccs_types_drink.xml       ║
+	║ CCS - Jar         ║ ccs_ce/ccs_types_jar.xml         ║
+	║ CCS - Medical     ║ ccs_ce/ccs_types_medical.xml     ║
+	║ CCS - Snack       ║ ccs_ce/ccs_types_snack.xml       ║
+	║ CCS - Tool        ║ ccs_ce/ccs_types_tool.xml        ║
+	║ CCS - Weapon      ║ ccs_ce/ccs_types_weapon.xml      ║
+	║ CCS - Zombie      ║ ccs_ce/ccs_types_zombie.xml      ║
 	╠═══════════════════╬══════════════════════════════════╣
-	║ DZ - Animal       ║ ce_dz/dz_types_animal.xml        ║
-	║ DZ - Bag          ║ ce_dz/dz_types_bag.xml           ║
-	║ DZ - Clothing     ║ ce_dz/dz_types_clothing.xml      ║
-	║ DZ - Event        ║ ce_dz/dz_types_event.xml         ║
-	║ DZ - Food         ║ ce_dz/dz_types_food.xml          ║
-	║ DZ - Medical      ║ ce_dz/dz_types_medical.xml       ║
-	║ DZ - Tool         ║ ce_dz/dz_types_tool.xml          ║
-	║ DZ - Weapon       ║ ce_dz/dz_types_weapon.xml        ║
+	║ DZ - Animal       ║ dz_ce/dz_types_animal.xml        ║
+	║ DZ - Bag          ║ dz_ce/dz_types_bag.xml           ║
+	║ DZ - Clothing     ║ dz_ce/dz_types_clothing.xml      ║
+	║ DZ - Event        ║ dz_ce/dz_types_event.xml         ║
+	║ DZ - Food         ║ dz_ce/dz_types_food.xml          ║
+	║ DZ - Medical      ║ dz_ce/dz_types_medical.xml       ║
+	║ DZ - Tool         ║ dz_ce/dz_types_tool.xml          ║
+	║ DZ - Weapon       ║ dz_ce/dz_types_weapon.xml        ║
 	╚═══════════════════╩══════════════════════════════════╝
 -->
 </types>

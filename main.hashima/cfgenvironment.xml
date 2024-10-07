@@ -25,7 +25,7 @@
 		╚═════╝
 	-->
 		<file path="env/hen_territories.xml" />
-		<territory type="Ambient" name="Hen" behavior="DZAmbientLifeGroupBeh">
+		<territory type="Herd" name="Hen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_GallusGallusDomesticus" chance="1" />

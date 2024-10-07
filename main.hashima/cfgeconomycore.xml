@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <economycore>
-	<ce folder="ce_ccs">
+	<ce folder="ccs_ce">
 		<!--
 			╔═════════════╗
 			║ CCS - Types ║
@@ -33,10 +33,12 @@
 			╚══════════════════════╝
 		-->
 		<file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+		<file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
+		<file name="ccs_spawnabletypes_misc.xml" type="spawnabletypes" />
 		<file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
 	</ce>
-
-	<ce folder="ce_dz">
+	
+	<ce folder="dz_ce">
 		<!--
 			╔════════════╗
 			║ DZ - Types ║
@@ -47,9 +49,10 @@
 		<file name="dz_types_clothing.xml" type="types" />
 		<file name="dz_types_event.xml" type="types" />
 		<file name="dz_types_food.xml" type="types" />
+		<file name="dz_types_misc.xml" type="types" />
 		<file name="dz_types_tool.xml" type="types" />
 		<file name="dz_types_weapon.xml" type="types" />
-
+	
 		<!--
 			╔═════════════════════╗
 			║ DZ - SpawnableTypes ║
@@ -65,7 +68,7 @@
 		<file name="dz_events_animal.xml" type="events" />
 		<file name="dz_events_misc.xml" type="events" />
 	</ce>
-
+	
 	<!--
 		╔════════════╗
 		║ DZ - Class ║
