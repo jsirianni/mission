@@ -47,7 +47,7 @@ class CustomMission : MissionServer
 		 	//m_EventManager.Run( 120, 180, 1 );
 		 	m_EventManager.Run( 400, 650, 1 );
 
-			m_EventManager.RegisterEvent( LXDStorm, 0.15 );
+			//m_EventManager.RegisterEvent( LXDStorm, 0.15 );
             m_EventManager.RegisterEvent( LXDRainShower, 0.20 );
             m_EventManager.RegisterEvent( LXDCloudySkies, 0.35 );
             m_EventManager.RegisterEvent( LXDHeavyFog, 0.18 );
