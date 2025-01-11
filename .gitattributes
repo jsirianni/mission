@@ -1,2 +1,2 @@
 ce.hashima/map/hashima.map filter=lfs diff=lfs merge=lfs -text
-hardcore.hashima/areaflags.map filter=lfs diff=lfs merge=lfs -text
+main.hashima/areaflags.map filter=lfs diff=lfs merge=lfs -text

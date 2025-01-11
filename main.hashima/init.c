@@ -48,11 +48,11 @@ class CustomMission : MissionServer
 		 	m_EventManager.Run( 400, 650, 1 );
 
 			//m_EventManager.RegisterEvent( LXDStorm, 0.15 );
-            m_EventManager.RegisterEvent( LXDRainShower, 0.20 );
-            m_EventManager.RegisterEvent( LXDCloudySkies, 0.35 );
-            m_EventManager.RegisterEvent( LXDHeavyFog, 0.18 );
-            m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
-            m_EventManager.RegisterEvent( LXDTremors, 0.30 );
+			m_EventManager.RegisterEvent( LXDRainShower, 0.20 );
+			m_EventManager.RegisterEvent( LXDCloudySkies, 0.35 );
+			m_EventManager.RegisterEvent( LXDHeavyFog, 0.18 );
+			m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
+			m_EventManager.RegisterEvent( LXDTremors, 0.30 );
 		}
 	};
 
@@ -298,12 +298,12 @@ class CustomMission : MissionServer
 	};
 
 	// ------------------------------------------------------------
-    // SPAWNING
-    // ------------------------------------------------------------
+	// SPAWNING
+	// ------------------------------------------------------------
 
-    static const ref array<vector> SPAWN_POSITIONS = 
-    {
-        "621.717 5.05475 952.71",
+	static const ref array<vector> SPAWN_POSITIONS =
+	{
+		"621.717 5.05475 952.71",
 		"522.687 4.28336 990.848",
 		"750.417 23.8078 1226.03",
 		"945.158 94.2327 895.05",
@@ -315,37 +315,36 @@ class CustomMission : MissionServer
 		"700.515 43.1604 836.105",
 		"730.377 18.7271 1182.48",
 		"792.554 16.3638 1221.54"
-    };
+	};
 
-    override PlayerBase OnClientNewEvent(PlayerIdentity identity, vector pos, ParamsReadContext ctx)
-    {
-        string characterType;
-        vector pos1 = SPAWN_POSITIONS.GetRandomElement();
-        
-        
-        SyncRespawnModeInfo(identity);
-        // get login data for new character
-        if ( ProcessLoginData(ctx) && (m_RespawnMode == GameConstants.RESPAWN_MODE_CUSTOM) && !GetGame().GetMenuDefaultCharacterData(false).IsRandomCharacterForced() )
-        {
-            if (GetGame().ListAvailableCharacters().Find(GetGame().GetMenuDefaultCharacterData().GetCharacterType()) > -1)
-                characterType = GetGame().GetMenuDefaultCharacterData().GetCharacterType();
-            else //random type
-                characterType = GetGame().CreateRandomPlayer();
-        }
-        else
-        {
-            characterType = GetGame().CreateRandomPlayer();
-            GetGame().GetMenuDefaultCharacterData().GenerateRandomEquip();
-        }
-        
-        if (CreateCharacter(identity, pos1, ctx, characterType))
-        {
-            EquipCharacter(GetGame().GetMenuDefaultCharacterData());
-            m_player.SetPosition(pos1);
-        }
-        
-        return m_player;
-    }
+	override PlayerBase OnClientNewEvent(PlayerIdentity identity, vector pos, ParamsReadContext ctx)
+	{
+		string characterType;
+		vector pos1 = SPAWN_POSITIONS.GetRandomElement();
+
+		SyncRespawnModeInfo(identity);
+		// get login data for new character
+		if ( ProcessLoginData(ctx) && (m_RespawnMode == GameConstants.RESPAWN_MODE_CUSTOM) && !GetGame().GetMenuDefaultCharacterData(false).IsRandomCharacterForced() )
+		{
+			if (GetGame().ListAvailableCharacters().Find(GetGame().GetMenuDefaultCharacterData().GetCharacterType()) > -1)
+				characterType = GetGame().GetMenuDefaultCharacterData().GetCharacterType();
+			else //random type
+				characterType = GetGame().CreateRandomPlayer();
+		}
+		else
+		{
+			characterType = GetGame().CreateRandomPlayer();
+			GetGame().GetMenuDefaultCharacterData().GenerateRandomEquip();
+		}
+
+		if (CreateCharacter(identity, pos1, ctx, characterType))
+		{
+			EquipCharacter(GetGame().GetMenuDefaultCharacterData());
+			m_player.SetPosition(pos1);
+		}
+
+		return m_player;
+	}
 };
 
 Mission CreateCustomMission(string path)
