@@ -15,8 +15,8 @@
     <group name="QuercusRobur_2d" pos="391.639923 56.517052 4497.831055" a="-36.466103" />
     <group name="QuercusRobur_2d" pos="372.671875 54.607185 4487.230957" a="-48.326340" />
     <group name="QuercusRobur_fallenB" pos="393.331940 46.517338 4487.956055" a="-92.673401" />
-    <group name="PiceaAbies_2d" pos="383.796875 52.690758 4505.527344" a="84.069908" />
     <group name="PiceaAbies_2d" pos="372.959351 52.690758 4504.075195" a="-36.466103" />
+    <group name="PiceaAbies_2d" pos="383.796875 52.690758 4505.527344" a="84.069908" />
     <group name="QuercusRobur_2d" pos="384.104431 61.292587 4550.182617" a="46.813290" />
     <group name="QuercusRobur_2d" pos="369.265625 51.769524 4528.728516" a="-57.866070" />
     <group name="FagusSylvatica_stumpB" pos="380.703125 47.192780 4559.638672" a="56.481960" />
@@ -91,8 +91,8 @@
     <group name="QuercusRobur_2d" pos="458.453125 51.769524 4414.118164" a="-57.866070" />
     <group name="FagusSylvatica_fallen" pos="470.896973 46.263657 4407.564941" a="177.214722" />
     <group name="FagusSylvatica_stumpB" pos="461.574860 47.192780 4401.293457" a="56.481960" />
-    <group name="QuercusRobur_2d" pos="472.028442 123.284210 4456.122070" a="45.069462" />
     <group name="QuercusRobur_2d" pos="454.084351 62.258644 4459.082031" a="46.813290" />
+    <group name="QuercusRobur_2d" pos="472.028442 123.284210 4456.122070" a="45.069462" />
     <group name="FagusSylvatica_3d" pos="470.322388 60.276760 4466.431641" a="46.813290" />
     <group name="FagusSylvatica_3d" pos="452.126556 117.324257 4472.926758" a="-147.530289" />
     <group name="FagusSylvatica_3d" pos="466.170837 59.005215 4444.940430" a="119.521622" />
@@ -114,8 +114,8 @@
     <group name="QuercusRobur_2d" pos="461.755005 104.388245 4613.899902" a="-161.778931" />
     <group name="QuercusRobur_2d" pos="450.127838 54.607185 4639.944336" a="-48.326340" />
     <group name="FagusSylvatica_3d" pos="443.817200 57.091431 4618.955078" a="119.521622" />
-    <group name="FagusSylvatica_fallen" pos="445.775391 46.263657 4601.431152" a="-35.624767" />
     <group name="FagusSylvatica_fallen" pos="464.937500 46.263657 4637.964355" a="-35.624767" />
+    <group name="FagusSylvatica_fallen" pos="445.775391 46.263657 4601.431152" a="-35.624767" />
     <group name="PinusSylvestris_stump" pos="472.781250 51.672375 4607.687012" a="87.292740" />
     <group name="QuercusRobur_2d" pos="466.442505 123.284210 4656.770020" a="45.069462" />
     <group name="QuercusRobur_2d" pos="445.916901 55.406902 4662.454590" a="67.181854" />
@@ -187,8 +187,8 @@
     <group name="QuercusRobur_2d" pos="542.201599 123.284210 4421.396973" a="45.069462" />
     <group name="FagusSylvatica_3d" pos="556.608337 115.966492 4421.179688" a="-102.667702" />
     <group name="FagusSylvatica_3d" pos="550.344238 59.513927 4402.898438" a="119.521584" />
-    <group name="FagusSylvatica_3d" pos="526.426819 57.091431 4431.490234" a="119.521622" />
     <group name="FagusSylvatica_3d" pos="522.458008 57.091431 4407.866211" a="119.521622" />
+    <group name="FagusSylvatica_3d" pos="526.426819 57.091431 4431.490234" a="119.521622" />
     <group name="QuercusRobur_2d" pos="553.234375 51.769524 4434.866211" a="-57.866070" />
     <group name="QuercusRobur_fallenB" pos="538.171875 46.517338 4435.254883" a="111.786728" />
     <group name="FagusSylvatica_3d" pos="541.735657 97.716766 4456.648438" a="-73.790619" />
@@ -247,8 +247,8 @@
     <group name="QuercusRobur_2d" pos="567.110474 63.480129 4367.110840" a="95.543282" />
     <group name="QuercusRobur_2d" pos="568.101318 56.517052 4399.949707" a="31.859104" />
     <group name="FagusSylvatica_3d" pos="592.606140 57.805496 4374.875000" a="119.521622" />
-    <group name="PiceaAbies_2d" pos="569.426697 52.690758 4392.219727" a="31.859104" />
     <group name="PiceaAbies_2d" pos="584.609375 52.690758 4397.416016" a="84.069908" />
+    <group name="PiceaAbies_2d" pos="569.426697 52.690758 4392.219727" a="31.859104" />
     <group name="FagusSylvatica_stumpB" pos="565.015625 47.192780 4367.725098" a="56.481960" />
     <group name="FagusSylvatica_fallen" pos="561.148132 46.263653 4428.184082" a="-132.250397" />
     <group name="PiceaAbies_2d" pos="577.562500 52.690758 4430.305664" a="84.069908" />
@@ -509,8 +509,8 @@
     <group name="PinusSylvestris_fallenB" pos="655.562500 51.180038 4520.419922" a="58.415340" />
     <group name="PinusSylvestris_stump" pos="647.975647 51.672375 4547.216797" a="87.292740" />
     <group name="FagusSylvatica_3d" pos="663.606567 97.004669 4575.930664" a="2.914098" />
-    <group name="PinusSylvestris_fallenB" pos="643.389893 51.180038 4582.440918" a="110.239365" />
     <group name="PinusSylvestris_fallenB" pos="661.515625 51.180038 4573.238770" a="58.415340" />
+    <group name="PinusSylvestris_fallenB" pos="643.389893 51.180038 4582.440918" a="110.239365" />
     <group name="FagusSylvatica_fallenB" pos="655.873413 51.120731 4599.532227" a="87.292740" />
     <group name="FagusSylvatica_stumpB" pos="655.375000 51.053204 4589.028320" a="49.391617" />
     <group name="QuercusRobur_2d" pos="671.975159 119.001747 4637.636719" a="-27.509974" />
@@ -1254,8 +1254,8 @@
     <group name="FagusSylvatica_stumpC" pos="894.421875 64.565422 1498.842041" a="20.476406" />
     <group name="FagusSylvatica_stumpC" pos="882.093811 69.877464 1506.293213" a="8.391047" />
     <group name="FagusSylvatica_fallenC" pos="904.906128 63.554569 1593.074707" a="-148.443588" />
-    <group name="FagusSylvatica_stumpC" pos="916.734375 58.916790 1592.477783" a="52.898041" />
     <group name="FagusSylvatica_stumpC" pos="905.749939 60.681553 1598.543701" a="81.408417" />
+    <group name="FagusSylvatica_stumpC" pos="916.734375 58.916790 1592.477783" a="52.898041" />
     <group name="FagusSylvatica_fallenC" pos="898.312744 51.467915 1637.204346" a="-133.875229" />
     <group name="FagusSylvatica_stumpC" pos="917.011902 31.623447 1669.390503" a="-80.249336" />
     <group name="FagusSylvatica_stumpC" pos="913.656311 35.472507 1658.320435" a="-3.551448" />
@@ -1595,9 +1595,9 @@
     <group name="FagusSylvatica_stumpC" pos="1032.031372 24.304745 1468.884644" a="-95.169235" />
     <group name="FagusSylvatica_stumpC" pos="1028.921875 23.746105 1443.059204" a="-129.821167" />
     <group name="FagusSylvatica_fallenC" pos="1027.218628 25.980619 1486.079224" a="115.631912" />
-    <group name="FagusSylvatica_stumpC" pos="1017.093872 25.789625 1509.595093" a="-32.841892" />
-    <group name="FagusSylvatica_stumpC" pos="1008.718750 26.878178 1516.055298" a="27.903370" />
     <group name="FagusSylvatica_stumpC" pos="1001.203003 26.948164 1491.495728" a="104.161781" />
+    <group name="FagusSylvatica_stumpC" pos="1008.718750 26.878178 1516.055298" a="27.903370" />
+    <group name="FagusSylvatica_stumpC" pos="1017.093872 25.789625 1509.595093" a="-32.841892" />
     <group name="FagusSylvatica_fallenC" pos="1016.875122 26.931286 1523.219727" a="-55.221714" />
     <group name="FagusSylvatica_fallenC" pos="1011.812378 25.901253 1545.955322" a="-149.926743" />
     <group name="FagusSylvatica_fallenC" pos="1000.750183 28.809462 1532.223389" a="7.709902" />
@@ -1963,8 +1963,8 @@
     <group name="FagusSylvatica_fallenC" pos="1112.843628 9.518344 2634.522705" a="-122.987465" />
     <group name="FagusSylvatica_stumpC" pos="1081.734375 15.505257 2620.197510" a="10.928967" />
     <group name="FagusSylvatica_stumpC" pos="1098.892212 4.995475 2648.909180" a="125.102325" />
-    <group name="FagusSylvatica_stumpC" pos="1110.924927 5.320029 2644.609619" a="12.950514" />
     <group name="FagusSylvatica_stumpC" pos="1113.781250 5.125911 2644.965088" a="-166.659454" />
+    <group name="FagusSylvatica_stumpC" pos="1110.924927 5.320029 2644.609619" a="12.950514" />
     <group name="FagusSylvatica_fallenC" pos="1128.484375 47.717140 999.690308" a="-91.642593" />
     <group name="FagusSylvatica_stumpC" pos="1130.453003 42.437794 984.804138" a="77.782806" />
     <group name="FagusSylvatica_stumpC" pos="1127.718750 40.777298 970.481689" a="56.194027" />
@@ -2619,8 +2619,8 @@
     <group name="FagusSylvatica_fallenC" pos="1318.544922 90.053848 1822.910156" a="-16.625576" />
     <group name="FagusSylvatica_fallenC" pos="1300.656250 89.689934 1806.870850" a="-16.625576" />
     <group name="FagusSylvatica_fallenC" pos="1303.718750 89.834267 1837.436401" a="62.950825" />
-    <group name="FagusSylvatica_stumpC" pos="1281.390503 88.842896 1809.145386" a="91.120628" />
     <group name="FagusSylvatica_stumpC" pos="1311.687622 89.421173 1834.618530" a="-42.114635" />
+    <group name="FagusSylvatica_stumpC" pos="1281.390503 88.842896 1809.145386" a="91.120628" />
     <group name="FagusSylvatica_fallenC" pos="1298.656250 90.638603 1841.917969" a="-103.299347" />
     <group name="FagusSylvatica_fallenC" pos="1290.046875 79.509598 1874.180298" a="-79.139671" />
     <group name="FagusSylvatica_stumpC" pos="1299.718872 80.273697 1869.868774" a="-74.734016" />
@@ -2635,8 +2635,8 @@
     <group name="FagusSylvatica_fallenC" pos="1313.952759 57.085144 2072.795410" a="169.038025" />
     <group name="FagusSylvatica_fallenC" pos="1313.984497 60.452656 2079.617188" a="52.799149" />
     <group name="FagusSylvatica_fallenC" pos="1302.968872 46.211525 2057.000977" a="-28.018757" />
-    <group name="FagusSylvatica_stumpC" pos="1297.671753 42.783653 2049.182617" a="176.058533" />
     <group name="FagusSylvatica_stumpC" pos="1282.968872 54.704678 2074.422119" a="-108.572960" />
+    <group name="FagusSylvatica_stumpC" pos="1297.671753 42.783653 2049.182617" a="176.058533" />
     <group name="FagusSylvatica_fallenC" pos="1284.062256 66.044876 2093.837646" a="133.935638" />
     <group name="FagusSylvatica_fallenC" pos="1281.234619 67.510399 2098.612305" a="5.545516" />
     <group name="FagusSylvatica_stumpC" pos="1319.388550 80.647400 2117.415527" a="-158.221649" />
@@ -3378,9 +3378,9 @@
     <group name="FagusSylvatica_stumpC" pos="1583.796875 49.934303 1908.674316" a="15.510422" />
     <group name="FagusSylvatica_stumpC" pos="1566.453247 41.991386 1930.043823" a="-13.604250" />
     <group name="FagusSylvatica_stumpC" pos="1563.296753 45.447430 1924.256958" a="127.673248" />
+    <group name="FagusSylvatica_stumpC" pos="1568.625122 19.714897 1966.655518" a="-83.523399" />
     <group name="FagusSylvatica_stumpC" pos="1591.750000 4.816978 1993.301392" a="48.085873" />
     <group name="FagusSylvatica_fallenC" pos="1586.171875 8.753645 1983.694214" a="-105.222061" />
-    <group name="FagusSylvatica_stumpC" pos="1568.625122 19.714897 1966.655518" a="-83.523399" />
     <group name="FagusSylvatica_fallenC" pos="1607.734619 31.786045 1315.123413" a="20.542305" />
     <group name="FagusSylvatica_stumpC" pos="1620.877197 11.500409 1285.533447" a="-73.064011" />
     <group name="FagusSylvatica_stumpC" pos="1633.127075 14.770868 1288.465820" a="44.888779" />
@@ -3482,8 +3482,8 @@
     <group name="FagusSylvatica_fallenC" pos="1655.742676 6.665599 2022.635986" a="3.465806" />
     <group name="FagusSylvatica_fallenC" pos="1678.526123 5.279910 2003.682861" a="-148.732452" />
     <group name="FagusSylvatica_stumpC" pos="1659.777954 4.795534 2029.211060" a="-105.840508" />
-    <group name="FagusSylvatica_stumpC" pos="1665.282471 4.815582 2046.638428" a="-27.241932" />
     <group name="FagusSylvatica_stumpC" pos="1646.839111 4.768027 2062.194336" a="79.867149" />
+    <group name="FagusSylvatica_stumpC" pos="1665.282471 4.815582 2046.638428" a="-27.241932" />
     <group name="FagusSylvatica_fallenC" pos="1716.156494 49.571152 1351.662720" a="34.824982" />
     <group name="FagusSylvatica_fallenC" pos="1706.937256 42.095772 1334.689819" a="172.454910" />
     <group name="FagusSylvatica_fallenC" pos="1681.453247 44.906887 1330.629761" a="-42.982590" />
@@ -3526,8 +3526,8 @@
     <group name="FagusSylvatica_fallenC" pos="1694.226563 5.852278 2012.199341" a="-136.976761" />
     <group name="FagusSylvatica_fallenC" pos="1707.860596 5.545197 2023.083374" a="-161.158371" />
     <group name="FagusSylvatica_stumpC" pos="1686.071777 4.791104 2022.171265" a="-23.264788" />
-    <group name="FagusSylvatica_stumpC" pos="1710.323486 4.817644 2629.458496" a="-170.357224" />
     <group name="FagusSylvatica_stumpC" pos="1692.026733 4.791121 2600.215332" a="51.386608" />
+    <group name="FagusSylvatica_stumpC" pos="1710.323486 4.817644 2629.458496" a="-170.357224" />
     <group name="FagusSylvatica_fallenC" pos="1725.312378 29.625757 1314.502930" a="172.872360" />
     <group name="FagusSylvatica_stumpC" pos="1729.921753 30.192146 1318.506470" a="110.940544" />
     <group name="FagusSylvatica_stumpC" pos="1756.078003 24.843637 1301.759277" a="168.796295" />
@@ -3643,9 +3643,9 @@
     <group name="FagusSylvatica_fallenC" pos="1792.687256 22.480385 2157.330078" a="147.108643" />
     <group name="FagusSylvatica_stumpC" pos="1772.975220 6.831363 2150.885254" a="32.770477" />
     <group name="FagusSylvatica_fallenC" pos="1796.312622 9.568672 2207.966553" a="36.681732" />
-    <group name="FagusSylvatica_fallenC" pos="1781.688843 12.776772 2279.760498" a="148.669434" />
-    <group name="FagusSylvatica_fallenC" pos="1782.036011 5.153271 2257.260010" a="152.316925" />
     <group name="FagusSylvatica_fallenC" pos="1778.249878 11.200974 2278.168945" a="-153.409531" />
+    <group name="FagusSylvatica_fallenC" pos="1782.036011 5.153271 2257.260010" a="152.316925" />
+    <group name="FagusSylvatica_fallenC" pos="1781.688843 12.776772 2279.760498" a="148.669434" />
     <group name="FagusSylvatica_fallenC" pos="1760.281494 13.159945 2306.644775" a="-30.985155" />
     <group name="FagusSylvatica_stumpC" pos="1790.143799 26.982735 2317.449219" a="70.883224" />
     <group name="FagusSylvatica_fallenC" pos="1764.218994 17.761875 2326.718750" a="16.916714" />
@@ -3665,10 +3665,10 @@
     <group name="FagusSylvatica_stumpC" pos="1780.921753 4.810471 2610.553467" a="110.643875" />
     <group name="FagusSylvatica_fallenC" pos="1775.460571 6.619648 2653.490723" a="-11.220131" />
     <group name="FagusSylvatica_stumpC" pos="1773.325439 4.823587 2665.599121" a="-49.750347" />
-    <group name="FagusSylvatica_fallenC" pos="1775.373169 5.300114 2692.070068" a="150.235580" />
     <group name="FagusSylvatica_fallenC" pos="1794.411865 5.906347 2692.038086" a="97.292847" />
-    <group name="FagusSylvatica_stumpC" pos="1796.867188 4.794821 2685.367432" a="-6.895673" />
+    <group name="FagusSylvatica_fallenC" pos="1775.373169 5.300114 2692.070068" a="150.235580" />
     <group name="FagusSylvatica_stumpC" pos="1760.473633 4.816078 2686.037354" a="-6.895673" />
+    <group name="FagusSylvatica_stumpC" pos="1796.867188 4.794821 2685.367432" a="-6.895673" />
     <group name="FagusSylvatica_fallenC" pos="1821.578247 19.252613 1297.699585" a="52.996918" />
     <group name="FagusSylvatica_fallenC" pos="1815.046753 19.297873 1291.045532" a="-130.502350" />
     <group name="FagusSylvatica_fallenC" pos="1826.406250 16.813585 1292.906738" a="91.076828" />
@@ -3685,8 +3685,8 @@
     <group name="FagusSylvatica_stumpC" pos="1811.562500 70.811050 1436.356689" a="-150.399200" />
     <group name="FagusSylvatica_stumpC" pos="1806.953003 70.366684 1420.850342" a="72.696007" />
     <group name="FagusSylvatica_stumpC" pos="1812.359253 71.335266 1429.815918" a="146.998764" />
-    <group name="FagusSylvatica_stumpC" pos="1807.218628 68.165390 1452.145508" a="71.047989" />
     <group name="FagusSylvatica_stumpC" pos="1823.406128 69.530273 1471.317383" a="75.398689" />
+    <group name="FagusSylvatica_stumpC" pos="1807.218628 68.165390 1452.145508" a="71.047989" />
     <group name="FagusSylvatica_fallenC" pos="1829.390381 71.291771 1483.215210" a="141.516464" />
     <group name="FagusSylvatica_fallenC" pos="1817.640747 66.429436 1499.229126" a="-22.074968" />
     <group name="FagusSylvatica_fallenC" pos="1803.828003 61.604279 1516.934692" a="-128.612610" />
@@ -3778,8 +3778,8 @@
     <group name="FagusSylvatica_fallenC" pos="1834.796875 22.757282 2423.523193" a="86.374474" />
     <group name="FagusSylvatica_fallenC" pos="1835.562378 6.386677 2477.005859" a="45.766785" />
     <group name="FagusSylvatica_fallenC" pos="1802.184814 5.656943 2453.135498" a="54.743778" />
-    <group name="FagusSylvatica_stumpC" pos="1815.333618 8.769470 2440.757324" a="-122.240395" />
     <group name="FagusSylvatica_stumpC" pos="1802.031250 4.805139 2461.595459" a="66.038086" />
+    <group name="FagusSylvatica_stumpC" pos="1815.333618 8.769470 2440.757324" a="-122.240395" />
     <group name="FagusSylvatica_stumpC" pos="1812.570923 10.818292 2506.081787" a="140.055191" />
     <group name="FagusSylvatica_stumpC" pos="1825.375000 13.058257 2503.259033" a="-133.534637" />
     <group name="FagusSylvatica_fallenC" pos="1821.437622 20.753094 2522.258545" a="-33.786739" />
@@ -4338,8 +4338,8 @@
     <group name="FagusSylvatica_fallenC" pos="2528.167480 9.703535 2395.829102" a="-57.814548" />
     <group name="FagusSylvatica_stumpC" pos="2523.255615 8.426574 2393.376953" a="-79.732994" />
     <group name="FagusSylvatica_fallenC" pos="2694.332764 9.700394 2682.208740" a="-57.814548" />
-    <group name="FagusSylvatica_fallenC" pos="2683.262695 9.389538 2689.114990" a="5.545516" />
     <group name="FagusSylvatica_fallenC" pos="2711.708984 9.391092 2680.256348" a="-10.970289" />
+    <group name="FagusSylvatica_fallenC" pos="2683.262695 9.389538 2689.114990" a="5.545516" />
     <group name="FagusSylvatica_stumpC" pos="2692.483643 8.424755 2685.447510" a="-79.732994" />
     <group name="FagusSylvatica_stumpC" pos="2697.939697 8.425615 2692.859619" a="86.967583" />
     <group name="FagusSylvatica_stumpC" pos="2706.627441 8.405645 2706.815186" a="-144.125763" />
@@ -4888,9 +4888,9 @@
     <group name="FagusSylvatica_stumpC" pos="3191.359375 3.799804 4248.218262" a="82.913628" />
     <group name="FagusSylvatica_fallenC" pos="3227.921631 8.666673 2240.253418" a="152.118561" />
     <group name="FagusSylvatica_fallenC" pos="3213.265625 8.867601 2262.924561" a="-52.760689" />
+    <group name="FagusSylvatica_stumpC" pos="3217.484375 9.271654 2270.202393" a="-90.851570" />
     <group name="FagusSylvatica_stumpC" pos="3203.875000 7.195704 2257.122070" a="35.945625" />
     <group name="FagusSylvatica_stumpC" pos="3225.718750 8.136903 2244.779541" a="-153.881927" />
-    <group name="FagusSylvatica_stumpC" pos="3217.484375 9.271654 2270.202393" a="-90.851570" />
     <group name="FagusSylvatica_fallenC" pos="3210.796875 8.245178 2305.455322" a="63.038723" />
     <group name="FagusSylvatica_fallenC" pos="3229.953125 10.950767 2288.706055" a="111.665695" />
     <group name="FagusSylvatica_fallenC" pos="3204.623535 7.448952 2287.327881" a="-129.755234" />
@@ -5047,8 +5047,8 @@
     <group name="FagusSylvatica_fallenC" pos="3227.140625 14.306782 4268.713867" a="-95.531754" />
     <group name="FagusSylvatica_fallenC" pos="3232.156250 16.929136 4255.756348" a="-24.140432" />
     <group name="FagusSylvatica_stumpC" pos="3203.296875 6.678100 4255.095703" a="3.655803" />
-    <group name="FagusSylvatica_fallenC" pos="3272.765869 5.788053 2267.749756" a="17.422087" />
     <group name="FagusSylvatica_fallenC" pos="3260.625000 8.381207 2267.629883" a="-131.546051" />
+    <group name="FagusSylvatica_fallenC" pos="3272.765869 5.788053 2267.749756" a="17.422087" />
     <group name="FagusSylvatica_fallenC" pos="3245.624756 11.211308 2276.024902" a="126.157097" />
     <group name="FagusSylvatica_fallenC" pos="3271.937500 5.055235 2258.836914" a="69.136330" />
     <group name="FagusSylvatica_stumpC" pos="3269.578125 6.417549 2279.573730" a="-18.251598" />
@@ -5241,9 +5241,9 @@
     <group name="FagusSylvatica_fallenC" pos="3296.328125 4.093966 2738.239502" a="91.977600" />
     <group name="FagusSylvatica_stumpC" pos="3293.047607 2.365341 2756.814209" a="-67.823418" />
     <group name="FagusSylvatica_fallenC" pos="3292.671631 3.233529 2763.902832" a="-148.542557" />
-    <group name="FagusSylvatica_stumpC" pos="3284.203125 2.399736 2764.918213" a="11.687067" />
     <group name="FagusSylvatica_stumpC" pos="3311.975342 2.397257 2761.729736" a="91.768784" />
     <group name="FagusSylvatica_stumpC" pos="3304.500000 2.390889 2764.160400" a="-81.183189" />
+    <group name="FagusSylvatica_stumpC" pos="3284.203125 2.399736 2764.918213" a="11.687067" />
     <group name="FagusSylvatica_stumpC" pos="3296.203125 2.409977 2820.449707" a="139.648682" />
     <group name="FagusSylvatica_stumpC" pos="3289.171875 2.428064 2859.093262" a="-109.034393" />
     <group name="FagusSylvatica_stumpC" pos="3303.640625 2.432095 2911.998047" a="21.135601" />
@@ -5380,8 +5380,8 @@
     <group name="FagusSylvatica_stumpC" pos="3325.546875 2.433715 2742.725586" a="135.825363" />
     <group name="FagusSylvatica_stumpC" pos="3337.875000 2.534765 2728.847900" a="35.176575" />
     <group name="FagusSylvatica_fallenC" pos="3359.327881 3.924598 2772.574951" a="172.795456" />
-    <group name="FagusSylvatica_stumpC" pos="3325.395996 2.401610 2763.462402" a="110.501122" />
     <group name="FagusSylvatica_stumpC" pos="3345.218750 2.470500 2765.915039" a="91.164665" />
+    <group name="FagusSylvatica_stumpC" pos="3325.395996 2.401610 2763.462402" a="110.501122" />
     <group name="FagusSylvatica_stumpC" pos="3331.850830 2.433599 2870.590820" a="-112.779510" />
     <group name="FagusSylvatica_stumpC" pos="3335.568115 2.433585 2850.216064" a="-84.418106" />
     <group name="FagusSylvatica_stumpC" pos="3332.817627 2.379114 2840.061279" a="-102.991722" />
@@ -5436,8 +5436,8 @@
     <group name="PinusSylvestris_3d" pos="3354.792725 35.054977 3912.357666" a="90.000000" />
     <group name="Rail3" pos="3343.432373 8.795219 3934.662109" a="101.989120" />
     <group name="QuercusRobur_2d" pos="3351.573242 34.650249 3935.022949" a="90.000000" />
-    <group name="PinusSylvestris_3d" pos="3349.575928 35.054977 3936.756348" a="90.000000" />
     <group name="PinusSylvestris_3d" pos="3347.862793 35.054977 3944.735596" a="90.000000" />
+    <group name="PinusSylvestris_3d" pos="3349.575928 35.054977 3936.756348" a="90.000000" />
     <group name="Rail3" pos="3335.138428 8.795219 3973.686035" a="101.989120" />
     <group name="PinusSylvestris_3d" pos="3336.783203 35.054977 3996.659912" a="90.000000" />
     <group name="FagusSylvatica_2d" pos="3341.901611 35.491806 3971.678223" a="90.000000" />
@@ -5465,8 +5465,8 @@
     <group name="FagusSylvatica_stumpC" pos="3370.640625 42.263905 2519.409912" a="-89.126419" />
     <group name="FagusSylvatica_fallenC" pos="3387.109375 41.755478 2530.774414" a="-69.713135" />
     <group name="FagusSylvatica_fallenC" pos="3374.656494 38.440170 2557.209717" a="-16.625578" />
-    <group name="FagusSylvatica_stumpC" pos="3385.968750 40.402229 2535.565674" a="-89.126419" />
     <group name="FagusSylvatica_stumpC" pos="3394.015625 38.895622 2551.473633" a="163.379929" />
+    <group name="FagusSylvatica_stumpC" pos="3385.968750 40.402229 2535.565674" a="-89.126419" />
     <group name="FagusSylvatica_fallenC" pos="3367.546875 36.273689 2565.746094" a="119.268433" />
     <group name="FagusSylvatica_fallenC" pos="3374.984375 31.137720 2592.833496" a="101.019592" />
     <group name="FagusSylvatica_fallenC" pos="3393.140869 37.358795 2568.231445" a="-36.137867" />
@@ -5509,9 +5509,9 @@
     <group name="FagusSylvatica_stumpC" pos="3373.640625 2.373353 3035.055908" a="130.760452" />
     <group name="FagusSylvatica_stumpC" pos="3362.703125 2.394591 3039.891357" a="171.927521" />
     <group name="FagusSylvatica_fallenC" pos="3390.562744 3.010259 3065.221191" a="-32.413403" />
+    <group name="FagusSylvatica_stumpC" pos="3379.515625 2.373667 3068.836670" a="-64.472519" />
     <group name="FagusSylvatica_stumpC" pos="3372.187500 2.371640 3068.565430" a="92.230179" />
     <group name="FagusSylvatica_stumpC" pos="3374.437500 2.393754 3051.324951" a="-124.745323" />
-    <group name="FagusSylvatica_stumpC" pos="3379.515625 2.373667 3068.836670" a="-64.472519" />
     <group name="FagusSylvatica_fallenC" pos="3364.921875 2.858933 3085.602783" a="175.168594" />
     <group name="FagusSylvatica_stumpC" pos="3361.156250 2.830269 3105.780762" a="-7.737337" />
     <group name="FagusSylvatica_stumpC" pos="3366.640625 2.608967 3110.028809" a="17.191362" />
@@ -5519,14 +5519,14 @@
     <group name="FagusSylvatica_fallenC" pos="3364.609619 4.349138 3141.662842" a="-2.145146" />
     <group name="FagusSylvatica_fallenC" pos="3376.031250 5.359058 3163.818115" a="29.441511" />
     <group name="FagusSylvatica_stumpC" pos="3399.593750 5.391711 3162.907959" a="-92.873047" />
-    <group name="FagusSylvatica_stumpC" pos="3383.765625 4.906792 3162.568359" a="-92.883980" />
     <group name="FagusSylvatica_stumpC" pos="3374.781250 6.229219 3178.236572" a="117.027222" />
+    <group name="FagusSylvatica_stumpC" pos="3383.765625 4.906792 3162.568359" a="-92.883980" />
     <group name="FagusSylvatica_fallenC" pos="3361.909912 8.576185 3204.997803" a="-44.850292" />
     <group name="FagusSylvatica_stumpC" pos="3390.875000 9.222520 3220.598145" a="75.113068" />
     <group name="FagusSylvatica_fallenC" pos="3394.218506 10.760236 3265.190186" a="-137.742554" />
     <group name="FagusSylvatica_fallenC" pos="3383.807373 10.126739 3268.504639" a="-44.850296" />
-    <group name="FagusSylvatica_stumpC" pos="3376.671875 9.410172 3250.028809" a="-5.627943" />
     <group name="FagusSylvatica_stumpC" pos="3384.156250 9.416691 3254.112793" a="117.027222" />
+    <group name="FagusSylvatica_stumpC" pos="3376.671875 9.410172 3250.028809" a="-5.627943" />
     <group name="FagusSylvatica_fallenC" pos="3365.306641 10.913786 3284.747070" a="4.941250" />
     <group name="FagusSylvatica_fallenC" pos="3394.956299 10.886027 3289.425537" a="41.449924" />
     <group name="FagusSylvatica_stumpC" pos="3362.125000 9.373286 3284.124756" a="46.371948" />
@@ -5566,8 +5566,8 @@
     <group name="FagusSylvatica_stumpC" pos="3434.739746 38.563847 2493.295898" a="151.173676" />
     <group name="FagusSylvatica_stumpC" pos="3403.484375 40.946571 2501.020508" a="-89.126419" />
     <group name="FagusSylvatica_fallenC" pos="3400.578125 40.075329 2548.484619" a="-69.713135" />
-    <group name="FagusSylvatica_fallenC" pos="3431.359375 39.152351 2537.620605" a="-44.081230" />
     <group name="FagusSylvatica_fallenC" pos="3417.015625 39.652332 2538.574707" a="34.066910" />
+    <group name="FagusSylvatica_fallenC" pos="3431.359375 39.152351 2537.620605" a="-44.081230" />
     <group name="FagusSylvatica_stumpC" pos="3432.796875 38.218018 2545.254883" a="-70.778862" />
     <group name="FagusSylvatica_fallenC" pos="3431.843506 37.342529 2563.973633" a="153.876465" />
     <group name="FagusSylvatica_fallenC" pos="3422.968750 31.936327 2598.234131" a="85.363579" />
@@ -5654,8 +5654,8 @@
     <group name="FagusSylvatica_fallenC" pos="3442.620117 37.084263 2477.403320" a="-22.613413" />
     <group name="FagusSylvatica_stumpC" pos="3473.281250 27.594662 2444.512451" a="174.058945" />
     <group name="FagusSylvatica_stumpC" pos="3440.484375 30.841349 2443.056885" a="65.389870" />
-    <group name="FagusSylvatica_stumpC" pos="3459.593750 38.205814 2511.005127" a="-7.847225" />
     <group name="FagusSylvatica_stumpC" pos="3457.140625 38.327335 2519.331543" a="160.259689" />
+    <group name="FagusSylvatica_stumpC" pos="3459.593750 38.205814 2511.005127" a="-7.847225" />
     <group name="FagusSylvatica_fallenC" pos="3471.968994 37.877201 2522.121094" a="4.018368" />
     <group name="FagusSylvatica_fallenC" pos="3464.093750 35.709332 2548.851807" a="-61.121548" />
     <group name="FagusSylvatica_stumpC" pos="3471.078125 36.840019 2529.818359" a="-94.235397" />
@@ -5686,15 +5686,15 @@
     <group name="FagusSylvatica_stumpC" pos="3468.886475 2.390641 2833.437988" a="-41.169781" />
     <group name="FagusSylvatica_stumpC" pos="3472.234375 11.731676 2813.929199" a="7.094652" />
     <group name="FagusSylvatica_stumpC" pos="3478.500000 2.404762 2957.050293" a="34.539322" />
-    <group name="FagusSylvatica_fallenC" pos="3453.562500 4.162363 2998.717529" a="-73.428749" />
     <group name="FagusSylvatica_fallenC" pos="3453.984375 4.162363 2965.436768" a="-73.428749" />
-    <group name="FagusSylvatica_stumpC" pos="3457.500000 2.404762 2969.823486" a="34.539322" />
-    <group name="FagusSylvatica_stumpC" pos="3443.093750 2.404762 2984.111572" a="34.539322" />
+    <group name="FagusSylvatica_fallenC" pos="3453.562500 4.162363 2998.717529" a="-73.428749" />
     <group name="FagusSylvatica_stumpC" pos="3440.812500 2.404762 2995.819580" a="34.539322" />
+    <group name="FagusSylvatica_stumpC" pos="3443.093750 2.404762 2984.111572" a="34.539322" />
+    <group name="FagusSylvatica_stumpC" pos="3457.500000 2.404762 2969.823486" a="34.539322" />
     <group name="FagusSylvatica_fallenC" pos="3440.187500 4.302508 3010.104248" a="84.539619" />
     <group name="FagusSylvatica_fallenC" pos="3461.220703 3.816262 3028.640381" a="-124.470673" />
-    <group name="FagusSylvatica_stumpC" pos="3461.937500 2.404762 3017.941895" a="34.539322" />
     <group name="FagusSylvatica_stumpC" pos="3459.710449 2.377003 3039.419434" a="-144.949890" />
+    <group name="FagusSylvatica_stumpC" pos="3461.937500 2.404762 3017.941895" a="34.539322" />
     <group name="FagusSylvatica_fallenC" pos="3454.000000 6.208570 3075.854004" a="-115.362724" />
     <group name="FagusSylvatica_stumpC" pos="3447.359375 4.753977 3112.713379" a="110.259361" />
     <group name="FagusSylvatica_stumpC" pos="3468.046875 7.019364 3104.822998" a="-70.141579" />
@@ -5782,13 +5782,13 @@
     <group name="FagusSylvatica_fallenC" pos="3481.437744 15.615315 2770.817871" a="59.402130" />
     <group name="FagusSylvatica_stumpC" pos="3482.421875 14.377424 2774.648438" a="53.535255" />
     <group name="FagusSylvatica_stumpC" pos="3512.625000 2.404762 2943.708252" a="34.539322" />
-    <group name="FagusSylvatica_fallenC" pos="3496.823242 3.373124 2993.357910" a="-119.856247" />
     <group name="FagusSylvatica_fallenC" pos="3514.879150 3.980612 2997.579834" a="141.911911" />
+    <group name="FagusSylvatica_fallenC" pos="3496.823242 3.373124 2993.357910" a="-119.856247" />
     <group name="FagusSylvatica_stumpC" pos="3519.031250 2.404762 2993.975342" a="34.539322" />
     <group name="FagusSylvatica_fallenC" pos="3480.999756 4.289744 3013.553467" a="114.148666" />
     <group name="FagusSylvatica_fallenC" pos="3489.310059 3.514836 3025.895020" a="9.940183" />
-    <group name="FagusSylvatica_stumpC" pos="3480.703125 2.404762 3020.275879" a="34.539322" />
     <group name="FagusSylvatica_stumpC" pos="3501.343750 2.404762 3001.852051" a="34.539322" />
+    <group name="FagusSylvatica_stumpC" pos="3480.703125 2.404762 3020.275879" a="34.539322" />
     <group name="FagusSylvatica_fallenC" pos="3500.609375 15.407290 3075.617188" a="68.444199" />
     <group name="FagusSylvatica_stumpC" pos="3509.734375 15.595769 3084.477051" a="112.566566" />
     <group name="FagusSylvatica_stumpC" pos="3494.578125 10.426171 3113.220703" a="85.286774" />
@@ -5994,8 +5994,8 @@
     <group name="FagusSylvatica_fallenC" pos="3564.890625 3.825074 2742.169922" a="-83.523323" />
     <group name="FagusSylvatica_stumpC" pos="3576.405518 2.634485 2733.748291" a="-136.358292" />
     <group name="FagusSylvatica_fallenC" pos="3576.656250 2.741757 2864.746338" a="179.815964" />
-    <group name="FagusSylvatica_stumpC" pos="3582.093750 2.404762 2959.263672" a="34.539322" />
     <group name="FagusSylvatica_stumpC" pos="3596.234375 2.404762 2943.609619" a="34.539322" />
+    <group name="FagusSylvatica_stumpC" pos="3582.093750 2.404762 2959.263672" a="34.539322" />
     <group name="FagusSylvatica_stumpC" pos="3594.898682 2.404762 2985.896484" a="34.539322" />
     <group name="FagusSylvatica_fallenC" pos="3574.411377 3.893421 3005.719727" a="41.032448" />
     <group name="FagusSylvatica_fallenC" pos="3571.879395 2.939639 3037.598145" a="163.061325" />
@@ -6059,8 +6059,8 @@
     <group name="FagusSylvatica_stumpC" pos="3571.015625 91.344475 3951.137207" a="17.411125" />
     <group name="FagusSylvatica_stumpC" pos="3567.406250 83.212891 3922.656250" a="84.946106" />
     <group name="FagusSylvatica_fallenC" pos="3596.218750 97.457336 3971.776123" a="-78.952888" />
-    <group name="FagusSylvatica_stumpC" pos="3566.718750 94.323242 3962.272949" a="-110.155029" />
     <group name="FagusSylvatica_stumpC" pos="3594.562500 96.096390 3976.848633" a="77.585075" />
+    <group name="FagusSylvatica_stumpC" pos="3566.718750 94.323242 3962.272949" a="-110.155029" />
     <group name="FagusSylvatica_fallenC" pos="3583.390625 102.688225 4036.958740" a="-70.251472" />
     <group name="FagusSylvatica_stumpC" pos="3582.984375 99.642410 4028.621582" a="-27.831976" />
     <group name="FagusSylvatica_stumpC" pos="3591.815430 96.703964 4000.414063" a="151.393417" />
@@ -6282,10 +6282,10 @@
     <group name="FagusSylvatica_fallenC" pos="3668.968750 3.085920 2727.991211" a="90.725243" />
     <group name="FagusSylvatica_stumpC" pos="3657.562500 2.432047 2743.058350" a="93.658615" />
     <group name="FagusSylvatica_stumpC" pos="3643.880859 2.408646 2722.245850" a="-90.939613" />
+    <group name="FagusSylvatica_stumpC" pos="3673.171387 2.425154 2756.653564" a="179.178757" />
     <group name="FagusSylvatica_stumpC" pos="3662.123779 2.391486 2721.328857" a="179.233673" />
     <group name="FagusSylvatica_stumpC" pos="3652.453125 2.395405 2746.665771" a="-93.400368" />
     <group name="FagusSylvatica_stumpC" pos="3678.968750 2.379423 2741.232178" a="50.349140" />
-    <group name="FagusSylvatica_stumpC" pos="3673.171387 2.425154 2756.653564" a="179.178757" />
     <group name="FagusSylvatica_fallenC" pos="3646.765869 4.226166 2779.711914" a="-44.476753" />
     <group name="FagusSylvatica_stumpC" pos="3652.828125 2.435750 2768.889648" a="-20.734600" />
     <group name="FagusSylvatica_stumpC" pos="3659.800293 2.431781 2768.687012" a="152.942612" />
@@ -6401,19 +6401,19 @@
     <group name="FagusSylvatica_stumpC" pos="3678.015625 47.896893 4410.622070" a="-11.340967" />
     <group name="FagusSylvatica_stumpC" pos="3666.015625 38.131813 4427.325684" a="143.373215" />
     <group name="FagusSylvatica_stumpC" pos="3650.234375 7.429136 4477.000000" a="77.848732" />
-    <group name="FagusSylvatica_fallenC" pos="3703.919678 5.315489 2302.297363" a="-24.623857" />
     <group name="FagusSylvatica_fallenC" pos="3680.531006 7.568682 2293.611084" a="-168.713959" />
+    <group name="FagusSylvatica_fallenC" pos="3703.919678 5.315489 2302.297363" a="-24.623857" />
     <group name="FagusSylvatica_stumpC" pos="3688.828125 4.047097 2315.325195" a="-9.967666" />
     <group name="FagusSylvatica_fallenC" pos="3702.931396 4.535673 2329.037109" a="-24.623856" />
     <group name="FagusSylvatica_stumpC" pos="3696.625000 2.414857 2398.912354" a="12.840665" />
     <group name="FagusSylvatica_fallenC" pos="3680.265625 5.326013 2430.393311" a="-67.801430" />
     <group name="FagusSylvatica_stumpC" pos="3688.453125 2.595340 2419.298584" a="-6.770520" />
-    <group name="Rail4" pos="3704.790527 1.707826 2474.324707" a="-85.067520" />
     <group name="Rail4" pos="3706.246582 1.707826 2461.990479" a="-81.457916" />
+    <group name="Rail4" pos="3704.790527 1.707826 2474.324707" a="-85.067520" />
     <group name="FagusSylvatica_fallenC" pos="3682.312256 5.052208 2468.093018" a="-157.925049" />
     <group name="Rail7" pos="3709.536377 1.680795 2479.099365" a="-76.748833" />
-    <group name="Rail4" pos="3700.364258 1.706826 2511.197754" a="100.442085" />
     <group name="Rail4" pos="3703.762451 1.706826 2486.638428" a="95.800941" />
+    <group name="Rail4" pos="3700.364258 1.706826 2511.197754" a="100.442085" />
     <group name="Rail7" pos="3706.618652 1.706610 2488.605713" a="-69.142799" />
     <group name="FagusSylvatica_stumpC" pos="3681.812500 2.511059 2503.538574" a="-133.161133" />
     <group name="FagusSylvatica_fallenC" pos="3706.221436 3.817594 2660.817383" a="127.307793" />
@@ -6933,9 +6933,9 @@
     <group name="FagusSylvatica_fallenC" pos="3875.609375 44.932457 3320.625732" a="-85.182350" />
     <group name="FagusSylvatica_stumpC" pos="3865.187500 51.941414 3373.196533" a="-170.801392" />
     <group name="FagusSylvatica_stumpC" pos="3875.312500 53.008377 3386.904053" a="-56.968582" />
-    <group name="FagusSylvatica_stumpC" pos="3878.890625 59.542610 3418.126465" a="-165.319046" />
-    <group name="FagusSylvatica_stumpC" pos="3873.828125 60.286495 3422.771729" a="-24.942463" />
     <group name="FagusSylvatica_stumpC" pos="3868.000000 59.862892 3422.111816" a="50.898457" />
+    <group name="FagusSylvatica_stumpC" pos="3873.828125 60.286495 3422.771729" a="-24.942463" />
+    <group name="FagusSylvatica_stumpC" pos="3878.890625 59.542610 3418.126465" a="-165.319046" />
     <group name="FagusSylvatica_stumpC" pos="3852.250000 61.305080 3447.267578" a="73.058578" />
     <group name="FagusSylvatica_fallenC" pos="3864.437500 64.031670 3453.258057" a="26.936586" />
     <group name="FagusSylvatica_stumpC" pos="3874.171875 66.029945 3457.954346" a="19.443682" />
@@ -7268,8 +7268,8 @@
     <group name="FagusSylvatica_stumpC" pos="3923.953125 42.370594 3883.526855" a="41.120338" />
     <group name="FagusSylvatica_fallenC" pos="3937.159180 51.116348 3939.458984" a="-50.640278" />
     <group name="FagusSylvatica_stumpC" pos="3930.671875 50.410675 3946.073486" a="-50.486469" />
-    <group name="FagusSylvatica_fallenC" pos="3939.515625 58.340649 3994.397705" a="3.238333" />
     <group name="FagusSylvatica_fallenC" pos="3935.203125 56.967991 3988.800781" a="-164.110550" />
+    <group name="FagusSylvatica_fallenC" pos="3939.515625 58.340649 3994.397705" a="3.238333" />
     <group name="FagusSylvatica_stumpC" pos="3931.187500 50.926567 3966.295898" a="-134.907990" />
     <group name="FagusSylvatica_stumpC" pos="3955.265625 64.735901 4024.336426" a="-74.217659" />
     <group name="FagusSylvatica_stumpC" pos="3921.343750 65.330009 4002.414551" a="106.436043" />
@@ -7334,13 +7334,13 @@
     <group name="FagusSylvatica_stumpC" pos="3974.000000 2.174446 532.634644" a="69.125328" />
     <group name="FagusSylvatica_stumpC" pos="3975.515381 2.148235 564.486084" a="-172.647186" />
     <group name="FagusSylvatica_fallenC" pos="3994.027832 28.256393 601.605652" a="-4.832689" />
-    <group name="Haybale" pos="3977.489990 27.992226 711.706299" a="-16.999878" />
-    <group name="Haybale" pos="3977.024658 27.992226 710.233215" a="-16.999878" />
     <group name="Haybale" pos="3979.522461 27.992226 717.166321" a="-55.029953" />
+    <group name="Haybale" pos="3977.024658 27.992226 710.233215" a="-16.999878" />
+    <group name="Haybale" pos="3977.489990 27.992226 711.706299" a="-16.999878" />
     <group name="Haybale" pos="3981.792725 27.992226 726.563965" a="-21.640844" />
     <group name="Haybale" pos="3980.667236 27.992226 723.843079" a="-21.640841" />
-    <group name="Haybale" pos="3983.009521 27.992226 729.429504" a="-21.640844" />
     <group name="Haybale" pos="3980.083740 27.992226 722.412659" a="-21.640844" />
+    <group name="Haybale" pos="3983.009521 27.992226 729.429504" a="-21.640844" />
     <group name="FagusSylvatica_fallenC" pos="3966.078125 10.264745 916.101990" a="130.694580" />
     <group name="FagusSylvatica_fallenC" pos="3991.425293 23.644869 915.364868" a="177.497803" />
     <group name="FagusSylvatica_stumpC" pos="3995.281250 23.533739 916.754272" a="150.767212" />
@@ -7537,11 +7537,11 @@
     <group name="FagusSylvatica_fallenC" pos="4002.359375 28.608931 902.143860" a="78.947426" />
     <group name="FagusSylvatica_stumpC" pos="4026.796143 27.422962 918.442078" a="27.507889" />
     <group name="FagusSylvatica_fallenC" pos="4014.987305 23.412670 939.904602" a="-135.150101" />
-    <group name="FagusSylvatica_fallenC" pos="4018.292969 27.128567 924.070007" a="54.194466" />
     <group name="FagusSylvatica_fallenC" pos="4000.745850 19.845104 938.737000" a="51.944878" />
     <group name="FagusSylvatica_fallenC" pos="4037.851318 22.836641 949.441223" a="91.636963" />
-    <group name="FagusSylvatica_stumpC" pos="4021.761475 25.942400 928.219727" a="-170.944214" />
+    <group name="FagusSylvatica_fallenC" pos="4018.292969 27.128567 924.070007" a="54.194466" />
     <group name="FagusSylvatica_stumpC" pos="4039.984375 27.160862 927.869690" a="110.028641" />
+    <group name="FagusSylvatica_stumpC" pos="4021.761475 25.942400 928.219727" a="-170.944214" />
     <group name="FagusSylvatica_fallenC" pos="4028.527344 15.021086 962.186951" a="158.710602" />
     <group name="FagusSylvatica_stumpC" pos="4012.906250 4.184959 980.743225" a="111.193275" />
     <group name="FagusSylvatica_stumpC" pos="4000.695313 9.341331 961.414246" a="134.210342" />
@@ -7570,8 +7570,8 @@
     <group name="FagusSylvatica_stumpC" pos="4027.968750 36.479496 2928.911133" a="162.819626" />
     <group name="FagusSylvatica_fallenC" pos="4039.984375 35.118145 2966.381348" a="-70.998550" />
     <group name="FagusSylvatica_fallenC" pos="4037.890625 30.647570 2977.928223" a="-16.944191" />
-    <group name="FagusSylvatica_stumpC" pos="4004.109375 17.163210 2999.138672" a="-118.395042" />
     <group name="FagusSylvatica_stumpC" pos="4010.515625 21.761812 2981.125977" a="-165.352036" />
+    <group name="FagusSylvatica_stumpC" pos="4004.109375 17.163210 2999.138672" a="-118.395042" />
     <group name="FagusSylvatica_stumpC" pos="4005.046875 18.262594 2992.672607" a="40.219433" />
     <group name="FagusSylvatica_fallenC" pos="4008.718506 18.072205 3016.985596" a="-129.447617" />
     <group name="FagusSylvatica_fallenC" pos="4038.828125 22.409203 3025.157471" a="62.928860" />
@@ -7705,12 +7705,12 @@
     <group name="FagusSylvatica_stumpC" pos="4065.218750 7.881566 501.805267" a="130.782486" />
     <group name="FagusSylvatica_fallenC" pos="4061.547852 21.168123 535.279541" a="82.990494" />
     <group name="FagusSylvatica_stumpC" pos="4051.600586 20.495001 537.828918" a="35.945625" />
-    <group name="FagusSylvatica_stumpC" pos="4048.936523 27.755922 664.104309" a="70.004272" />
-    <group name="FagusSylvatica_stumpC" pos="4068.975586 27.755924 646.671143" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4053.338623 27.755924 650.551941" a="49.119949" />
-    <group name="FagusSylvatica_stumpC" pos="4068.171875 27.755924 718.898621" a="49.119949" />
+    <group name="FagusSylvatica_stumpC" pos="4068.975586 27.755924 646.671143" a="49.119949" />
+    <group name="FagusSylvatica_stumpC" pos="4048.936523 27.755922 664.104309" a="70.004272" />
     <group name="FagusSylvatica_stumpC" pos="4065.703125 27.755924 702.170349" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4057.296875 27.755924 680.140747" a="49.119949" />
+    <group name="FagusSylvatica_stumpC" pos="4068.171875 27.755924 718.898621" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4078.734375 27.755922 736.387329" a="70.004272" />
     <group name="FagusSylvatica_fallenC" pos="4048.714844 28.256393 838.391418" a="-76.964333" />
     <group name="FagusSylvatica_fallenC" pos="4060.857666 28.256393 867.713135" a="159.534592" />
@@ -7719,8 +7719,8 @@
     <group name="FagusSylvatica_stumpC" pos="4051.500000 27.764364 841.184753" a="55.260181" />
     <group name="FagusSylvatica_fallenC" pos="4072.489258 29.508228 893.491760" a="140.318878" />
     <group name="FagusSylvatica_fallenC" pos="4043.096191 28.475874 900.799683" a="-125.180244" />
-    <group name="FagusSylvatica_stumpC" pos="4061.531250 27.762260 925.469604" a="86.506149" />
     <group name="FagusSylvatica_stumpC" pos="4053.970215 26.765335 936.069946" a="120.114418" />
+    <group name="FagusSylvatica_stumpC" pos="4061.531250 27.762260 925.469604" a="86.506149" />
     <group name="FagusSylvatica_fallenC" pos="4053.265381 6.476057 2790.267822" a="158.666611" />
     <group name="FagusSylvatica_stumpC" pos="4048.156250 5.520847 2789.201904" a="84.539619" />
     <group name="FagusSylvatica_fallenC" pos="4044.250000 10.793359 2804.692627" a="124.113586" />
@@ -7879,13 +7879,13 @@
     <group name="FagusSylvatica_stumpC" pos="4104.937500 27.755949 584.928101" a="108.163231" />
     <group name="FagusSylvatica_fallenC" pos="4118.661133 28.256393 638.743652" a="-57.043480" />
     <group name="FagusSylvatica_stumpC" pos="4112.612305 27.755924 668.733765" a="49.119949" />
+    <group name="FagusSylvatica_stumpC" pos="4083.953125 27.755924 650.248108" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4102.782227 27.755924 665.130188" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4093.155762 27.755924 651.191040" a="49.119949" />
-    <group name="FagusSylvatica_stumpC" pos="4083.953125 27.755924 650.248108" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4116.680176 27.755924 682.424133" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4082.062500 27.755924 752.894409" a="49.119949" />
-    <group name="FagusSylvatica_stumpC" pos="4089.968750 27.755922 769.307312" a="70.004272" />
     <group name="FagusSylvatica_stumpC" pos="4100.109375 27.755922 795.467712" a="70.004272" />
+    <group name="FagusSylvatica_stumpC" pos="4089.968750 27.755922 769.307312" a="70.004272" />
     <group name="FagusSylvatica_stumpC" pos="4105.078125 27.755924 806.623779" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4112.437500 27.755922 822.378540" a="70.004272" />
     <group name="FagusSylvatica_fallenC" pos="4097.840820 29.493692 901.266663" a="127.991875" />
@@ -8094,8 +8094,8 @@
     <group name="FagusSylvatica_stumpC" pos="4161.391602 27.854601 697.919067" a="43.257622" />
     <group name="FagusSylvatica_stumpC" pos="4185.359863 27.854816 719.726257" a="-126.978661" />
     <group name="FagusSylvatica_stumpC" pos="4188.683594 27.854816 733.607727" a="-126.978661" />
-    <group name="FagusSylvatica_stumpC" pos="4181.508789 27.755924 730.421143" a="49.119949" />
     <group name="FagusSylvatica_stumpC" pos="4190.621094 27.755924 739.418945" a="49.119949" />
+    <group name="FagusSylvatica_stumpC" pos="4181.508789 27.755924 730.421143" a="49.119949" />
     <group name="FagusSylvatica_fallenC" pos="4166.325684 29.062286 919.792664" a="-147.784424" />
     <group name="FagusSylvatica_fallenC" pos="4161.456543 29.153246 906.372681" a="-35.885193" />
     <group name="FagusSylvatica_fallenC" pos="4187.296875 3.434129 994.466003" a="-178.082596" />
@@ -8201,9 +8201,9 @@
     <group name="FagusSylvatica_3d" pos="4220.519531 9.239427 956.293152" a="110.110794" />
     <group name="FagusSylvatica_fallenC" pos="4226.506836 3.200627 956.845520" a="-143.146591" />
     <group name="FagusSylvatica_3d" pos="4211.279297 11.728572 970.059875" a="-172.797699" />
-    <group name="FagusSylvatica_fallenC" pos="4215.650391 3.200730 964.858459" a="-177.438126" />
     <group name="FagusSylvatica_fallenC" pos="4239.005859 3.434128 972.692932" a="165.802902" />
     <group name="FagusSylvatica_fallenC" pos="4207.755859 3.200729 985.769775" a="92.320992" />
+    <group name="FagusSylvatica_fallenC" pos="4215.650391 3.200730 964.858459" a="-177.438126" />
     <group name="FagusSylvatica_stumpC" pos="4217.165527 2.124991 976.958435" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4222.654297 2.125012 973.381653" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4226.502441 2.125012 1007.356262" a="-95.257210" />
@@ -8295,19 +8295,19 @@
     <group name="FagusSylvatica_stumpC" pos="4261.609375 2.124991 910.311768" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4252.625000 2.124991 909.490540" a="-95.257210" />
     <group name="FagusSylvatica_3d" pos="4275.716309 11.728572 947.679993" a="-172.797729" />
-    <group name="FagusSylvatica_stumpC" pos="4242.718750 2.124991 946.516785" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4277.578125 2.124991 930.001892" a="-95.257210" />
-    <group name="FagusSylvatica_stumpC" pos="4248.140625 2.124991 927.633362" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4270.735840 2.124991 944.707153" a="-95.257210" />
+    <group name="FagusSylvatica_stumpC" pos="4242.718750 2.124991 946.516785" a="-95.257210" />
+    <group name="FagusSylvatica_stumpC" pos="4248.140625 2.124991 927.633362" a="-95.257210" />
     <group name="FagusSylvatica_3d" pos="4240.424316 11.728572 992.935425" a="-172.797729" />
     <group name="FagusSylvatica_fallenC" pos="4275.790527 3.434129 968.074158" a="140.277664" />
-    <group name="FagusSylvatica_stumpC" pos="4278.250000 2.124991 979.711609" a="-95.257210" />
     <group name="FagusSylvatica_stumpC" pos="4273.672852 2.124991 997.275208" a="-95.257210" />
+    <group name="FagusSylvatica_stumpC" pos="4278.250000 2.124991 979.711609" a="-95.257210" />
     <group name="FagusSylvatica_3d" pos="4249.911621 11.728572 1012.018311" a="-172.797699" />
     <group name="FagusSylvatica_2d" pos="4243.015625 10.260074 1027.157471" a="169.282990" />
     <group name="FagusSylvatica_stumpC" pos="4274.750000 2.124991 1018.046997" a="-95.257210" />
-    <group name="FagusSylvatica_2d" pos="4266.945313 10.260074 1051.194702" a="-172.797699" />
     <group name="FagusSylvatica_2d" pos="4258.058594 10.260074 1067.511841" a="169.282990" />
+    <group name="FagusSylvatica_2d" pos="4266.945313 10.260074 1051.194702" a="-172.797699" />
     <group name="FagusSylvatica_fallenC" pos="4262.859375 3.434129 1054.180054" a="-178.082596" />
     <group name="FagusSylvatica_fallenC" pos="4275.359375 15.428589 2901.767334" a="-78.008080" />
     <group name="FagusSylvatica_fallenC" pos="4245.593750 18.625427 2908.671631" a="-66.735741" />
@@ -8604,9 +8604,9 @@
     <group name="FagusSylvatica_fallenC" pos="4393.812500 14.416380 3207.636963" a="-73.129951" />
     <group name="FagusSylvatica_stumpC" pos="4381.281250 9.653839 3231.636963" a="-106.551414" />
     <group name="FagusSylvatica_fallenC" pos="4392.546387 5.302582 3274.725830" a="-165.582748" />
+    <group name="FagusSylvatica_fallenC" pos="4387.140625 6.091955 3257.416260" a="-115.022125" />
     <group name="FagusSylvatica_fallenC" pos="4368.671875 8.863729 3263.002197" a="16.631058" />
     <group name="FagusSylvatica_fallenC" pos="4374.796875 8.229913 3254.347900" a="118.664192" />
-    <group name="FagusSylvatica_fallenC" pos="4387.140625 6.091955 3257.416260" a="-115.022125" />
     <group name="FagusSylvatica_fallenC" pos="4395.640625 3.809999 3268.373047" a="105.710892" />
     <group name="FagusSylvatica_fallenC" pos="4388.656250 4.447958 3270.981934" a="83.034492" />
     <group name="FagusSylvatica_stumpC" pos="4374.750000 6.288083 3272.025146" a="-61.429180" />
@@ -8690,8 +8690,8 @@
     <group name="FagusSylvatica_fallenC" pos="4405.593750 5.726335 3300.014893" a="90.736198" />
     <group name="FagusSylvatica_fallenC" pos="4426.640625 4.488093 3284.516113" a="148.449051" />
     <group name="FagusSylvatica_stumpC" pos="4430.421875 3.144643 3294.705078" a="-61.033665" />
-    <group name="FagusSylvatica_stumpC" pos="4419.734375 3.175012 3287.615723" a="-51.299469" />
     <group name="FagusSylvatica_stumpC" pos="4401.468750 3.273693 3281.354980" a="-122.504051" />
+    <group name="FagusSylvatica_stumpC" pos="4419.734375 3.175012 3287.615723" a="-51.299469" />
     <group name="FagusSylvatica_stumpC" pos="4434.328125 6.209613 3342.796631" a="83.122368" />
     <group name="FagusSylvatica_fallenC" pos="4407.828613 15.406845 3377.814209" a="-26.491596" />
     <group name="FagusSylvatica_stumpC" pos="4428.906250 11.757346 3371.583984" a="-169.867538" />
@@ -8797,15 +8797,15 @@
     <group name="FagusSylvatica_stumpC" pos="4503.656250 3.505267 2845.352051" a="-73.415634" />
     <group name="FagusSylvatica_stumpC" pos="4491.125000 3.589594 2849.589355" a="-65.944687" />
     <group name="FagusSylvatica_stumpC" pos="4494.540527 4.097100 2871.705322" a="54.106583" />
-    <group name="FagusSylvatica_fallenC" pos="4489.844727 6.740808 2895.808838" a="-71.138680" />
     <group name="FagusSylvatica_fallenC" pos="4490.242676 7.004591 2910.105957" a="-118.966347" />
+    <group name="FagusSylvatica_fallenC" pos="4489.844727 6.740808 2895.808838" a="-71.138680" />
     <group name="FagusSylvatica_fallenC" pos="4508.204590 4.800743 2907.090576" a="-144.362686" />
     <group name="FagusSylvatica_fallenC" pos="4515.630371 4.130878 2887.875000" a="-111.989807" />
-    <group name="FagusSylvatica_stumpC" pos="4510.890625 3.040064 2885.836426" a="23.706480" />
     <group name="FagusSylvatica_stumpC" pos="4487.984375 4.816060 2880.025146" a="-65.944687" />
-    <group name="FagusSylvatica_stumpC" pos="4491.203125 4.589583 2884.174805" a="167.269196" />
-    <group name="FagusSylvatica_stumpC" pos="4502.328125 3.669193 2886.651367" a="-65.944687" />
+    <group name="FagusSylvatica_stumpC" pos="4510.890625 3.040064 2885.836426" a="23.706480" />
     <group name="FagusSylvatica_stumpC" pos="4505.656250 3.364672 2898.560059" a="167.269196" />
+    <group name="FagusSylvatica_stumpC" pos="4502.328125 3.669193 2886.651367" a="-65.944687" />
+    <group name="FagusSylvatica_stumpC" pos="4491.203125 4.589583 2884.174805" a="167.269196" />
     <group name="FagusSylvatica_stumpC" pos="4515.015625 6.350709 2957.635010" a="107.666542" />
     <group name="FagusSylvatica_stumpC" pos="4517.562500 4.758456 2946.657715" a="-65.944687" />
     <group name="FagusSylvatica_stumpC" pos="4508.859375 5.650181 2945.892822" a="-65.944687" />
@@ -8879,8 +8879,8 @@
     <group name="FagusSylvatica_fallenC" pos="4525.484863 3.240903 2889.071777" a="-35.599545" />
     <group name="FagusSylvatica_stumpC" pos="4552.296875 2.723005 2888.762207" a="167.269196" />
     <group name="FagusSylvatica_stumpC" pos="4523.031250 2.696079 2898.817871" a="167.269196" />
-    <group name="FagusSylvatica_stumpC" pos="4550.962891 2.695898 2900.176270" a="167.269196" />
     <group name="FagusSylvatica_stumpC" pos="4528.109375 2.429716 2882.818359" a="-66.296280" />
+    <group name="FagusSylvatica_stumpC" pos="4550.962891 2.695898 2900.176270" a="167.269196" />
     <group name="FagusSylvatica_fallenC" pos="4552.531250 9.827744 2979.762451" a="119.916679" />
     <group name="FagusSylvatica_stumpC" pos="4558.265625 9.316661 2979.056641" a="-22.184839" />
     <group name="FagusSylvatica_fallenC" pos="4523.703125 18.969032 3026.350342" a="176.794647" />
