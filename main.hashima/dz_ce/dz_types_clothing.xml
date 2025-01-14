@@ -1852,9 +1852,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Village"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Village" />
     </type>
     <type name="PaddedGloves_Brown">
         <nominal>5</nominal>
@@ -1864,9 +1864,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="PaddedGloves_Threat">
         <nominal>5</nominal>
@@ -1876,9 +1876,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Hunting"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Hunting" />
     </type>
     <type name="SurgicalGloves_Blue">
         <nominal>4</nominal>
@@ -3392,9 +3392,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
     <type name="MotoHelmet_Black">
         <nominal>2</nominal>
@@ -3526,9 +3526,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
     </type>
     <type name="OKZKCap_Green">
         <nominal>0</nominal>
@@ -3538,9 +3538,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
     </type>
     <type name="PetushokHat_Black">
         <nominal>0</nominal>
@@ -3550,9 +3550,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="PetushokHat_Green">
         <nominal>0</nominal>
@@ -3562,9 +3562,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="PetushokHat_Yellow">
         <nominal>0</nominal>
@@ -3574,9 +3574,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="PilotkaCap">
         <nominal>0</nominal>
@@ -3707,9 +3707,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Village"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Village" />
     </type>
     <type name="WinterCoif_Blue">
         <nominal>4</nominal>
@@ -3719,9 +3719,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Village"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Village" />
     </type>
     <type name="WinterCoif_Green">
         <nominal>4</nominal>
@@ -3731,9 +3731,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Village"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Village" />
     </type>
     <type name="WinterCoif_Skull">
         <nominal>2</nominal>
@@ -3743,9 +3743,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Village"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Village" />
     </type>
     <type name="WoolGlovesFingerless_ChristmasBlue">
         <nominal>0</nominal>
@@ -3755,9 +3755,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
     <type name="WoolGlovesFingerless_ChristmasRed">
         <nominal>0</nominal>
@@ -3767,9 +3767,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
     <type name="WoolGloves_ChristmasBlue">
         <nominal>0</nominal>
@@ -3779,9 +3779,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
     <type name="WoolGloves_ChristmasRed">
         <nominal>0</nominal>
@@ -3791,9 +3791,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
 <!--
     ╔═════════════════════════════════╗
@@ -3997,9 +3997,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="EyeMask_Blue">
         <nominal>1</nominal>
@@ -4009,9 +4009,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="EyeMask_Christmas">
         <nominal>0</nominal>
@@ -4021,8 +4021,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
     </type>
     <type name="EyeMask_Dead">
         <nominal>0</nominal>
@@ -4032,9 +4032,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="SeasonalEvent"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
     <type name="EyeMask_NewYears">
         <nominal>0</nominal>
@@ -4044,8 +4044,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
     </type>
     <type name="EyeMask_Red">
         <nominal>1</nominal>
@@ -4055,9 +4055,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="EyeMask_Valentines">
         <nominal>0</nominal>
@@ -4067,8 +4067,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
     </type>
     <type name="EyeMask_Yellow">
         <nominal>1</nominal>
@@ -4078,9 +4078,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
     </type>
     <type name="EyePatch_Improvised">
         <nominal>0</nominal>
@@ -4241,9 +4241,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Lunapark"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Lunapark" />
         <usage name="Town" />
     </type>
     <type name="MimeMask_Male">
@@ -4254,9 +4254,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Lunapark"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Lunapark" />
         <usage name="Town" />
     </type>
     <type name="MouthRag">

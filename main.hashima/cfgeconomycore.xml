@@ -6,7 +6,17 @@
         ║ CCS - Events ║
         ╚══════════════╝
     -->
+        <file name="ccs_events_misc.xml" type="events" />
         <file name="ccs_events_zombie.xml" type="events" />
+    <!--
+        ╔══════════════════════╗
+        ║ CCS - SpawnableTypes ║
+        ╚══════════════════════╝
+    -->
+        <file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_misc.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
     <!--
         ╔═════════════╗
         ║ CCS - Types ║
@@ -20,21 +30,13 @@
         <file name="ccs_types_clothing.xml" type="types" />
         <file name="ccs_types_collectable.xml" type="types" />
         <file name="ccs_types_drink.xml" type="types" />
+        <file name="ccs_types_event.xml" type="types" />
         <file name="ccs_types_jar.xml" type="types" />
         <file name="ccs_types_medical.xml" type="types" />
         <file name="ccs_types_snack.xml" type="types" />
         <file name="ccs_types_tool.xml" type="types" />
         <file name="ccs_types_weapon.xml" type="types" />
         <file name="ccs_types_zombie.xml" type="types" />
-    <!--
-        ╔══════════════════════╗
-        ║ CCS - SpawnableTypes ║
-        ╚══════════════════════╝
-    -->
-        <file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
-        <file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
-        <file name="ccs_spawnabletypes_misc.xml" type="spawnabletypes" />
-        <file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
     </ce>
     <ce folder="dz_ce">
     <!--

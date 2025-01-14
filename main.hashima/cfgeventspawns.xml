@@ -6,7 +6,6 @@
     <event name="AnimalHen" />
     <event name="AnimalPig" />
     <event name="AnimalRoeDeer" />
-    <event name="AnimalDeer" />
     <event name="AnimalWildBoar" />
     <event name="AnimalWolf" />
 
@@ -19,10 +18,10 @@
     <event name="InfectedFirefighter" />
     <event name="InfectedIndustrial" />
     <event name="InfectedMedic" />
-    <event name="InfectedNBC" />
     <event name="InfectedNBC_Green" />
     <event name="InfectedNBC_Purple" />
     <event name="InfectedNBC_Red" />
+    <event name="InfectedNBC" />
     <event name="InfectedNBCSpecialForce" />
     <event name="InfectedPolice" />
     <event name="InfectedPoliceHard" />
@@ -67,11 +66,11 @@
             <pos x="4426.065430" z="10242.805664" />
             <pos x="4426.670898" z="10238.280273" />
             <pos x="4427.444824" z="10225.956055" a="125.000000" />
-            <pos x="4710.880859" z="10332.765625" a="100.000000"/>
-            <pos x="4713.376465" z="10332.264648" a="100.000000"/>
-            <pos x="4715.752930" z="10331.850586" a="100.000000"/>
-            <pos x="4719.551758" z="10318.416992" a="130.000000"/>
-            <pos x="4720.963867" z="10316.429688" a="130.000000"/>
+            <pos x="4710.880859" z="10332.765625" a="100.000000" />
+            <pos x="4713.376465" z="10332.264648" a="100.000000" />
+            <pos x="4715.752930" z="10331.850586" a="100.000000" />
+            <pos x="4719.551758" z="10318.416992" a="130.000000" />
+            <pos x="4720.963867" z="10316.429688" a="130.000000" />
     </event>
 
     <event name="StaticHeliCrash">
