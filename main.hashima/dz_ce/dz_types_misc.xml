@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-	╔════════════╗
-	║ DZ - MISC  ║
-	╚════════════╝
+    ╔════════════╗
+    ║ DZ - MISC  ║
+    ╚════════════╝
 -->
 <type name="Land_wreck_truck01_aban1_firetruck_DE">
     <nominal>0</nominal>

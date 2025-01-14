@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <randompresets>
 <!--
-	╔═══════╗
-	║ Cargo ║
-	╚═══════╝
+    ╔═══════╗
+    ║ Cargo ║
+    ╚═══════╝
 -->
 <!--
     ╔════════════╗
@@ -437,9 +437,9 @@
         <item name="Pipe" chance="0.2" />
     </cargo>
 <!--
-	╔═════════════╗
-	║ Attachments ║
-	╚═════════════╝
+    ╔═════════════╗
+    ║ Attachments ║
+    ╚═════════════╝
 -->
 <!--
     ╔════════╗

@@ -148,10 +148,6 @@ Map Version: 0.0.1-alpha-4
 
 **[Dab's Framework 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)**
 
-#### Recommended Mods
-
-**[No Force Weapon Raise 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2098390861)**
-
 ---
 
 ## Server Customization Advise

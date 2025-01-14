@@ -39,7 +39,7 @@
         <pos x="3391" z="2512" a="-1" />
     </event>
 
-	<event name="Loot" />
+    <event name="Loot" />
 
     <!-- TO DO: SORT THESE -->
     <event name="StaticAirplaneCrate">
@@ -74,12 +74,12 @@
             <pos x="4720.963867" z="10316.429688" a="130.000000"/>
     </event>
 
-	<event name="StaticHeliCrash">
+    <event name="StaticHeliCrash">
         <zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="893" z="1896" a="-1" />
-		<pos x="2625" z="2513" a="-1" />
-		<pos x="3391" z="2512" a="-1" />
-	</event>
+        <pos x="893" z="1896" a="-1" />
+        <pos x="2625" z="2513" a="-1" />
+        <pos x="3391" z="2512" a="-1" />
+    </event>
 
     <event name="TrajectoryApple" />
     <event name="TrajectoryCanina" />

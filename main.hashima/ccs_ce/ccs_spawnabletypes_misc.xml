@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-	╔═══════════════════════╗
-	║ SpawnableTypes - Misc ║
-	╚═══════════════════════╝
+    ╔═══════════════════════╗
+    ║ SpawnableTypes - Misc ║
+    ╚═══════════════════════╝
 -->
     <type name="CCS_Hashima_Medical_First_Aid_kit">
         <tag name="shelves" />
