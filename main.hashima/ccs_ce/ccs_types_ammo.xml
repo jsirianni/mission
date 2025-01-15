@@ -5,7 +5,7 @@
     ║ CCS - Ammo ║
     ╚════════════╝
 -->
-<!--     <type name="CCS_RokuohShaType89_Bullet">
+    <!-- <type name="CCS_RokuohShaType89_Bullet">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>

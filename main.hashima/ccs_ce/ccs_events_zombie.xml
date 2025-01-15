@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
 <!--
-    ╔══════════════════════╗
-    ║ InfectedArmy         ║
-    ║ InfectedArmyHard     ║
-    ║ InfectedCity         ║
-    ║ InfectedCityTier1    ║
-    ║ InfectedCityTier2    ║
-    ║ InfectedCityTier3    ║
-    ║ InfectedFirefighter  ║
-    ║ InfectedIndustrial   ║
-    ║ InfectedMedic        ║
-    ║ InfectedNBC          ║
-    ║ InfectedNBCYellow    ║
-    ║ InfectedPolice       ║
-    ║ InfectedPoliceHard   ║
-    ║ InfectedPrisoner     ║
-    ║ InfectedReligious    ║
-    ║ InfectedSolitude     ║
-    ║ InfectedVillage      ║
-    ║ InfectedVillageTier1 ║
-    ╚══════════════════════╝
+    ╔═══════════════════════╗
+    ║ CCS - Events - Zombie ║
+    ╚═══════════════════════╝
 -->
     <event name="InfectedArmy">
         <nominal>50</nominal>
