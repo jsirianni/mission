@@ -14,6 +14,7 @@
         ╚══════════════════════╝
     -->
         <file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_bag.xml" type="spawnabletypes" />
         <file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
         <file name="ccs_spawnabletypes_misc.xml" type="spawnabletypes" />
         <file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
