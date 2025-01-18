@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
 <!--
-    ╔════════════════╗
-    ║ AnimalBear     ║
-    ║ AnimalHen      ║
-    ║ AnimalCattle   ║
-    ║ AnimalPig      ║
-    ║ AnimalDeer     ║
-    ║ AnimalRoeDeer  ║
-    ║ AnimalWildBoar ║
-    ║ AnimalWolf     ║
-    ╚════════════════╝
+    ╔══════════════════════╗
+    ║ DZ - Events - Animal ║
+    ╚══════════════════════╝
 -->
     <event name="AnimalBear">
         <nominal>1</nominal>

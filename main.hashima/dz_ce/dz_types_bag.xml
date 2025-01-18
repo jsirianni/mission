@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔══════════╗
-    ║ DZ - Bag ║
-    ╚══════════╝
+    ╔══════════════════╗
+    ║ DZ - Types - Bag ║
+    ╚══════════════════╝
 -->
     <type name="AliceBag_Black">
         <nominal>2</nominal>

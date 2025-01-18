@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════════════╗
-    ║ DZ - Base Building ║
-    ╚════════════════════╝
+    ╔════════════════════════════╗
+    ║ DZ - Types - Base Building ║
+    ╚════════════════════════════╝
 -->
     <type name="BarrelHoles_Blue">
         <nominal>0</nominal>
@@ -117,9 +117,9 @@
         <category name="tools" />
     </type>
 <!--
-    ╔══════════════════════════════════╗
-    ║ DZ - Eletronics & Lights & Fires ║
-    ╚══════════════════════════════════╝
+    ╔══════════════════════════════════════════╗
+    ║ DZ - Types - Eletronics & Lights & Fires ║
+    ╚══════════════════════════════════════════╝
 -->
     <type name="CableReel">
         <nominal>5</nominal>
@@ -386,9 +386,9 @@
         <usage name="Police" />
     </type>
 <!--
-    ╔══════════════════════════════════╗
-    ║ DZ - Gardening & Cooking & Traps ║
-    ╚══════════════════════════════════╝
+    ╔══════════════════════════════════════════╗
+    ║ DZ - Types - Gardening & Cooking & Traps ║
+    ╚══════════════════════════════════════════╝
 -->
     <type name="Bark_Birch">
         <nominal>0</nominal>
@@ -836,9 +836,9 @@
         <category name="containers" />
     </type>
 <!--
-    ╔═════════════════════╗
-    ║ DZ - Tool - Medical ║
-    ╚═════════════════════╝
+    ╔═════════════════════════════╗
+    ║ DZ - Types - Tool - Medical ║
+    ╚═════════════════════════════╝
 -->
     <type name="Splint">
         <nominal>0</nominal>
@@ -863,9 +863,9 @@
         <category name="clothes" />
     </type>
 <!--
-    ╔══════════════════════════╗
-    ║ DZ - Tool - Melee & Misc ║
-    ╚══════════════════════════╝
+    ╔══════════════════════════════════╗
+    ║ DZ - Types - Tool - Melee & Misc ║
+    ╚══════════════════════════════════╝
 -->
     <type name="Bait">
         <nominal>0</nominal>
@@ -1667,9 +1667,9 @@
         <usage name="Village" />
     </type>
 <!--
-    ╔═══════════════════════╗
-    ║ DZ - Shelters & Tents ║
-    ╚═══════════════════════╝
+    ╔═══════════════════════════════╗
+    ║ DZ - Types - Shelters & Tents ║
+    ╚═══════════════════════════════╝
 -->
     <type name="Camonet">
         <nominal>2</nominal>

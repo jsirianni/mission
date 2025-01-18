@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════════════╗
-    ║ DZ - Weapon - Ammo ║
-    ╚════════════════════╝
+    ╔════════════════════════════╗
+    ║ DZ - Types - Weapon - Ammo ║
+    ╚════════════════════════════╝
 -->
     <type name="Ammo_12gaPellets">
         <nominal>30</nominal>
@@ -486,9 +486,9 @@
         <category name="weapons" />
     </type>
 <!--
-    ╔═══════════════════════════════╗
-    ║ DZ - Weapon - Bayonet & Light ║
-    ╚═══════════════════════════════╝
+    ╔═══════════════════════════════════════╗
+    ║ DZ - Types - Weapon - Bayonet & Light ║
+    ╚═══════════════════════════════════════╝
 -->
     <type name="AK_Bayonet">
         <nominal>5</nominal>
@@ -539,9 +539,9 @@
         <value name="Tier4" />
     </type>
 <!--
-    ╔═════════════════════════╗
-    ║ DZ - Weapon - Buttstock ║
-    ╚═════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ DZ - Types - Weapon - Buttstock ║
+    ╚═════════════════════════════════╝
 -->
     <type name="AK_FoldingBttstck">
         <nominal>3</nominal>
@@ -742,9 +742,9 @@
         <usage name="Military" />
     </type>
 <!--
-    ╔═════════════════════════╗
-    ║ DZ - Weapon - Explosive ║
-    ╚═════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ DZ - Types - Weapon - Explosive ║
+    ╚═════════════════════════════════╝
 -->
     <type name="Anniversary_FireworksLauncher">
         <nominal>0</nominal>
@@ -985,9 +985,9 @@
         <value name="Tier4" />
     </type>
 <!--
-    ╔═══════════════════╗
-    ║ DZ - Weapon - Gun ║
-    ╚═══════════════════╝
+    ╔═══════════════════════════╗
+    ║ DZ - Types - Weapon - Gun ║
+    ╚═══════════════════════════╝
 -->
     <type name="AK101">
         <nominal>2</nominal>
@@ -1995,9 +1995,9 @@
         <value name="Tier2" />
     </type>
 <!--
-    ╔═════════════════════════╗
-    ║ DZ - Weapon - Handguard ║
-    ╚═════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ DZ - Types - Weapon - Handguard ║
+    ╚═════════════════════════════════╝
 -->
     <type name="AK_PlasticHndgrd">
         <nominal>3</nominal>
@@ -2163,9 +2163,9 @@
         <usage name="Military" />
     </type>
 <!--
-    ╔═══════════════════╗
-    ║ DZ - Weapon - Mag ║
-    ╚═══════════════════╝
+    ╔═══════════════════════════╗
+    ║ DZ - Types - Weapon - Mag ║
+    ╚═══════════════════════════╝
 -->
     <type name="Mag_1911_7Rnd">
         <nominal>15</nominal>
@@ -2728,9 +2728,9 @@
         <value name="Tier4" />
     </type>
 <!--
-    ╔═════════════════════╗
-    ║ DZ - Weapon - Optic ║
-    ╚═════════════════════╝
+    ╔═════════════════════════════╗
+    ║ DZ - Types - Weapon - Optic ║
+    ╚═════════════════════════════╝
 -->
     <type name="ACOGOptic">
         <nominal>5</nominal>
@@ -2982,9 +2982,9 @@
         <value name="Tier4" />
     </type>
 <!--
-    ╔══════════════════════════╗
-    ║ DZ - Weapon - Suppressor ║
-    ╚══════════════════════════╝
+    ╔══════════════════════════════════╗
+    ║ DZ - Types - Weapon - Suppressor ║
+    ╚══════════════════════════════════╝
 -->
     <type name="AK_Suppressor">
         <nominal>1</nominal>

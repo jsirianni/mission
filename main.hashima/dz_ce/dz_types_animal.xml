@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════╗
-    ║ DZ - Animal ║
-    ╚═════════════╝
+    ╔═════════════════════╗
+    ║ DZ - Types - Animal ║
+    ╚═════════════════════╝
 -->
     <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>

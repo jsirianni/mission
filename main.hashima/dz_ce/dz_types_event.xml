@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════╗
-    ║ DZ - Event ║
-    ╚════════════╝
+    ╔════════════════════╗
+    ║ DZ - Types - Event ║
+    ╚════════════════════╝
 -->
     <type name="ContaminatedArea_Dynamic">
         <nominal>0</nominal>

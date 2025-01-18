@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═══════════╗
-    ║ DZ - Food ║
-    ╚═══════════╝
+    ╔═══════════════════╗
+    ║ DZ - Types - Food ║
+    ╚═══════════════════╝
 -->
     <type name="Apple">
         <nominal>0</nominal>

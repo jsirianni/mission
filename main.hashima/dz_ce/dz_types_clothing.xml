@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════════════════╗
-    ║ DZ - Clothing - Armband ║
-    ╚═════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ DZ - Types - Clothing - Armband ║
+    ╚═════════════════════════════════╝
 -->
     <type name="Armband_Black">
         <nominal>0</nominal>
@@ -94,9 +94,9 @@
         <category name="clothes" />
     </type>
 <!--
-    ╔════════════════════════════════════════════╗
-    ║ DZ - Clothing - Belts & Pouches & Holsters ║
-    ╚════════════════════════════════════════════╝
+    ╔════════════════════════════════════════════════════╗
+    ║ DZ - Types - Clothing - Belts & Pouches & Holsters ║
+    ╚════════════════════════════════════════════════════╝
 -->
     <type name="CivilianBelt">
         <nominal>10</nominal>
@@ -315,9 +315,9 @@
         <category name="clothes" />
     </type>
 <!--
-    ╔════════════════════════╗
-    ║ DZ - Clothing - Bottom ║
-    ╚════════════════════════╝
+    ╔════════════════════════════════╗
+    ║ DZ - Types - Clothing - Bottom ║
+    ╚════════════════════════════════╝
 -->
     <type name="BDUPants">
         <nominal>5</nominal>
@@ -789,7 +789,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
-<!--     <type name="HunterPants_Winter">
+    <!-- <type name="HunterPants_Winter">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -1441,9 +1441,9 @@
         <usage name="Military" />
     </type>
 <!--
-    ╔══════════════════════════════════╗
-    ║ DZ - Clothing - Ghillies & Pelts ║
-    ╚══════════════════════════════════╝
+    ╔══════════════════════════════════════════╗
+    ║ DZ - Types - Clothing - Ghillies & Pelts ║
+    ╚══════════════════════════════════════════╝
 -->
     <type name="BearPelt">
         <nominal>0</nominal>
@@ -1726,9 +1726,9 @@
         <category name="tools" />
     </type>
 <!--
-    ╔════════════════════════╗
-    ║ DZ - Clothing - Gloves ║
-    ╚════════════════════════╝
+    ╔════════════════════════════════╗
+    ║ DZ - Types - Clothing - Gloves ║
+    ╚════════════════════════════════╝
 -->
     <type name="HandsCover_Improvised">
         <nominal>0</nominal>
@@ -2017,9 +2017,9 @@
         <usage name="Farm" />
     </type>
 <!--
-    ╔══════════════════════╗
-    ║ DZ - Clothing - Hats ║
-    ╚══════════════════════╝
+    ╔══════════════════════════════╗
+    ║ DZ - Types - Clothing - Hats ║
+    ╚══════════════════════════════╝
 -->
     <type name="Bandana_Blackpattern">
         <nominal>0</nominal>
@@ -2892,9 +2892,9 @@
         <usage name="Village" />
     </type>
 <!--
-    ╔═════════════════════════╗
-    ║ DZ - Clothing - Helmets ║
-    ╚═════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ DZ - Types - Clothing - Helmets ║
+    ╚═════════════════════════════════╝
 -->
     <type name="BallisticHelmet_Black">
         <nominal>4</nominal>
@@ -3796,9 +3796,9 @@
         <usage name="SeasonalEvent" />
     </type>
 <!--
-    ╔═════════════════════════════════╗
-    ║ DZ - Clothing - Masks & Glasses ║
-    ╚═════════════════════════════════╝
+    ╔═════════════════════════════════════════╗
+    ║ DZ - Types - Clothing - Masks & Glasses ║
+    ╚═════════════════════════════════════════╝
 -->
     <type name="AirborneMask">
         <nominal>10</nominal>
@@ -4467,9 +4467,9 @@
         <usage name="Industrial" />
     </type>
 <!--
-    ╔══════════════════════════════════════════╗
-    ║ DZ - Clothing - Shoes & Sneakers & Boots ║
-    ╚══════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════╗
+    ║ DZ - Types - Clothing - Shoes & Sneakers & Boots ║
+    ╚══════════════════════════════════════════════════╝
 -->
     <type name="AthleticShoes_Black">
         <nominal>3</nominal>
@@ -5254,9 +5254,9 @@
         <usage name="Village" />
     </type>
 <!--
-    ╔═════════════════════╗
-    ║ DZ - Clothing - Top ║
-    ╚═════════════════════╝
+    ╔═════════════════════════════╗
+    ║ DZ - Types - Clothing - Top ║
+    ╚═════════════════════════════╝
 -->
     <type name="BDUJacket">
         <nominal>8</nominal>
@@ -7055,9 +7055,9 @@
         <value name="Tier1" />
     </type>
 <!--
-    ╔═══════════════════════╗
-    ║ DZ - Clothing - Vests ║
-    ╚═══════════════════════╝
+    ╔═══════════════════════════════╗
+    ║ DZ - Types - Clothing - Vests ║
+    ╚═══════════════════════════════╝
 -->
     <type name="HighCapacityVest_Black">
         <nominal>5</nominal>

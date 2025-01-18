@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
+<!--
+    ╔════════════════════════════╗
+    ║ DZ - SpawnableTypes - Misc ║
+    ╚════════════════════════════╝
+-->
     <type name="Barrel_Blue">
         <hoarder />
     </type>
