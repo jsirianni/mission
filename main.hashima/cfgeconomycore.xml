@@ -63,7 +63,6 @@
         <file name="dz_types_clothing.xml" type="types" />
         <file name="dz_types_event.xml" type="types" />
         <file name="dz_types_food.xml" type="types" />
-        <file name="dz_types_misc.xml" type="types" />
         <file name="dz_types_tool.xml" type="types" />
         <file name="dz_types_weapon.xml" type="types" />
     </ce>
