@@ -41,7 +41,7 @@ Map Version: 0.0.1-alpha-4
     └── hashima.xml
 
 ┌─────────────────────┐
-│ > hardcore.hashima/ │
+│ > main.hashima/ │
 └───┬─────────────────┘
     │
     ├───────┐

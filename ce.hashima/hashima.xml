@@ -59,13 +59,13 @@
                 <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="3332.5" z="2783" r="70" d="25" />
                 <zone name="InfectedCityTier2" smin="2" smax="5" dmin="9" dmax="14" x="3749" z="3009" r="70" d="25" />
             </territory>
-            <territory name="InfectedNBCSpecialForce" visible="0" color="4294901887">
-                <zone name="InfectedNBCSpecialForce" smin="5" smax="5" dmin="0" dmax="0" x="4093" z="714" r="170" d="2" />
-                <zone name="InfectedNBCSpecialForce" smin="5" smax="5" dmin="0" dmax="0" x="4250" z="977" r="90" d="2" />
-                <zone name="InfectedNBCSpecialForce" smin="5" smax="10" dmin="2" dmax="5" x="560" z="4566" r="180" d="2" />
-                <zone name="InfectedNBCSpecialForce" smin="1" smax="3" dmin="1" dmax="2" x="3446" z="3421" r="50" d="25" />
-                <zone name="InfectedNBCSpecialForce" smin="1" smax="3" dmin="2" dmax="4" x="901.455" z="1900" r="85" d="25" />
-                <zone name="InfectedNBCSpecialForce" smin="0" smax="0" dmin="4" dmax="6" x="2640" z="2716.67" r="60" d="48" />
+            <territory name="InfectedNBCBlack" visible="0" color="4294901887">
+                <zone name="InfectedNBCBlack" smin="5" smax="5" dmin="0" dmax="0" x="4093" z="714" r="170" d="2" />
+                <zone name="InfectedNBCBlack" smin="5" smax="5" dmin="0" dmax="0" x="4250" z="977" r="90" d="2" />
+                <zone name="InfectedNBCBlack" smin="5" smax="10" dmin="2" dmax="5" x="560" z="4566" r="180" d="2" />
+                <zone name="InfectedNBCBlack" smin="1" smax="3" dmin="1" dmax="2" x="3446" z="3421" r="50" d="25" />
+                <zone name="InfectedNBCBlack" smin="1" smax="3" dmin="2" dmax="4" x="901.455" z="1900" r="85" d="25" />
+                <zone name="InfectedNBCBlack" smin="0" smax="0" dmin="4" dmax="6" x="2640" z="2716.67" r="60" d="48" />
             </territory>
             <territory name="Solitude" visible="0" color="3001471911">
                 <zone name="InfectedSolitude" smin="1" smax="0" dmin="1" dmax="5" x="4025" z="3266" r="70" d="25" />
@@ -130,15 +130,15 @@
             <territory name="InfectedNBC" visible="0" color="4294923520" />
             <territory name="Army" visible="0" color="2986773248">
                 <zone name="InfectedArmy" smin="5" smax="8" dmin="3" dmax="6" x="3408.11" z="3410" r="90" d="25" />
-                <zone name="InfectedArmyHard" smin="0" smax="3" dmin="2" dmax="5" x="2539.1" z="2580.61" r="50" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="2" dmin="1" dmax="2" x="2151" z="2974" r="50" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="3" dmin="1" dmax="3" x="1475" z="3649" r="50" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="4" dmin="2" dmax="5" x="752" z="4375" r="50" d="48" />
+                <zone name="InfectedArmyHeavy" smin="0" smax="3" dmin="2" dmax="5" x="2539.1" z="2580.61" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="2" dmin="1" dmax="2" x="2151" z="2974" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="3" dmin="1" dmax="3" x="1475" z="3649" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="4" dmin="2" dmax="5" x="752" z="4375" r="50" d="48" />
                 <zone name="InfectedArmy" smin="0" smax="5" dmin="4" dmax="8" x="920.2" z="1784.2" r="70" d="25" />
-                <zone name="InfectedArmyHard" smin="5" smax="10" dmin="10" dmax="15" x="560" z="4558" r="280" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="3" dmin="1" dmax="3" x="1102.67" z="4018.67" r="50" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="3" dmin="1" dmax="3" x="1821.33" z="3300.67" r="50" d="25" />
-                <zone name="InfectedArmyHard" smin="1" smax="2" dmin="1" dmax="2" x="2349" z="2770.33" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="5" smax="10" dmin="10" dmax="15" x="560" z="4558" r="280" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="3" dmin="1" dmax="3" x="1102.67" z="4018.67" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="3" dmin="1" dmax="3" x="1821.33" z="3300.67" r="50" d="25" />
+                <zone name="InfectedArmyHeavy" smin="1" smax="2" dmin="1" dmax="2" x="2349" z="2770.33" r="50" d="25" />
                 <zone name="InfectedArmy" smin="0" smax="4" dmin="5" dmax="8" x="893" z="1981" r="50" d="25" />
                 <zone name="InfectedArmy" smin="0" smax="3" dmin="3" dmax="6" x="911" z="1901" r="50" d="25" />
                 <zone name="InfectedArmy" smin="5" smax="10" dmin="3" dmax="6" x="3457.33" z="3705.33" r="66" d="25" />
@@ -175,7 +175,7 @@
                 <zone name="InfectedCityTier3" smin="1" smax="5" dmin="3" dmax="5" x="2536" z="2578.67" r="50" d="2" />
             </territory>
             <territory name="Firefighter" visible="0" color="2997969428">
-                <zone name="InfectedFirefighter" smin="0" smax="2" dmin="2" dmax="3" x="2657.14" z="2618.71" r="50" d="48" />
+                <zone name="InfectedFireFighter" smin="0" smax="2" dmin="2" dmax="3" x="2657.14" z="2618.71" r="50" d="48" />
             </territory>
             <territory name="IndustrialT1" visible="0" color="3014847487">
                 <zone name="InfectedIndustrial" smin="2" smax="5" dmin="3" dmax="5" x="3978.33" z="794.667" r="50" d="2" />
@@ -215,11 +215,11 @@
                 <zone name="InfectedCityTier2" smin="2" smax="3" dmin="5" dmax="11" x="3657" z="3389" r="50" d="25" />
             </territory>
             <territory name="IndustrialT3" visible="0" color="2991796735" />
-            <territory name="InfectedNBC_Purple" visible="0" color="4283760767">
-                <zone name="InfectedNBC_Purple" smin="0" smax="1" dmin="8" dmax="15" x="560" z="4564" r="85" d="25" />
+            <territory name="InfectedNBCPurple" visible="0" color="4283760767">
+                <zone name="InfectedNBCPurple" smin="0" smax="1" dmin="8" dmax="15" x="560" z="4564" r="85" d="25" />
             </territory>
-            <territory name="InfectedNBC_Red" visible="0" color="4289331200">
-                <zone name="InfectedNBC_Red" smin="0" smax="0" dmin="3" dmax="6" x="916" z="1783.33" r="60" d="48" />
+            <territory name="InfectedNBCRed" visible="0" color="4289331200">
+                <zone name="InfectedNBCRed" smin="0" smax="0" dmin="3" dmax="6" x="916" z="1783.33" r="60" d="48" />
             </territory>
             <territory name="IndustrialT2" visible="0" color="3010433951">
                 <zone name="InfectedIndustrial" smin="1" smax="2" dmin="1" dmax="3" x="1373" z="2614.5" r="50" d="2" />
@@ -233,9 +233,9 @@
                 <zone name="InfectedIndustrial" smin="0" smax="2" dmin="2" dmax="4" x="1740" z="2568" r="50" d="25" />
                 <zone name="InfectedIndustrial" smin="0" smax="2" dmin="1" dmax="2" x="3516.4" z="2903.6" r="50" d="2" />
             </territory>
-            <territory name="InfectedNBC_Green" visible="0" color="4283804287">
-                <zone name="InfectedNBC_Green" smin="1" smax="4" dmin="3" dmax="6" x="4220" z="962.667" r="85" d="25" />
-                <zone name="InfectedNBC_Green" smin="0" smax="2" dmin="10" dmax="15" x="4093.33" z="713.333" r="150" d="25" />
+            <territory name="InfectedNBCGreen" visible="0" color="4283804287">
+                <zone name="InfectedNBCGreen" smin="1" smax="4" dmin="3" dmax="6" x="4220" z="962.667" r="85" d="25" />
+                <zone name="InfectedNBCGreen" smin="0" smax="2" dmin="10" dmax="15" x="4093.33" z="713.333" r="150" d="25" />
             </territory>
         </territory-type>
         <territory-type name="hen_territories">
