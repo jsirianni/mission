@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-    ╔═══════════════════════════╗
-    ║ SpawnableTypes - Clothing ║
-    ╚═══════════════════════════╝
+    ╔═════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Clothing ║
+    ╚═════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Clothing_Firefighter_Jacket_Black">
         <cargo preset="toolsPolice" />
@@ -82,9 +82,9 @@
         <cargo preset="toolsPolice" />
     </type>
 <!--
-    ╔═══════════════════════╗
-    ║ SpawnableTypes - Bags ║
-    ╚═══════════════════════╝
+    ╔════════════════════════════╗
+    ║ CCS - SpawnableTypes - Bag ║
+    ╚════════════════════════════╝
 -->
     <type name="CCS_Hashima_Bag_ChildBag_Blue">
         <cargo preset="foodVillage" />

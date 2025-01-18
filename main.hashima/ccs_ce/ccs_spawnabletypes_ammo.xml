@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-    ╔═══════════════════════╗
-    ║ SpawnableTypes - Ammo ║
-    ╚═══════════════════════╝
+    ╔═════════════════════════════╗
+    ║ CCS - SpawnableTypes - Ammo ║
+    ╚═════════════════════════════╝
 -->
     <type name="CCS_Hashima_Tool_AmmoBox">
         <cargo chance="0.10">

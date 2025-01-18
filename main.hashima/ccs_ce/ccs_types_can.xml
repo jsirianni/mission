@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════════╗
-    ║ CCS - Can - Cat ║
-    ╚═════════════════╝
+    ╔═════════════════════════╗
+    ║ CCS - Types - Can - Cat ║
+    ╚═════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Cat_1">
         <nominal>5</nominal>
@@ -81,9 +81,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔═════════════════╗
-    ║ CCS - Can - Dog ║
-    ╚═════════════════╝
+    ╔═════════════════════════╗
+    ║ CCS - Types - Can - Dog ║
+    ╚═════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Dog_1">
         <nominal>5</nominal>
@@ -242,9 +242,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔═══════════════════╗
-    ║ CCS - Can - Fruit ║
-    ╚═══════════════════╝
+    ╔═══════════════════════════╗
+    ║ CCS - Types - Can - Fruit ║
+    ╚═══════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Fruit_Apple">
         <nominal>3</nominal>
@@ -429,9 +429,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔════════════════════╗
-    ║ CCS - Can - Noodle ║
-    ╚════════════════════╝
+    ╔════════════════════════════╗
+    ║ CCS - Types - Can - Noodle ║
+    ╚════════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Noodle_1">
         <nominal>8</nominal>
@@ -564,9 +564,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔════════════════════╗
-    ║ CCS - Can - Pocket ║
-    ╚════════════════════╝
+    ╔════════════════════════════╗
+    ║ CCS - Types - Can - Pocket ║
+    ╚════════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Cream_1">
         <nominal>4</nominal>
@@ -835,9 +835,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔═════════════════════╗
-    ║ CCS - Can - Sardine ║
-    ╚═════════════════════╝
+    ╔═════════════════════════════╗
+    ║ CCS - Types - Can - Sardine ║
+    ╚═════════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Sardine_1">
         <nominal>1</nominal>
@@ -1491,9 +1491,9 @@
         <category name="food" />
     </type>
 <!--
-    ╔═════════════════════╗
-    ║ CCS - Can - Soybean ║
-    ╚═════════════════════╝
+    ╔═════════════════════════════╗
+    ║ CCS - Types - Can - Soybean ║
+    ╚═════════════════════════════╝
 -->
     <type name="CCS_Hashima_Can_Mizkan">
         <nominal>5</nominal>

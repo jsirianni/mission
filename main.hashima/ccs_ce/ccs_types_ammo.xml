@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════╗
-    ║ CCS - Ammo ║
-    ╚════════════╝
+    ╔════════════════════╗
+    ║ CCS - Types - Ammo ║
+    ╚════════════════════╝
 -->
     <!-- <type name="CCS_RokuohShaType89_Bullet">
         <nominal>0</nominal>

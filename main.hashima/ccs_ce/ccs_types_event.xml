@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═══════════════════╗
-    ║ CCS - Event       ║
-    ╚═══════════════════╝
+    ╔═════════════════════╗
+    ║ CCS - Types - Event ║
+    ╚═════════════════════╝
 -->
     <type name="Land_CCS_Capsule_Vending_Machine">
         <nominal>0</nominal>

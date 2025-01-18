@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═══════════╗
-    ║ CCS - Bag ║
-    ╚═══════════╝
+    ╔═══════════════════╗
+    ║ CCS - Types - Bag ║
+    ╚═══════════════════╝
 -->
     <type name="CCS_Hashima_Bag_ChildBag_Blue">
         <nominal>7</nominal>

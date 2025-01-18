@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════╗
-    ║ CCS - Snack ║
-    ╚═════════════╝
+    ╔═════════════════════╗
+    ║ CCS - Types - Snack ║
+    ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Snack_Bar_1">
         <nominal>4</nominal>

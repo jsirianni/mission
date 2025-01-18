@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════════╗
-    ║ CCS - Clothing ║
-    ╚════════════════╝
+    ╔════════════════════════╗
+    ║ CCS - Types - Clothing ║
+    ╚════════════════════════╝
 -->
     <type name="CCS_Hashima_Clothing_Prisoner_Pants">
         <nominal>5</nominal>
@@ -448,7 +448,6 @@
         <usage name="Police" />
     </type>
 
-    <!-- -->
     <type name="CCS_Hashima_Clothing_NBC_Boots_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>

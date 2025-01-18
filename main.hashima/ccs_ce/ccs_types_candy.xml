@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════╗
-    ║ CCS - Candy ║
-    ╚═════════════╝
+    ╔═════════════════════╗
+    ║ CCS - Types - Candy ║
+    ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Candy_Chew">
         <nominal>6</nominal>

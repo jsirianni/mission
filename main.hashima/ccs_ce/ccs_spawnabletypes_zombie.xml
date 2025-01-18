@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-    ╔════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Army ║
-    ╚════════════════════════════════╝
+    ╔══════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Army ║
+    ╚══════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_M_Patrol_Normal_Autumn">
         <cargo preset="foodArmy" />
@@ -55,9 +55,9 @@
         <attachments preset="HeavyHelmetArmy" />
     </type>
 <!--
-    ╔════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - City ║
-    ╚════════════════════════════════╝
+    ╔══════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - City ║
+    ╚══════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_Clerk_Normal_Blue">
         <cargo preset="foodCity" />
@@ -474,18 +474,18 @@
         <attachments preset="bagsCity" />
     </type>
 <!--
-    ╔════════════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Fire Figther ║
-    ╚════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Fire Figther ║
+    ╚══════════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_M_Firefighter_Normal">
         <cargo preset="toolsCity" />
         <attachments preset="hatsFirefighter" />
     </type>
 <!--
-    ╔══════════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Industrial ║
-    ╚══════════════════════════════════════╝
+    ╔════════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Industrial ║
+    ╚════════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_BlueCollar_Fat_Blue">
         <cargo preset="foodCity" />
@@ -696,9 +696,9 @@
         <attachments preset="vestsIndustrial" />
     </type>
 <!--
-    ╔═════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Medic ║
-    ╚═════════════════════════════════╝
+    ╔═══════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Medic ║
+    ╚═══════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_Doctor_Skinny">
         <cargo preset="toolsMedic" />
@@ -710,15 +710,6 @@
     <type name="CCS_Hashima_Zombie_F_Paramedic_Normal_Black">
         <cargo preset="toolsMedic" />
     </type>
-    <!-- <type name="CCS_Hashima_Zombie_F_Paramedic_Normal_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Paramedic_Normal_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Paramedic_Normal_Red">
-        <cargo preset="toolsMedic" />
-    </type> -->
     <type name="CCS_Hashima_Zombie_F_Patient_Old">
         <cargo preset="toolsMedic" />
     </type>
@@ -729,22 +720,13 @@
     <type name="CCS_Hashima_Zombie_M_Paramedic_Normal_Black">
         <cargo preset="toolsMedic" />
     </type>
-    <!-- <type name="CCS_Hashima_Zombie_M_Paramedic_Normal_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="CCS_Hashima_Zombie_M_Paramedic_Normal_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="CCS_Hashima_Zombie_M_Paramedic_Normal_Red">
-        <cargo preset="toolsMedic" />
-    </type> -->
     <type name="CCS_Hashima_Zombie_M_Patient_Skinny">
         <cargo preset="toolsMedic" />
     </type>
 <!--
-    ╔═══════════════════════════════╗
-    ║ SpawnableTypes - Zombie - NBC ║
-    ╚═══════════════════════════════╝
+    ╔═════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - NBC ║
+    ╚═════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_M_NBC_Green">
         <cargo preset="ContaminatedCargo" />
@@ -788,9 +770,9 @@
         </cargo>
     </type>
 <!--
-    ╔══════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Police ║
-    ╚══════════════════════════════════╝
+    ╔════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Police ║
+    ╚════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_PoliceOfficer_Normal">
         <cargo preset="toolsPolice" />
@@ -828,9 +810,9 @@
         <attachments preset="vestsPolice" />
     </type>
 <!--
-    ╔═════════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Prisioner ║
-    ╚═════════════════════════════════════╝
+    ╔═══════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Prisioner ║
+    ╚═══════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_M_Prisoner_Skinny">
         <cargo chance="0.10">
@@ -840,17 +822,17 @@
         <attachments preset="hatsPrisoner" />
     </type>
 <!--
-    ╔═════════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Religious ║
-    ╚═════════════════════════════════════╝
+    ╔═══════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Religious ║
+    ╚═══════════════════════════════════════════╝
 -->
-    <type name="CCS_Hashima_Zombie_M_priest_Skinny">
+    <type name="CCS_Hashima_Zombie_M_Priest_Skinny">
         <cargo preset="foodHermit" />
     </type>
 <!--
-    ╔════════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Solitude ║
-    ╚════════════════════════════════════╝
+    ╔══════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Solitude ║
+    ╚══════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_Hiker_Skinny_Blue">
         <cargo preset="foodHermit" />
@@ -960,9 +942,9 @@
         <attachments preset="vestsHunter" />
     </type>
 <!--
-    ╔═══════════════════════════════════╗
-    ║ SpawnableTypes - Zombie - Village ║
-    ╚═══════════════════════════════════╝
+    ╔═════════════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Zombie - Village ║
+    ╚═════════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Beige">
         <cargo preset="foodVillage" />

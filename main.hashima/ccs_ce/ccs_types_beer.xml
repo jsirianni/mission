@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════╗
-    ║ CCS - Beer ║
-    ╚════════════╝
+    ╔════════════════════╗
+    ║ CCS - Types - Beer ║
+    ╚════════════════════╝
 -->
     <type name="CCS_Hashima_Beer_Asahi">
         <nominal>5</nominal>

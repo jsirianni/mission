@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔══════════════╗
-    ║ CCS - Weapon ║
-    ╚══════════════╝
+    ╔══════════════════════╗
+    ║ CCS - Types - Weapon ║
+    ╚══════════════════════╝
 -->
     <type name="CCS_RokuohShaType89">
         <nominal>0</nominal>

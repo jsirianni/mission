@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔═════════════╗
-    ║ CCS - Drink ║
-    ╚═════════════╝
+    ╔═════════════════════╗
+    ║ CCS - Types - Drink ║
+    ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Drink_Fanta">
         <nominal>12</nominal>
