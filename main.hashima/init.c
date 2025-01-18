@@ -40,10 +40,8 @@ class CustomMission : MissionServer
     {
         super.OnInit();
 
-        // LXD Weather System
         if ( m_EventManager )
         {
-            // Min time between events, max time between events, max number of events at the same time (LEAVE IT AT 1).
              //m_EventManager.Run( 120, 180, 1 );
              m_EventManager.Run( 400, 650, 1 );
 
@@ -297,10 +295,6 @@ class CustomMission : MissionServer
         // itemBs.SetQuantity(1);
     };
 
-    // ------------------------------------------------------------
-    // SPAWNING
-    // ------------------------------------------------------------
-
     static const ref array<vector> SPAWN_POSITIONS =
     {
         "621.717 5.05475 952.71",
@@ -323,12 +317,12 @@ class CustomMission : MissionServer
         vector pos1 = SPAWN_POSITIONS.GetRandomElement();
 
         SyncRespawnModeInfo(identity);
-        // get login data for new character
+
         if ( ProcessLoginData(ctx) && (m_RespawnMode == GameConstants.RESPAWN_MODE_CUSTOM) && !GetGame().GetMenuDefaultCharacterData(false).IsRandomCharacterForced() )
         {
             if (GetGame().ListAvailableCharacters().Find(GetGame().GetMenuDefaultCharacterData().GetCharacterType()) > -1)
                 characterType = GetGame().GetMenuDefaultCharacterData().GetCharacterType();
-            else //random type
+            else
                 characterType = GetGame().CreateRandomPlayer();
         }
         else
