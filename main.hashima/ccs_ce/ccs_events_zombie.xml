@@ -23,8 +23,8 @@
             <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Flat" />
             <child lootmax="5" lootmin="0" max="0" min="20" type="CCS_Hashima_Zombie_M_Patrol_Normal_PautRev" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="CCS_Hashima_Zombie_M_Patrol_Normal_Summer" />
-            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_normal_Desert" />
-            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_normal_Woodland" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Desert" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="CCS_Hashima_Zombie_M_Soldier_Normal_Woodland" />
         </children>
     </event>
     <event name="InfectedArmyHeavy">
@@ -65,13 +65,13 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Beige" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_CitizenB_Skinny" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
@@ -88,12 +88,12 @@
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Gray" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Green" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
@@ -124,13 +124,13 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Beige" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_CitizenB_Skinny" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
@@ -147,12 +147,12 @@
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Gray" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Green" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
@@ -183,13 +183,13 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Beige" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_CitizenB_Skinny" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
@@ -206,12 +206,12 @@
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Gray" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Green" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
@@ -242,13 +242,13 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_BlueCollar_Fat_White" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Beige" />
-            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_CitizenA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_CitizenB_Skinny" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_ClerkA_Normal_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Beige" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="CCS_Hashima_Zombie_F_Citizen_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="7" type="CCS_Hashima_Zombie_F_Citizen_Skinny" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_White" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Clerk_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Journalist_Normal_Red" />
@@ -265,12 +265,12 @@
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_F_Survival_Normal_White" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Gray" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenA_Skinny_Red" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Green" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_CitizenB_Fat_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Gray" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Skinny_Red" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Blue" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Green" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Citizen_Fat_Red" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Gray" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_Khaki" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="CCS_Hashima_Zombie_M_Clerk_Fat_White" />
