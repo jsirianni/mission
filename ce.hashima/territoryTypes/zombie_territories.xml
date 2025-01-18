@@ -125,7 +125,7 @@
         <zone name="InfectedCityTier3" smin="1" smax="5" dmin="3" dmax="5" x="2536" z="2578.67" r="50" />
     </territory>
     <territory color="2997969428">
-        <zone name="InfectedFireFighter" smin="0" smax="2" dmin="2" dmax="3" x="2657.14" z="2618.71" r="50" />
+        <zone name="InfectedFirefighter" smin="0" smax="2" dmin="2" dmax="3" x="2657.14" z="2618.71" r="50" />
     </territory>
     <territory color="3014847487">
         <zone name="InfectedIndustrial" smin="2" smax="5" dmin="3" dmax="5" x="3978.33" z="794.667" r="50" />

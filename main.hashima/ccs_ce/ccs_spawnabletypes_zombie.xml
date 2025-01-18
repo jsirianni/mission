@@ -479,7 +479,7 @@
     ║ CCS - SpawnableTypes - Zombie - Fire Figther ║
     ╚══════════════════════════════════════════════╝
 -->
-    <type name="CCS_Hashima_Zombie_M_FireFighter_Normal">
+    <type name="CCS_Hashima_Zombie_M_Firefighter_Normal">
         <cargo preset="toolsCity" />
         <attachments preset="hatsFirefighter" />
     </type>

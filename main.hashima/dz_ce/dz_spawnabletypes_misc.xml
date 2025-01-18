@@ -1676,7 +1676,7 @@
         <attachments preset="bagsIndustrial" />
         <attachments preset="vestsIndustrial" />
     </type>
-    <!-- FireFighter -->
+    <!-- Firefighter -->
     <type name="ZmbM_FirefighterNormal">
         <cargo preset="toolsCity" />
         <attachments preset="hatsFirefighter" />

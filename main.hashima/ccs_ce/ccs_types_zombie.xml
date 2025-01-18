@@ -45,6 +45,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+
     <type name="CCS_Hashima_Zombie_F_CitizenA_Normal_Beige">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -894,7 +895,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 
-    <type name="CCS_Hashima_Zombie_M_FireFighter_Normal">
+    <type name="CCS_Hashima_Zombie_M_Firefighter_Normal">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -996,6 +997,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_HeavyIndustryWorker_Normal">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -1006,6 +1008,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_Hermit_Skinny_Beige">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -1334,6 +1337,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 
+    <type name="CCS_Hashima_Zombie_M_NBC_Black">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Green">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -1355,16 +1368,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Red">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>
-    <type name="CCS_Hashima_Zombie_M_NBC_Black">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -1532,6 +1535,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 
+    <type name="CCS_Hashima_Zombie_M_Santa_Fat">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
     <type name="CCS_Hashima_Zombie_M_Skater_Young_Blue">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -1666,6 +1680,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="CCS_Hashima_Zombie_M_Villager_Old_White">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+    <type name="CCS_Hashima_Zombie_Mummy_Normal">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>

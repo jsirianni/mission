@@ -15,7 +15,7 @@
     <event name="InfectedCityTier1" />
     <event name="InfectedCityTier2" />
     <event name="InfectedCityTier3" />
-    <event name="InfectedFireFighter" />
+    <event name="InfectedFirefighter" />
     <event name="InfectedIndustrial" />
     <event name="InfectedMedic" />
     <event name="InfectedNBCGreen" />
