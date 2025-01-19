@@ -978,25 +978,6 @@
     ║ CCS - SpawnableTypes - Zombie - Village ║
     ╚═════════════════════════════════════════╝
 -->
-    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Beige">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Black">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Milkmaid_Old_Gray">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Green">
-        <cargo preset="drinks_T1" />
-        <cargo preset="food_T1" />
-        <cargo preset="toolsCommon_T1" />
-        <attachments preset="hatsCommon_T1" />
-    </type>
-
     <type name="CCS_Hashima_Zombie_F_Jogger_Skinny_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="toolsVillage" />
@@ -1024,6 +1005,25 @@
         <cargo preset="toolsCommon_T1" />
         <attachments preset="helmetsCommon_T1" />
         <attachments preset="backpacks_T1" />
+    </type>
+
+    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Beige">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Black">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_Milkmaid_Old_Gray">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_MilkMaid_Old_Green">
+        <cargo preset="drinks_T1" />
+        <cargo preset="food_T1" />
+        <cargo preset="toolsCommon_T1" />
+        <attachments preset="hatsCommon_T1" />
     </type>
 
     <type name="CCS_Hashima_Zombie_F_Villager_Old_Blue">
