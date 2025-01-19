@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-    ╔═════════════════════════════╗
-    ║ CCS - SpawnableTypes - Misc ║
-    ╚═════════════════════════════╝
+    ╔════════════════════════════════╗
+    ║ CCS - SpawnableTypes - Medical ║
+    ╚════════════════════════════════╝
 -->
+    <type name="CCS_Hashima_Medical_Bandage">
+        <damage min="0.0" max="0.0" />
+    </type>
     <type name="CCS_Hashima_Medical_First_Aid_kit">
         <tag name="shelves" />
         <cargo chance="1">

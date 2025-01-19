@@ -14,6 +14,7 @@
     <type name="CCS_Hashima_Bag_ChildBag_Red">
         <cargo preset="foodVillage" />
     </type>
+
     <type name="CCS_Hashima_Bag_Drybag_Black">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
@@ -44,6 +45,7 @@
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
+
     <type name="CCS_Hashima_Bag_HikingBag_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="mixVillage" />
@@ -64,6 +66,7 @@
         <cargo preset="foodVillage" />
         <cargo preset="mixVillage" />
     </type>
+
     <type name="CCS_Hashima_Bag_MountainBag_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="mixVillage" />
