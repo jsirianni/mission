@@ -157,7 +157,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="weapons" />
     </type>
-    <type name="CCS_Improvised_Grenade_Launcher_Stage_1">
+    <type name="CCS_Improvised_Grenade_Launcher_Stage1">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -168,7 +168,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="weapons" />
     </type>
-    <type name="CCS_Improvised_Grenade_Launcher_Stage_2">
+    <type name="CCS_Improvised_Grenade_Launcher_Stage2">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -179,7 +179,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="weapons" />
     </type>
-    <type name="CCS_Improvised_Grenade_Launcher_Stage_3">
+    <type name="CCS_Improvised_Grenade_Launcher_Stage3">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
