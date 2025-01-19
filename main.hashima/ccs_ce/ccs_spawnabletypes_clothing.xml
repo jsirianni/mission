@@ -37,6 +37,7 @@
     <type name="CCS_Hashima_Clothing_MedicalScrubs_Pants_Red">
         <cargo preset="toolsMedic" />
     </type>
+
     <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Black">
         <cargo preset="toolsMedic" />
     </type>
@@ -48,6 +49,71 @@
     </type>
     <type name="CCS_Hashima_Clothing_MedicalScrubs_Shirt_Red">
         <cargo preset="toolsMedic" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Boots_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Gloves_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Hood_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Jacket_Red">
+        <damage min="0.0" max="0.35" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Black">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Green">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Purple">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="CCS_Hashima_Clothing_NBC_Pants_Red">
+        <damage min="0.0" max="0.35" />
     </type>
 
     <type name="CCS_Hashima_Clothing_Nurse_Dress_Black">

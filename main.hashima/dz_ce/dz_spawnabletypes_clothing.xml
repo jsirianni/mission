@@ -645,22 +645,7 @@
     <type name="BomberJacket_SkyBlue">
         <cargo preset="mixVillage" />
     </type>
-    <type name="MedicalScrubsShirt_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="MedicalScrubsShirt_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="MedicalScrubsShirt_White">
-        <cargo preset="toolsMedic" />
-    </type>
     <type name="LabCoat">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="NurseDress_White">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="NurseDress_Blue">
         <cargo preset="toolsMedic" />
     </type>
     <type name="USMCJacket_Desert">
@@ -742,35 +727,5 @@
         <attachments chance="0.20">
             <item name="DirtBikeHelmet_Visor" chance="1.00" />
         </attachments>
-    </type>
-    <type name="NBCBootsGray">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCBootsYellow">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCGlovesGray">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCGlovesYellow">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCHoodGray">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCHoodYellow">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCJacketGray">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCJacketYellow">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCPantsGray">
-        <damage min="0.0" max="0.35" />
-    </type>
-    <type name="NBCPantsYellow">
-        <damage min="0.0" max="0.35" />
     </type>
 </spawnabletypes>

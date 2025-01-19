@@ -507,6 +507,7 @@
         <category name="clothes" />
         <usage name="Medic" />
     </type>
+
     <type name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Black">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -651,6 +652,7 @@
         <category name="clothes" />
         <usage name="Medic" />
     </type>
+
     <type name="CCS_Hashima_Clothing_NBC_Boots_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -707,6 +709,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Clothing_NBC_Gloves_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -763,6 +766,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Clothing_NBC_Hood_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -819,6 +823,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Clothing_NBC_Jacket_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -875,6 +880,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Clothing_NBC_Pants_Black">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -931,6 +937,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Clothing_Nurse_Dress_Black">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -979,6 +986,7 @@
         <category name="clothes" />
         <usage name="Medic" />
     </type>
+
     <type name="CCS_Hashima_Clothing_Paramedic_Jacket_Black">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1003,6 +1011,7 @@
         <category name="clothes" />
         <usage name="Medic" />
     </type>
+
     <type name="CCS_Hashima_Clothing_Police_Cap_Black">
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
@@ -1041,10 +1050,6 @@
         <usage name="Police" />
     </type>
 
-
-
-
-
     <type name="CCS_Hashima_Clothing_Skirt_Red">
         <nominal>7</nominal>
         <lifetime>14400</lifetime>
@@ -1058,6 +1063,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
+
     <type name="CCS_Hashima_Clothing_TShirt_Android">
         <nominal>3</nominal>
         <lifetime>900</lifetime>
