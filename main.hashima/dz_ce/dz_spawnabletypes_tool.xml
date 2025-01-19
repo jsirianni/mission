@@ -17,6 +17,7 @@
     <type name="Barrel_Yellow">
         <hoarder />
     </type>
+
     <type name="CarTent">
         <hoarder />
     </type>
@@ -44,15 +45,14 @@
     <type name="PartyTent_Lunapark">
         <hoarder />
     </type>
-    <type name="SeaChest">
-        <hoarder />
-    </type>
+
     <type name="SmallProtectorCase">
         <hoarder />
     </type>
     <type name="UndergroundStash">
         <hoarder />
     </type>
+
     <type name="NVGoggles">
         <damage min="0.0" max="0.32" />
     </type>
@@ -75,30 +75,7 @@
     <type name="SmallStone">
         <damage min="0.0" max="0.0" />
     </type>
-    <type name="Bear_Beige">
-        <cargo chance="0.00">
-            <item name="Paper" chance="0.50" />
-            <item name="Rag" chance="0.50" />
-        </cargo>
-    </type>
-    <type name="Bear_Dark">
-        <cargo chance="0.00">
-            <item name="Paper" chance="0.50" />
-            <item name="Rag" chance="0.50" />
-        </cargo>
-    </type>
-    <type name="Bear_Pink">
-        <cargo chance="0.00">
-            <item name="Paper" chance="0.50" />
-            <item name="Rag" chance="0.50" />
-        </cargo>
-    </type>
-    <type name="Bear_White">
-        <cargo chance="0.00">
-            <item name="Paper" chance="0.50" />
-            <item name="Rag" chance="0.50" />
-        </cargo>
-    </type>
+
     <type name="WaterBottle">
     </type>
     <type name="Canteen">
