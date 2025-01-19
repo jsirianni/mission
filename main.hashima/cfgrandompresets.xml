@@ -636,12 +636,12 @@
     ╚════════════════╝
 -->
     <attachments chance="0.05" name="bagsIndustrial">
-        <item name="CCS_Hashima_Bag_Drybag_Orange" chance="0.20" />
-        <item name="CCS_Hashima_Bag_Drybag_Yellow" chance="0.20" />
-        <item name="CCS_Hashima_Bag_Drybag_Blue" chance="0.20" />
-        <item name="CCS_Hashima_Bag_Drybag_Green" chance="0.1" />
-        <item name="CCS_Hashima_Bag_Drybag_Black" chance="0.1" />
-        <item name="CCS_Hashima_Bag_Drybag_Red" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Orange" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Yellow" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Blue" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Green" chance="0.1" />
+        <item name="CCS_Hashima_Bag_DryBag_Black" chance="0.1" />
+        <item name="CCS_Hashima_Bag_DryBag_Red" chance="0.20" />
     </attachments>
 <!--
     ╔═════════════════╗

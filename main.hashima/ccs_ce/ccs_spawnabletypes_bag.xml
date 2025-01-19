@@ -15,32 +15,32 @@
         <cargo preset="foodVillage" />
     </type>
 
-    <type name="CCS_Hashima_Bag_Drybag_Black">
+    <type name="CCS_Hashima_Bag_DryBag_Black">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Blue">
+    <type name="CCS_Hashima_Bag_DryBag_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Green">
+    <type name="CCS_Hashima_Bag_DryBag_Green">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Orange">
+    <type name="CCS_Hashima_Bag_DryBag_Orange">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Red">
+    <type name="CCS_Hashima_Bag_DryBag_Red">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Yellow">
+    <type name="CCS_Hashima_Bag_DryBag_Yellow">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
         <cargo preset="mixHunter" />

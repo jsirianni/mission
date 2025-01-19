@@ -47,7 +47,7 @@
         <usage name="Village" />
         <usage name="School" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Black">
+    <type name="CCS_Hashima_Bag_DryBag_Black">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -61,7 +61,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Blue">
+    <type name="CCS_Hashima_Bag_DryBag_Blue">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -75,7 +75,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Green">
+    <type name="CCS_Hashima_Bag_DryBag_Green">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -89,7 +89,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Orange">
+    <type name="CCS_Hashima_Bag_DryBag_Orange">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -103,7 +103,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Red">
+    <type name="CCS_Hashima_Bag_DryBag_Red">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -117,7 +117,7 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Bag_Drybag_Yellow">
+    <type name="CCS_Hashima_Bag_DryBag_Yellow">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
