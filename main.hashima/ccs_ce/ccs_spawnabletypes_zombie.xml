@@ -48,12 +48,12 @@
     </type>
     <type name="CCS_Hashima_Zombie_M_Soldier_Officer_Desert">
         <cargo preset="foodArmy" />
-        <attachments preset="OfficerHatArmy" />
+        <attachments preset="officerHatArmy" />
     </type>
     <type name="CCS_Hashima_Zombie_M_Soldier_Heavy_Woodland">
         <cargo preset="foodArmy" />
-        <attachments preset="HeavyArmorArmy" />
-        <attachments preset="HeavyHelmetArmy" />
+        <attachments preset="heavyArmorArmy" />
+        <attachments preset="heavyHelmetArmy" />
     </type>
 <!--
     ╔══════════════════════════════════════╗
@@ -756,7 +756,7 @@
     ╚═════════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Zombie_M_NBC_Black">
-        <cargo preset="ContaminatedCargoSpecialForce" />
+        <cargo preset="contaminatedCargoSpecialForce" />
         <cargo chance="0.01">
             <item name="CCS_Hashima_Medical_Antidote" chance="1.0" />
         </cargo>
@@ -766,7 +766,7 @@
         </cargo>
     </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Green">
-        <cargo preset="ContaminatedCargo" />
+        <cargo preset="contaminatedCargo" />
         <cargo chance="0.03">
             <item name="CCS_Hashima_Medical_Antidote" chance="1.0" />
         </cargo>
@@ -775,7 +775,7 @@
         </cargo>
     </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Purple">
-        <cargo preset="ContaminatedCargo" />
+        <cargo preset="contaminatedCargo" />
         <cargo chance="0.03">
             <item name="CCS_Hashima_Medical_Antidote" chance="1.0" />
         </cargo>
@@ -788,7 +788,7 @@
         </cargo>
     </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Red">
-        <cargo preset="ContaminatedCargo" />
+        <cargo preset="contaminatedCargo" />
         <cargo chance="0.03">
             <item name="CCS_Hashima_Medical_Antidote" chance="1.0" />
         </cargo>

@@ -475,14 +475,18 @@
             <item name="Ammo_9x19" chance="0.20" />
             <item name="Ammo_380" chance="0.20" />
         </cargo>
-        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" />
+        </cargo>
     </type>
     <type name="MiniDress_BlueWithDots">
         <cargo chance="0.10">
             <item name="Ammo_9x19" chance="0.20" />
             <item name="Ammo_380" chance="0.20" />
         </cargo>
-        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" />
+        </cargo>
     </type>
     <type name="Raincoat_Black">
         <cargo preset="mixVillage" />
