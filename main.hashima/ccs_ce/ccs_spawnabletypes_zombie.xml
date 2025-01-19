@@ -263,6 +263,28 @@
         <attachments preset="bagsCity" />
     </type>
 
+    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Blue">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <attachments preset="glassesCity" />
+        <attachments preset="hatsCity" />
+        <attachments preset="bagsCity" />
+    </type>
+    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Green">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <attachments preset="glassesCity" />
+        <attachments preset="hatsCity" />
+        <attachments preset="bagsCity" />
+    </type>
+    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Red">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <attachments preset="glassesCity" />
+        <attachments preset="hatsCity" />
+        <attachments preset="bagsCity" />
+    </type>
+
     <type name="CCS_Hashima_Zombie_M_Citizen_Skinny_Blue">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
@@ -285,28 +307,6 @@
         <attachments preset="bagsCity" />
     </type>
     <type name="CCS_Hashima_Zombie_M_Citizen_Skinny_Red">
-        <cargo preset="foodCity" />
-        <cargo preset="toolsCity" />
-        <attachments preset="glassesCity" />
-        <attachments preset="hatsCity" />
-        <attachments preset="bagsCity" />
-    </type>
-
-    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Blue">
-        <cargo preset="foodCity" />
-        <cargo preset="toolsCity" />
-        <attachments preset="glassesCity" />
-        <attachments preset="hatsCity" />
-        <attachments preset="bagsCity" />
-    </type>
-    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Green">
-        <cargo preset="foodCity" />
-        <cargo preset="toolsCity" />
-        <attachments preset="glassesCity" />
-        <attachments preset="hatsCity" />
-        <attachments preset="bagsCity" />
-    </type>
-    <type name="CCS_Hashima_Zombie_M_Citizen_Fat_Red">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
         <attachments preset="glassesCity" />
@@ -725,22 +725,28 @@
         <cargo preset="toolsMedic" />
         <attachments preset="hatsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_F_Nurse_Fat">
         <cargo preset="toolsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_F_Paramedic_Normal_Black">
         <cargo preset="toolsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_F_Patient_Old">
         <cargo preset="toolsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_Doctor_Fat">
         <cargo preset="toolsMedic" />
         <attachments preset="hatsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_Paramedic_Normal_Black">
         <cargo preset="toolsMedic" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_Patient_Skinny">
         <cargo preset="toolsMedic" />
     </type>
@@ -803,6 +809,7 @@
         </cargo>
         <attachments preset="hatsPolice" />
     </type>
+
     <type name="CCS_Hashima_Zombie_M_PoliceOfficer_Fat">
         <cargo preset="toolsPolice" />
         <cargo preset="ammoPolice" />
@@ -990,35 +997,6 @@
         <attachments preset="hatsCommon_T1" />
     </type>
 
-    <type name="CCS_Hashima_Zombie_F_Villager_Old_Blue">
-        <cargo preset="drinks_T1" />
-        <cargo preset="food_T1" />
-        <cargo preset="toolsCommon_T1" />
-        <attachments preset="hatsCommon_T1" />
-        <attachments preset="backpacks_T1" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Villager_Old_Green">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-        <attachments preset="glassesVillage" />
-        <attachments preset="hatsFarm" />
-        <attachments preset="bagsVillage" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Villager_Old_Red">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-        <attachments preset="glassesVillage" />
-        <attachments preset="hatsFarm" />
-        <attachments preset="bagsVillage" />
-    </type>
-    <type name="CCS_Hashima_Zombie_F_Villager_Old_White">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsVillage" />
-        <attachments preset="glassesVillage" />
-        <attachments preset="hatsFarm" />
-        <attachments preset="bagsVillage" />
-    </type>
-
     <type name="CCS_Hashima_Zombie_F_Jogger_Skinny_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="toolsVillage" />
@@ -1046,6 +1024,35 @@
         <cargo preset="toolsCommon_T1" />
         <attachments preset="helmetsCommon_T1" />
         <attachments preset="backpacks_T1" />
+    </type>
+
+    <type name="CCS_Hashima_Zombie_F_Villager_Old_Blue">
+        <cargo preset="drinks_T1" />
+        <cargo preset="food_T1" />
+        <cargo preset="toolsCommon_T1" />
+        <attachments preset="hatsCommon_T1" />
+        <attachments preset="backpacks_T1" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_Villager_Old_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+        <attachments preset="glassesVillage" />
+        <attachments preset="hatsFarm" />
+        <attachments preset="bagsVillage" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_Villager_Old_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+        <attachments preset="glassesVillage" />
+        <attachments preset="hatsFarm" />
+        <attachments preset="bagsVillage" />
+    </type>
+    <type name="CCS_Hashima_Zombie_F_Villager_Old_White">
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsVillage" />
+        <attachments preset="glassesVillage" />
+        <attachments preset="hatsFarm" />
+        <attachments preset="bagsVillage" />
     </type>
 
     <type name="CCS_Hashima_Zombie_M_Farmer_Fat_Beige">
