@@ -500,32 +500,7 @@
     <type name="TrackSuitJacket_Red">
         <cargo preset="mixVillage" />
     </type>
-    <type name="PoliceJacket">
-        <cargo preset="ammoPolice" />
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="PolicePants">
-        <cargo preset="ammoPolice" />
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="PoliceJacketOrel">
-        <cargo preset="ammoPolice" />
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="PolicePantsOrel">
-        <cargo preset="ammoPolice" />
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="PrisonUniformJacket">
-        <cargo chance="0.10">
-            <item name="Rope" chance="0.14" />
-        </cargo>
-    </type>
-    <type name="PrisonUniformPants">
-        <cargo chance="0.10">
-            <item name="Rope" chance="0.14" />
-        </cargo>
-    </type>
+
     <type name="MiniDress_Pink">
         <cargo chance="0.10">
             <item name="Ammo_9x19" chance="0.20" />
@@ -638,9 +613,6 @@
     </type>
     <type name="BomberJacket_SkyBlue">
         <cargo preset="mixVillage" />
-    </type>
-    <type name="LabCoat">
-        <cargo preset="toolsMedic" />
     </type>
     <type name="USMCJacket_Desert">
         <cargo preset="foodArmy" />

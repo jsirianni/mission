@@ -1916,18 +1916,6 @@
         <category name="weapons" />
     </type>
     <type name="Scout">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="weapons" />
-        <usage name="Prison" />
-    </type>
-    <type name="Scout_Chernarus">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -1941,18 +1929,6 @@
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
-    </type>
-    <type name="Scout_Livonia">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Police" />
     </type>
     <type name="UMP45">
         <nominal>10</nominal>

@@ -983,30 +983,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="clothes" />
     </type>
-    <type name="PolicePants">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
-    <type name="PolicePantsOrel">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
     <type name="PrisonUniformPants">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -5632,30 +5608,6 @@
         <usage name="Village" />
         <usage name="School" />
     </type>
-    <type name="PoliceJacket">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
-    <type name="PoliceJacketOrel">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
     <type name="PrisonUniformJacket">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -6609,48 +6561,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-    </type>
-    <type name="PoliceVest">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
-    <type name="PressVest_Blue">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-        <usage name="Town" />
-        <value name="Tier3" />
-        <value name="Tier4" />
-    </type>
-    <type name="PressVest_LightBlue">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-        <usage name="Town" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="ReflexVest">
         <nominal>10</nominal>

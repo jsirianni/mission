@@ -143,8 +143,27 @@
         <cargo preset="ammoPolice" />
         <cargo preset="toolsPolice" />
     </type>
+    <type name="CCS_Hashima_Clothing_Police_Jacket_Camo">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
     <type name="CCS_Hashima_Clothing_Police_Pants_Black">
         <cargo preset="ammoPolice" />
         <cargo preset="toolsPolice" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Pants_Camo">
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Prisoner_Jacket">
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Clothing_Prisoner_Pants">
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
     </type>
 </spawnabletypes>
