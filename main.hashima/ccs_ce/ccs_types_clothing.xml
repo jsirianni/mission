@@ -131,105 +131,7 @@
         <usage name="Village" />
     </type>
 
-    <type name="CCS_Hashima_Clothing_BoonieHat_Red">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Orange">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Olive">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_NavyBlue">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Flecktran">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Dubok">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_DPM">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Blue">
+    <type name="CCS_Hashima_Clothing_BoonieHat_Beige">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -257,7 +159,105 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
-    <type name="CCS_Hashima_Clothing_BoonieHat_Beige">
+    <type name="CCS_Hashima_Clothing_BoonieHat_Blue">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_DPM">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_Dubok">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_Flecktran">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_NavyBlue">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_Olive">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_Orange">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_BoonieHat_Red">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -352,8 +352,8 @@
         <usage name="Firefighter" />
     </type>
 
-    <type name="CCS_Hashima_Clothing_Officer_Cap">
-        <nominal>2</nominal>
+    <type name="CCS_Hashima_Clothing_Kaneda_Boots">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -362,100 +362,73 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <tag name="shelves" />
+        <tag name="floor" />
         <usage name="Military" />
     </type>
-    <type name="CCS_Hashima_Clothing_Prisoner_Pants">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Prison" />
-    </type>
-    <type name="CCS_Hashima_Clothing_Prisoner_Jacket">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Prison" />
-    </type>
-    <type name="CCS_Hashima_Clothing_Prisoner_Cap">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Prison" />
-    </type>
 
-    <type name="CCS_Hashima_Clothing_Police_Vest_Red">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
-    <type name="CCS_Hashima_Clothing_Police_Vest_White">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Police" />
-    </type>
-
-    <type name="CCS_Hashima_Clothing_Press_Vest_Black">
-        <nominal>3</nominal>
+    <type name="CCS_Hashima_Clothing_Kaneda_Boots">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Police" />
-        <usage name="Town" />
-        <value name="Tier2" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <tag name="floor" />
+        <usage name="Military" />
     </type>
-    <type name="CCS_Hashima_Clothing_Press_Vest_White">
-        <nominal>3</nominal>
+    <type name="CCS_Hashima_Clothing_Kaneda_Gloves">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Police" />
+        <usage name="Military" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Kaneda_Helmet">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Industrial" />
         <usage name="Town" />
-        <value name="Tier2" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Kaneda_Jacket">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Town" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Kaneda_Pants">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -988,6 +961,20 @@
         <usage name="Medic" />
     </type>
 
+    <type name="CCS_Hashima_Clothing_Officer_Cap">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Military" />
+    </type>
+
     <type name="CCS_Hashima_Clothing_Paramedic_Jacket_Black">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1075,6 +1062,101 @@
         <usage name="Police" />
     </type>
 
+    <type name="CCS_Hashima_Clothing_Police_Vest_Red">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Police" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Police_Vest_White">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Police" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Press_Vest_Black">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Police" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Press_Vest_White">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Police" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Prisoner_Cap">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Prison" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Prisoner_Jacket">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Prison" />
+    </type>
+    <type name="CCS_Hashima_Clothing_Prisoner_Pants">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Prison" />
+    </type>
+
     <type name="CCS_Hashima_Clothing_Skirt_Red">
         <nominal>7</nominal>
         <lifetime>14400</lifetime>
@@ -1087,6 +1169,77 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+    </type>
+
+    <type name="CCS_Hashima_Clothing_Sneaker_Black">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="School"/>
+    </type>
+    <type name="CCS_Hashima_Clothing_Sneaker_Gray">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="School"/>
+    </type>
+    <type name="CCS_Hashima_Clothing_Sneaker_Green">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="School"/>
+    </type>
+    <type name="CCS_Hashima_Clothing_Sneaker_Red">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="School"/>
+    </type>
+    <type name="CCS_Hashima_Clothing_Sneaker_White">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="School"/>
     </type>
 
     <type name="CCS_Hashima_Clothing_TShirt_Android">
