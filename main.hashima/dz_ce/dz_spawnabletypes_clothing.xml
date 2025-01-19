@@ -5,6 +5,9 @@
     ║ DZ - SpawnableTypes - Clothing ║
     ╚════════════════════════════════╝
 -->
+    <type name="NVGoggles">
+        <damage min="0.0" max="0.32" />
+    </type>
     <type name="PlateCarrierVest">
     </type>
     <type name="PlateCarrierVest_Camo">
