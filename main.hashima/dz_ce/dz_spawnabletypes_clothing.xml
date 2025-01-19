@@ -162,33 +162,6 @@
     <type name="GorkaPants_PautRev">
         <cargo preset="mixArmy" />
     </type>
-    <type name="ParamedicJacket_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="ParamedicJacket_Crimson">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="ParamedicJacket_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="ParamedicPants_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="ParamedicPants_Crimson">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="ParamedicPants_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="MedicalScrubsPants_Blue">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="MedicalScrubsPants_Green">
-        <cargo preset="toolsMedic" />
-    </type>
-    <type name="MedicalScrubsPants_White">
-        <cargo preset="toolsMedic" />
-    </type>
     <type name="USMCPants_Desert">
         <cargo preset="mixArmy" />
     </type>
@@ -508,18 +481,6 @@
     </type>
     <type name="TrackSuitJacket_Red">
         <cargo preset="mixVillage" />
-    </type>
-    <type name="FirefighterJacket_Beige">
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="FirefighterJacket_Black">
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="FirefightersPants_Beige">
-        <cargo preset="toolsPolice" />
-    </type>
-    <type name="FirefightersPants_Black">
-        <cargo preset="toolsPolice" />
     </type>
     <type name="PoliceJacket">
         <cargo preset="ammoPolice" />
