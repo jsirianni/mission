@@ -7,8 +7,8 @@
 -->
     <event name="Static_CCS_Capsule_Vending_Machine">
         <nominal>5</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>1</min>
+        <max>1</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
