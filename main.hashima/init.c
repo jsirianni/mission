@@ -52,6 +52,8 @@ class CustomMission : MissionServer
             m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
             m_EventManager.RegisterEvent( LXDTremors, 0.30 );
         }
+
+        // CreateCustomUndergroundTrigger();
     };
 
     void SetRandomHealth(EntityAI itemEnt)
