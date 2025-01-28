@@ -17,7 +17,6 @@
             <item name="CCS_HowaType20_Grip" chance="1.00" />
         </attachments>
     </type>
-
     <type name="CCS_RokuohShaType89">
         <damage min="0.3" max="0.7" />
         <attachments chance="1.00">
