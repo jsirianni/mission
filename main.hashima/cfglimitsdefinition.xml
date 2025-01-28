@@ -14,6 +14,14 @@
         <tag name="floor" />
         <tag name="ground" />
         <tag name="shelves" />
+        <tag name="CCS_KeyCard_0" />
+        <tag name="CCS_Note_4" />
+        <tag name="CCS_Note_9" />
+        <tag name="CCS_Note_10" />
+        <tag name="CCS_PID_73" />
+        <tag name="CCS_USB" />
+        <tag name="CCS_RokuohShaType89" />
+        <tag name="CCS_RokuohShaType89_Mag_Case" />
     </tags>
     <usageflags>
         <usage name="Coast" />
