@@ -34,6 +34,12 @@
         <usage name="Town" />
         <usage name="Underground" />
         <usage name="Village" />
+        <usage name="CCS_USB" />
+        <usage name="CCS_PID_73" />
+        <usage name="CCS_KeyCard_0" />
+        <usage name="Note_4" />
+        <usage name="Note_9" />
+        <usage name="Note_10" />
     </usageflags>
     <valueflags>
         <value name="Tier1" />

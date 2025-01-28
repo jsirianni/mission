@@ -17,6 +17,48 @@
     </defaults>
 
     <!-- CUSTOM CCS -->
+    <group name="Land_CCS_Misc_Loot_Spawn_Keycard_0" lootmax="1">
+        <usage name="CCS_KeyCard_0" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
+    <group name="Land_CCS_Misc_Loot_Spawn_Note_4" lootmax="1">
+        <usage name="Note_4" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
+    <group name="Land_CCS_Misc_Loot_Spawn_Note_9" lootmax="1">
+        <usage name="Note_9" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
+    <group name="Land_CCS_Misc_Loot_Spawn_Note_10" lootmax="1">
+        <usage name="Note_10" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
+    <group name="Land_CCS_Misc_Loot_Spawn_PID_73" lootmax="1">
+        <usage name="CCS_PID_73" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
+    <group name="Land_CCS_Misc_Loot_Spawn_USB" lootmax="1">
+        <usage name="CCS_USB" />
+        <container name="lootFloor" lootmax="1">
+             <point pos="0 0 0" range="1" height="1" />
+        </container>
+    </group>
+
     <group name="Land_CCS_House_Building1" lootmax="4">
         <usage name="Town" />
         <usage name="Village" />
