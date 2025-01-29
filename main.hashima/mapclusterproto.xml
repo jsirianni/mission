@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
     <clusters>
+        <export name="AppleTree1" shape="dz\plants\tree\t_malusDomestica_1s.p3d" />
+        <export name="AppleTree2" shape="dz\plants\tree\t_malusDomestica_2s.p3d" />
+        <export name="AppleTree3" shape="dz\plants\tree\t_malusDomestica_3s.p3d" />
+
+        <export name="PearTree1" shape="dz\plants\tree\t_pyrusCommunis_3sb.p3d" />
+        <export name="PearTree2" shape="dz\plants\tree\t_pyrusCommunis_2s.p3d" />
+        <export name="PearTree3" shape="dz\plants\tree\t_pyrusCommunis_3s.p3d" />
+
+        <export name="PlumTree1" shape="dz\plants\tree\t_prunusDomestica_2s.p3d" />
+
+        <export name="PiceaAbies_2d" shape="dz\plants\tree\t_piceaabies_2d.p3d" />
+        <export name="PiceaAbies_3d" shape="dz\plants\tree\t_piceaabies_3d.p3d" />
+        <export name="PiceaAbies_fallen" shape="dz\plants\tree\d_piceaabies_fallen.p3d" />
+        <export name="PiceaAbies_fallenB" shape="dz\plants\tree\d_piceaabies_fallenb.p3d" />
+        <export name="PiceaAbies_fallenC" shape="dz\plants\tree\d_piceaabies_fallenc.p3d" />
+        <export name="PiceaAbies_stump" shape="dz\plants\tree\d_piceaabies_stump.p3d" />
+        <export name="PiceaAbies_stumpB" shape="dz\plants\tree\d_piceaabies_stumpb.p3d" />
+
+        <export name="PinusSylvestris_3d" shape="dz\plants\tree\t_PinusSylvestris_3d.p3d" />
+        <export name="PinusSylvestris_stump" shape="dz\plants\tree\d_PinusSylvestris_stump.p3d" />
+        <export name="PinusSylvestris_stumpB" shape="dz\plants\tree\d_PinusSylvestris_stumpb.p3d" />
+        <export name="PinusSylvestris_fallen" shape="dz\plants\tree\d_PinusSylvestris_fallen.p3d" />
+        <export name="PinusSylvestris_fallenB" shape="dz\plants\tree\d_PinusSylvestris_fallenb.p3d" />
+        <export name="PinusSylvestris_fallenc" shape="dz\plants\tree\d_PinusSylvestris_fallenc.p3d" />
+
+        <export name="FagusSylvatica_2d" shape="dz\plants\tree\t_FagusSylvatica_2d.p3d" />
+        <export name="FagusSylvatica_3d" shape="dz\plants\tree\t_FagusSylvatica_3d.p3d" />
+        <export name="FagusSylvatica_stump" shape="dz\plants\tree\d_FagusSylvatica_stump.p3d" />
+        <export name="FagusSylvatica_stumpB" shape="dz\plants\tree\d_FagusSylvatica_stumpB.p3d" />
+        <export name="FagusSylvatica_stumpC" shape="dz\plants\tree\d_FagusSylvatica_stumpc.p3d" />
+        <export name="FagusSylvatica_fallen" shape="dz\plants\tree\d_FagusSylvatica_fallen.p3d" />
+        <export name="FagusSylvatica_fallenB" shape="dz\plants\tree\d_FagusSylvatica_fallenB.p3d" />
+        <export name="FagusSylvatica_fallenC" shape="dz\plants\tree\d_FagusSylvatica_fallenC.p3d" />
+
+        <export name="QuercusRobur_2d" shape="dz\plants\tree\t_quercusRobur_2d.p3d" />
+        <!--
+        <export name="QuercusRobur_3d" shape="dz\plants\tree\t_quercusRobur_3d.p3d" />
+        -->
+        <export name="QuercusRobur_fallenB" shape="dz\plants\tree\d_quercusRobur_fallenb.p3d" />
+        <export name="QuercusRobur_fallenC" shape="dz\plants\tree\d_quercusRobur_fallenc.p3d" />
+        <export name="QuercusRobur_stumpB" shape="dz\plants\tree\d_quercusRobur_stumpb.p3d" />
+        <export name="QuercusRobur_stump" shape="dz\plants\tree\d_quercusRobur_stump.p3d" />
+
+        <export name="Haybale" shape="dz\structures\industrial\misc\misc_haybale.p3d" />
+
+        <export name="Strawstack" shape="dz\structures\industrial\farms\farm_strawstack.p3d" />
+
+        <export name="CaninaBush1" shape="dz\plants\bush\b_rosaCanina_1s.p3d" />
+        <export name="CaninaBush2" shape="dz\plants\bush\b_rosaCanina_2s.p3d" />
+
+        <export name="SambucusBush1" shape="dz\plants\bush\b_sambucusNigra_1s.p3d" />
+        <export name="SambucusBush2" shape="dz\plants\bush\b_sambucusNigra_2s.p3d" />
+
         <export name="PathD10" shape="dz\structures\Roads\Parts\path_dirt_10.p3d" />
         <export name="PathD30" shape="dz\structures\Roads\Parts\path_dirt_30.p3d" />
         <export name="PathDCurve" shape="dz\structures\Roads\Parts\path_dirt_curve.p3d" />
         <export name="PathRCurve" shape="dz\structures\Roads\Parts\path_rock_curve.p3d" />
         <export name="PathR10" shape="dz\structures\Roads\Parts\path_rock_10.p3d" />
         <export name="PathR30" shape="dz\structures\Roads\Parts\path_rock_30.p3d" />
-        <export name="Stones" shape="dz\rocks\stones_erosion.p3d" />
 
         <export name="Rail1" shape="dz\structures\rail\tracks\rail_track_25.p3d" />
         <export name="Rail2" shape="dz\structures\rail\tracks\rail_tracke_25.p3d" />
@@ -18,104 +70,18 @@
         <export name="Rail7" shape="dz\structures\rail\tracks\rail_tracke_r30_20.p3d" />
         <export name="Rail8" shape="dz\structures\rail\tracks\rail_tracke_l25_10.p3d" />
         <export name="Rail9" shape="dz\structures\rail\tracks\rail_tracke_r25_10.p3d" />
+
+        <export name="Stones" shape="dz\rocks\stones_erosion.p3d" />
+
         <!--
         <export name="Stone1" shape="dz\rocks\stone1.p3d" />
         <export name="Stone2" shape="dz\rocks\stone2.p3d" />
         <export name="Stone3" shape="dz\rocks\stone3.p3d" />
         <export name="Stone4" shape="dz\rocks\stone4.p3d" />
         <export name="Stone5" shape="dz\rocks\stone5.p3d" />
-
-        <export name="QuercusRobur_3d" shape="dz\plants\tree\t_quercusRobur_3d.p3d" />
         -->
-        <export name="AppleTree1" shape="dz\plants\tree\t_malusDomestica_1s.p3d" />
-        <export name="AppleTree2" shape="dz\plants\tree\t_malusDomestica_2s.p3d" />
-        <export name="AppleTree3" shape="dz\plants\tree\t_malusDomestica_3s.p3d" />
-        <export name="PearTree1" shape="dz\plants\tree\t_pyrusCommunis_3sb.p3d" />
-        <export name="PearTree2" shape="dz\plants\tree\t_pyrusCommunis_2s.p3d" />
-        <export name="PearTree3" shape="dz\plants\tree\t_pyrusCommunis_3s.p3d" />
-        <export name="PlumTree1" shape="dz\plants\tree\t_prunusDomestica_2s.p3d" />
-
-        <!--
-            <export name="ChickenCoop" shape="dz\structures\Residential\Misc\misc_chickenCoop.p3d" /> --><!--Feathers Eggs Will be moved to normal groups-->
-        <!-- -->
-        <export name="PiceaAbies_2d" shape="dz\plants\tree\t_piceaabies_2d.p3d" />
-        <export name="PiceaAbies_3d" shape="dz\plants\tree\t_piceaabies_3d.p3d" />
-        <export name="PiceaAbies_fallen" shape="dz\plants\tree\d_piceaabies_fallen.p3d" />
-        <export name="PiceaAbies_fallenB" shape="dz\plants\tree\d_piceaabies_fallenb.p3d" />
-        <export name="PiceaAbies_fallenC" shape="dz\plants\tree\d_piceaabies_fallenc.p3d" />
-        <export name="PiceaAbies_stump" shape="dz\plants\tree\d_piceaabies_stump.p3d" />
-        <export name="PiceaAbies_stumpB" shape="dz\plants\tree\d_piceaabies_stumpb.p3d" />
-<!-- -->
-        <export name="PinusSylvestris_3d" shape="dz\plants\tree\t_PinusSylvestris_3d.p3d" />
-        <export name="PinusSylvestris_stump" shape="dz\plants\tree\d_PinusSylvestris_stump.p3d" />
-        <export name="PinusSylvestris_stumpB" shape="dz\plants\tree\d_PinusSylvestris_stumpb.p3d" />
-        <export name="PinusSylvestris_fallen" shape="dz\plants\tree\d_PinusSylvestris_fallen.p3d" />
-        <export name="PinusSylvestris_fallenB" shape="dz\plants\tree\d_PinusSylvestris_fallenb.p3d" />
-        <export name="PinusSylvestris_fallenc" shape="dz\plants\tree\d_PinusSylvestris_fallenc.p3d" />
-<!-- -->
-        <export name="FagusSylvatica_2d" shape="dz\plants\tree\t_FagusSylvatica_2d.p3d" />
-        <export name="FagusSylvatica_3d" shape="dz\plants\tree\t_FagusSylvatica_3d.p3d" />
-        <export name="FagusSylvatica_stump" shape="dz\plants\tree\d_FagusSylvatica_stump.p3d" />
-        <export name="FagusSylvatica_stumpB" shape="dz\plants\tree\d_FagusSylvatica_stumpB.p3d" />
-        <export name="FagusSylvatica_stumpC" shape="dz\plants\tree\d_FagusSylvatica_stumpc.p3d" />
-        <export name="FagusSylvatica_fallen" shape="dz\plants\tree\d_FagusSylvatica_fallen.p3d" />
-        <export name="FagusSylvatica_fallenB" shape="dz\plants\tree\d_FagusSylvatica_fallenB.p3d" />
-        <export name="FagusSylvatica_fallenC" shape="dz\plants\tree\d_FagusSylvatica_fallenC.p3d" />
-<!-- -->
-        <export name="QuercusRobur_2d" shape="dz\plants\tree\t_quercusRobur_2d.p3d" />
-        <export name="QuercusRobur_fallenB" shape="dz\plants\tree\d_quercusRobur_fallenb.p3d" />
-        <export name="QuercusRobur_fallenC" shape="dz\plants\tree\d_quercusRobur_fallenc.p3d" />
-        <export name="QuercusRobur_stumpB" shape="dz\plants\tree\d_quercusRobur_stumpb.p3d" />
-        <export name="QuercusRobur_stump" shape="dz\plants\tree\d_quercusRobur_stump.p3d" />
-<!-- -->
-        <export name="Haybale" shape="dz\structures\industrial\misc\misc_haybale.p3d" />
-        <export name="Strawstack" shape="dz\structures\industrial\farms\farm_strawstack.p3d" />
-<!-- -->
-        <export name="CaninaBush1" shape="dz\plants\bush\b_rosaCanina_1s.p3d" />
-        <export name="CaninaBush2" shape="dz\plants\bush\b_rosaCanina_2s.p3d" />
-<!-- -->
-        <export name="SambucusBush1" shape="dz\plants\bush\b_sambucusNigra_1s.p3d" />
-        <export name="SambucusBush2" shape="dz\plants\bush\b_sambucusNigra_2s.p3d" />
     </clusters>
 
-<!--Groups -->
-<!--Apple -->
-    <cluster name="CaninaBush1" lootmax="2" maxinstances="150">
-        <de name="TrajectoryCanina" />
-        <container name="branch" lootmax="1">
-        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
-        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
-        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
-        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
-        </container>
-    </cluster>
-    <cluster name="CaninaBush2" lootmax="2" maxinstances="150">
-        <de name="TrajectoryCanina" />
-        <container name="branch" lootmax="1">
-        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
-        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
-        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
-        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
-        </container>
-    </cluster>
-    <cluster name="SambucusBush1" lootmax="2" maxinstances="150">
-        <de name="TrajectorySambucus" />
-        <container name="branch" lootmax="1">
-        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
-        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
-        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
-        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
-        </container>
-    </cluster>
-    <cluster name="SambucusBush2" lootmax="2" maxinstances="150">
-        <de name="TrajectorySambucus" />
-        <container name="branch" lootmax="1">
-        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
-        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
-        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
-        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
-        </container>
-    </cluster>
     <cluster name="AppleTree1" lootmax="2" maxinstances="150">
         <de name="TrajectoryApple" />
         <container name="branch" lootmax="1">
@@ -143,7 +109,7 @@
         <point pos="1.94 -5.73 0.62" range="0.71" height="2.00" flags="32" />
         </container>
     </cluster>
-<!--Pear -->
+
     <cluster name="PearTree1" lootmax="2" maxinstances="150">
         <de name="TrajectoryPear" />
         <container name="branch" lootmax="2">
@@ -171,7 +137,7 @@
         <point pos="-0.03 -5.77 -1.72" range="1.07" height="2.00" flags="32" />
         </container>
     </cluster>
-<!--Plum -->
+
     <cluster name="PlumTree1" lootmax="2" maxinstances="150">
         <de name="TrajectoryPlum" />
         <container name="branch" lootmax="2">
@@ -181,7 +147,7 @@
         <point pos="1.20 -4.75 -0.42" range="0.45" height="1.63" flags="32" />
         </container>
     </cluster>
-<!--Mushrooms - Coniferous -->
+
     <cluster name="PiceaAbies_2d" lootmax="2" maxinstances="150">
         <de name="TrajectoryConiferous" />
         <container name="branch" lootmax="1">
@@ -246,6 +212,7 @@
         <point pos="0.79 -0.45 -0.12" range="0.40" height="1.55" flags="32" />
         </container>
     </cluster>
+
     <cluster name="PinusSylvestris_3d" lootmax="2" maxinstances="150">
         <de name="TrajectoryConiferous" />
         <container name="branch" lootmax="1">
@@ -298,7 +265,7 @@
         <point pos="-1.43 -0.17 0.72" range="0.77" height="2.00" flags="32" />
         </container>
     </cluster>
-<!--Mushrooms - DECIDUOUS -->
+
     <cluster name="FagusSylvatica_2d" lootmax="2" maxinstances="150">
         <de name="TrajectoryDeciduous" />
         <container name="branch" lootmax="1">
@@ -381,6 +348,7 @@
         <point pos="-0.70 -0.30 2.16" range="0.80" height="2.00" flags="32" />
         </container>
     </cluster>
+
     <cluster name="QuercusRobur_2d" lootmax="2" maxinstances="150">
         <de name="TrajectoryDeciduous" />
         <container name="branch" lootmax="1">
@@ -435,7 +403,7 @@
         <point pos="-1.48 0.38 -0.63" range="0.99" height="2.00" flags="32" />
         </container>
     </cluster>
-<!--Mushrooms - HUMUS -->
+
     <cluster name="Haybale" lootmax="2" maxinstances="150">
         <de name="TrajectoryHumus" />
         <container name="branch" lootmax="1">
@@ -445,6 +413,7 @@
         <point pos="1.70 -0.57 0.14" range="0.90" height="2.000000" flags="32" />
         </container>
     </cluster>
+
     <cluster name="Strawstack" lootmax="2" maxinstances="150">
         <de name="TrajectoryHumus" />
         <container name="branch" lootmax="1">
@@ -454,7 +423,45 @@
         <point pos="-5.47 0.44 1.67" range="1.09" height="2.00" flags="32" />
         </container>
     </cluster>
-<!--STONES -->
+
+    <cluster name="CaninaBush1" lootmax="2" maxinstances="150">
+        <de name="TrajectoryCanina" />
+        <container name="branch" lootmax="1">
+        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
+        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
+        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
+        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
+        </container>
+    </cluster>
+    <cluster name="CaninaBush2" lootmax="2" maxinstances="150">
+        <de name="TrajectoryCanina" />
+        <container name="branch" lootmax="1">
+        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
+        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
+        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
+        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
+        </container>
+    </cluster>
+
+    <cluster name="SambucusBush1" lootmax="2" maxinstances="150">
+        <de name="TrajectorySambucus" />
+        <container name="branch" lootmax="1">
+        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
+        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
+        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
+        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
+        </container>
+    </cluster>
+    <cluster name="SambucusBush2" lootmax="2" maxinstances="150">
+        <de name="TrajectorySambucus" />
+        <container name="branch" lootmax="1">
+        <point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
+        <point pos="0.51 -2.40 0.85" range="0.55" height="1.0" flags="32" />
+        <point pos="0.15 -2.40 -0.57" range="0.55" height="1.0" flags="32" />
+        <point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
+        </container>
+    </cluster>
+
     <cluster name="PathD10" lootmax="2" maxinstances="5">
         <de name="TrajectoryStones" />
         <container name="road" lootmax="1">
@@ -506,15 +513,7 @@
         <point pos="-3.34 0.20 0.90" range="0.75" height="1.00" flags="32" />
         </container>
     </cluster>
-    <cluster name="Stones" lootmax="2" maxinstances="5">
-        <de name="TrajectoryStones" />
-        <container name="road" lootmax="1">
-        <point pos="-2.07 0.20 -0.41" range="0.75" height="1.00" flags="32" />
-        <point pos="0.32 0.20 0.84" range="0.75" height="1.00" flags="32" />
-        <point pos="-1.92 0.20 -2.90" range="0.75" height="1.00" flags="32" />
-        <point pos="0.89 0.20 -2.82" range="0.75" height="1.00" flags="32" />
-        </container>
-    </cluster>
+
     <cluster name="Rail1" lootmax="2" maxinstances="5">
         <de name="TrajectoryStones" />
         <container name="road" lootmax="1">
@@ -601,7 +600,18 @@
         <point pos="6.21 0.95 0.31" range="0.50" height="1.50" />
         </container>
     </cluster>
-<!--
+
+    <cluster name="Stones" lootmax="2" maxinstances="5">
+        <de name="TrajectoryStones" />
+        <container name="road" lootmax="1">
+        <point pos="-2.07 0.20 -0.41" range="0.75" height="1.00" flags="32" />
+        <point pos="0.32 0.20 0.84" range="0.75" height="1.00" flags="32" />
+        <point pos="-1.92 0.20 -2.90" range="0.75" height="1.00" flags="32" />
+        <point pos="0.89 0.20 -2.82" range="0.75" height="1.00" flags="32" />
+        </container>
+    </cluster>
+
+    <!--
     <cluster name="Stone1" lootmax="2">
         <de name="TrajectoryStones" />
         <container name="road" lootmax="1">
@@ -642,5 +652,5 @@
         <point pos="-0.040581 -0.670837 -1.206359" range="0.478125" height="1.195313" flags="32" />
         </container>
     </cluster>
--->
+    -->
 </prototype>
