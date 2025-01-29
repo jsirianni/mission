@@ -1179,11 +1179,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Town"/>
-        <usage name="School"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="School" />
     </type>
     <type name="CCS_Hashima_Clothing_Sneaker_Gray">
         <nominal>8</nominal>
@@ -1193,11 +1193,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Town"/>
-        <usage name="School"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="School" />
     </type>
     <type name="CCS_Hashima_Clothing_Sneaker_Green">
         <nominal>8</nominal>
@@ -1207,11 +1207,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Town"/>
-        <usage name="School"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="School" />
     </type>
     <type name="CCS_Hashima_Clothing_Sneaker_Red">
         <nominal>8</nominal>
@@ -1221,11 +1221,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Town"/>
-        <usage name="School"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="School" />
     </type>
     <type name="CCS_Hashima_Clothing_Sneaker_White">
         <nominal>8</nominal>
@@ -1235,11 +1235,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Town"/>
-        <usage name="School"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="floor" />
+        <usage name="Town" />
+        <usage name="School" />
     </type>
 
     <type name="CCS_Hashima_Clothing_TShirt_Android">

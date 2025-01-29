@@ -13392,8 +13392,6 @@
     </group>
     <group name="Land_Underground_Entrance" lootmax="10">
         <usage name="Military" />
-        <!-- <usage name="Police" />
-                <value name="Tier1" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
@@ -13413,7 +13411,6 @@
     </group>
     <group name="Land_Underground_Floor_Comms" lootmax="10">
         <usage name="Military" />
-        <!-- <value name="Tier1" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
@@ -13444,7 +13441,6 @@
     </group>
     <group name="Land_Underground_Floor_Crew" lootmax="10">
         <usage name="Military" />
-        <!-- <value name="Tier1" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
@@ -13487,7 +13483,6 @@
         </container>
     </group>
     <group name="Land_Underground_Storage_Ammo" lootmax="10">
-        <!-- <value name="Tier1" /> -->
         <usage name="Military" />
         <usage name="Underground" />
         <container name="lootfloor" lootmax="10">
@@ -13508,69 +13503,41 @@
             <point pos="5.670776 2.291260 -1.893126" range="0.306250" height="0.765625" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-6.450194 2.347341 2.558473"
-                   rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-4.966064 2.347341 2.919129"
-                   rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.266602 2.000305 2.021424"
-                   rpy="-90.000000 90.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.074829 2.000305 1.977051"
-                   rpy="-90.000000 10.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-4.966674 2.000305 2.157837"
-                   rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-6.562866 1.938843 1.850160"
-                   rpy="-90.000000 50.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-6.060424 1.938843 1.908936"
-                   rpy="-90.000000 70.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.654663 1.938843 1.750488"
-                   rpy="-90.000000 90.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-4.966064 2.347341 2.919129" rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-6.060424 1.938843 1.908936" rpy="-90.000000 70.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-4.966674 2.000305 2.157837" rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-6.562866 1.938843 1.850160" rpy="-90.000000 50.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.074829 2.000305 1.977051" rpy="-90.000000 10.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.266602 2.000305 2.021424" rpy="-90.000000 90.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.654663 1.938843 1.750488" rpy="-90.000000 90.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-6.450194 2.347341 2.558473" rpy="-90.000000 30.000000 0.000000" dechance="0.125" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="3.860595 2.001953 2.175293"
-                   rpy="90.000000 120.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="3.886474 2.011953 2.520020"
-                   rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="4.158813 2.001953 2.823365"
-                   rpy="90.000000 210.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.161621 2.001953 2.536255"
-                   rpy="90.000000 260.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.149169 2.001953 2.235596"
-                   rpy="90.000000 120.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="4.525391 2.011953 2.233765"
-                   rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.567504 2.001953 2.746094"
-                   rpy="90.000000 210.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="5.478393 2.001953 2.882385"
-                   rpy="90.000000 260.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="5.371948 2.001953 2.644409"
-                   rpy="90.000000 120.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="5.321533 2.011953 2.340271"
-                   rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="4.971435 2.001953 2.288513"
-                   rpy="90.000000 210.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.926514 2.001953 2.564698"
-                   rpy="90.000000 260.000000 0.000000" dechance="0.077" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="4.769653 2.001953 2.388062"
-                   rpy="90.000000 120.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="3.886474 2.011953 2.520020" rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.149169 2.001953 2.235596" rpy="90.000000 120.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.161621 2.001953 2.536255" rpy="90.000000 260.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.567504 2.001953 2.746094" rpy="90.000000 210.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="4.926514 2.001953 2.564698" rpy="90.000000 260.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="5.371948 2.001953 2.644409" rpy="90.000000 120.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="4.769653 2.001953 2.388062" rpy="90.000000 120.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="4.971435 2.001953 2.288513" rpy="90.000000 210.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="5.478393 2.001953 2.882385" rpy="90.000000 260.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="3.860595 2.001953 2.175293" rpy="90.000000 120.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="4.158813 2.001953 2.823365" rpy="90.000000 210.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="4.525391 2.011953 2.233765" rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="5.321533 2.011953 2.340271" rpy="-90.000000 160.000000 0.000000" dechance="0.077" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="ClaymoreMine" pos="1.191284 0.151438 -1.327636" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.166" />
-            <proxy type="Ammo_40mm_Explosive" pos="1.433350 0.186016 -1.175842" rpy="90.000000 35.000000 0.000000"
-                   dechance="0.166" />
-            <proxy type="Ammo_40mm_Explosive" pos="1.860107 0.082756 -0.394958" rpy="90.000000 70.000000 0.000000"
-                   dechance="0.166" />
-            <proxy type="Ammo_40mm_Explosive" pos="1.511963 0.082756 -0.604553" rpy="90.000000 105.000000 0.000000"
-                   dechance="0.166" />
-            <proxy type="ClaymoreMine" pos="1.104614 0.062756 -0.793396" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.166" />
-            <proxy type="Ammo_40mm_Explosive" pos="0.781372 0.082756 -0.982544" rpy="90.000000 140.000000 0.000000"
-                   dechance="0.166" />
+            <proxy type="Ammo_40mm_Explosive" pos="0.781372 0.082756 -0.982544" rpy="90.000000 140.000000 0.000000" dechance="0.166" />
+            <proxy type="Ammo_40mm_Explosive" pos="1.433350 0.186016 -1.175842" rpy="90.000000 35.000000 0.000000" dechance="0.166" />
+            <proxy type="Ammo_40mm_Explosive" pos="1.511963 0.082756 -0.604553" rpy="90.000000 105.000000 0.000000" dechance="0.166" />
+            <proxy type="Ammo_40mm_Explosive" pos="1.860107 0.082756 -0.394958" rpy="90.000000 70.000000 0.000000" dechance="0.166" />
+            <proxy type="ClaymoreMine" pos="1.104614 0.062756 -0.793396" rpy="0.000000 0.000000 0.000000" dechance="0.166" />
+            <proxy type="ClaymoreMine" pos="1.191284 0.151438 -1.327636" rpy="0.000000 0.000000 0.000000" dechance="0.166" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_Ammo2" lootmax="20">
         <usage name="Military" />
-        <!-- <value name="Tier3" /> -->
         <container name="lootWeapons" lootmax="10">
             <category name="weapons" />
             <category name="explosives" />
@@ -13591,72 +13558,42 @@
             <point pos="-2.384521 1.730652 2.166809" range="0.375000" height="0.937500" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-6.007690 0.462393 0.721314"
-                   rpy="-90.000000 75.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-5.702758 0.462393 1.043152"
-                   rpy="-90.000000 120.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-5.691162 0.472393 0.777710"
-                   rpy="-90.000000 140.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-5.360474 0.462393 1.084412"
-                   rpy="-90.000000 160.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-4.808838 0.462393 0.866942"
-                   rpy="-90.000000 200.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-5.215454 0.472393 0.595460"
-                   rpy="-90.000000 240.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.484498 0.462393 0.483703"
-                   rpy="-90.000000 260.000000 0.000000" dechance="0.125" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-6.085205 0.479429 0.476014"
-                   rpy="-90.000000 280.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-5.360474 0.462393 1.084412" rpy="-90.000000 160.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="-5.702758 0.462393 1.043152" rpy="-90.000000 120.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-5.215454 0.472393 0.595460" rpy="-90.000000 240.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-5.691162 0.472393 0.777710" rpy="-90.000000 140.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-6.085205 0.479429 0.476014" rpy="-90.000000 280.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-4.808838 0.462393 0.866942" rpy="-90.000000 200.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-5.484498 0.462393 0.483703" rpy="-90.000000 260.000000 0.000000" dechance="0.125" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-6.007690 0.462393 0.721314" rpy="-90.000000 75.000000 0.000000" dechance="0.125" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="2.495239 0.867300 1.328369"
-                   rpy="90.000000 35.000000 0.000000" dechance="0.16" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="2.972656 1.194336 1.125428"
-                   rpy="90.000000 70.000000 0.000000" dechance="0.16" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="3.318970 1.194336 1.115418"
-                   rpy="90.000000 105.000000 0.000000" dechance="0.16" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="3.888550 1.214336 1.360290"
-                   rpy="-90.000000 175.000000 0.000000" dechance="0.16" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="2.504150 1.194336 0.624817"
-                   rpy="90.000000 315.000000 0.000000" dechance="0.16" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="2.453003 1.25336 0.897278"
-                   rpy="-90.000000 350.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="2.495239 0.867300 1.328369" rpy="90.000000 35.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="2.972656 1.194336 1.125428" rpy="90.000000 70.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="2.453003 1.25336 0.897278" rpy="-90.000000 350.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="3.888550 1.214336 1.360290" rpy="-90.000000 175.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="2.504150 1.194336 0.624817" rpy="90.000000 315.000000 0.000000" dechance="0.16" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="3.318970 1.194336 1.115418" rpy="90.000000 105.000000 0.000000" dechance="0.16" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="1.041016 1.220266 -1.645569"
-                   rpy="-90.000000 40.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="1.067627 1.210266 -1.915344"
-                   rpy="-90.000000 80.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="0.825684 1.210266 -1.984741"
-                   rpy="-90.000000 100.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="0.639038 1.220266 -1.525635"
-                   rpy="-90.000000 120.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="0.457642 1.210266 -1.697876"
-                   rpy="-90.000000 140.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.028321 1.220266 -1.69494"
-                   rpy="-90.000000 240.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="0.420655 1.220266 -2.055237"
-                   rpy="-90.000000 260.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="0.547973 1.210266 -1.955444"
-                   rpy="-90.000000 280.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="0.842163 1.220266 -1.526062"
-                   rpy="-90.000000 20.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="0.802002 1.210266 -1.736084"
-                   rpy="-90.000000 40.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-0.207519 1.220266 -1.86840"
-                   rpy="-90.000000 60.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.377198 1.220266 -1.62683"
-                   rpy="-90.000000 80.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.362549 1.220266 -1.49017"
-                   rpy="-90.000000 100.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-0.202758 1.210266 -1.44458"
-                   rpy="-90.000000 120.000000 0.000000" dechance="0.066" />
-            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.042846 1.220266 -1.40679"
-                   rpy="-90.000000 140.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="0.547973 1.210266 -1.955444" rpy="-90.000000 280.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_556x45_Tracer" pos="0.825684 1.210266 -1.984741" rpy="-90.000000 100.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.028321 1.220266 -1.69494" rpy="-90.000000 240.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.042846 1.220266 -1.40679" rpy="-90.000000 140.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.362549 1.220266 -1.49017" rpy="-90.000000 100.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="-0.377198 1.220266 -1.62683" rpy="-90.000000 80.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="0.842163 1.220266 -1.526062" rpy="-90.000000 20.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x39_Tracer" pos="1.041016 1.220266 -1.645569" rpy="-90.000000 40.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="-0.207519 1.220266 -1.86840" rpy="-90.000000 60.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="0.420655 1.220266 -2.055237" rpy="-90.000000 260.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_762x54_Tracer" pos="0.639038 1.220266 -1.525635" rpy="-90.000000 120.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="-0.202758 1.210266 -1.44458" rpy="-90.000000 120.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="0.457642 1.210266 -1.697876" rpy="-90.000000 140.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="0.802002 1.210266 -1.736084" rpy="-90.000000 40.000000 0.000000" dechance="0.066" />
+            <proxy type="CCS_Hashima_Ammobox_9x39_AP" pos="1.067627 1.210266 -1.915344" rpy="-90.000000 80.000000 0.000000" dechance="0.066" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_Barracks" lootmax="20">
-        <!-- <value name="Tier1" /> -->
         <usage name="Military" />
         <usage name="Underground" />
         <container name="lootfloor" lootmax="10">
@@ -13706,7 +13643,6 @@
         <usage name="Military" />
         <usage name="Underground" />
         <usage name="Medic" />
-        <!-- <value name="Tier2" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="tools" />
             <category name="clothes" />
@@ -13736,7 +13672,6 @@
         <usage name="Military" />
         <usage name="Underground" />
         <usage name="Medic" />
-        <!-- <value name="Tier2" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="tools" />
             <category name="clothes" />
@@ -13758,12 +13693,10 @@
             <point pos="-3.345702 1.023865 3.762024" range="0.341614" height="0.854034" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000"
-                   dechance="1.0" />
+            <proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_POX" lootmax="10">
-        <!-- <value name="Tier1" /> -->
         <usage name="Military" />
         <usage name="Underground" />
         <container name="lootfloor" lootmax="10">
@@ -13786,20 +13719,15 @@
             <point pos="4.395263 1.109497 -2.981445" range="0.203125" height="0.507813" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="Grenade_ChemGas" pos="-3.30603 0.26218 -1.340943" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
-            <proxy type="Grenade_ChemGas" pos="-3.25939 0.26218 -1.119508" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
-            <proxy type="Grenade_ChemGas" pos="4.810425 2.198035 0.923217" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
-            <proxy type="Grenade_ChemGas" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
+            <proxy type="Grenade_ChemGas" pos="-3.30603 0.26218 -1.340943" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+            <proxy type="Grenade_ChemGas" pos="-3.25939 0.26218 -1.119508" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+            <proxy type="Grenade_ChemGas" pos="4.810425 2.198035 0.923217" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+            <proxy type="Grenade_ChemGas" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_POX2" lootmax="10">
         <usage name="Military" />
         <usage name="Underground" />
-        <!-- <value name="Tier3" /> -->
         <container name="lootWeapons" lootmax="10">
             <category name="weapons" />
             <category name="explosives" />
@@ -13822,30 +13750,22 @@
             <point pos="-2.552856 0.139709 -1.866150" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="Mich2001Helmet" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000"
-                   dechance="0.500000" />
-            <proxy type="Mich2001Helmet" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000"
-                   dechance="0.500000" />
+            <proxy type="Mich2001Helmet" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000" dechance="0.500000" />
+            <proxy type="Mich2001Helmet" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000" dechance="0.500000" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="Aug" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000"
-                   dechance="1.000000" />
+            <proxy type="Aug" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000"
-                   dechance="0.250000" />
-            <proxy type="Grenade_ChemGas" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000"
-                   dechance="0.250000" />
-            <proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000"
-                   dechance="0.250000" />
-            <proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000"
-                   dechance="0.250000" />
+            <proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+            <proxy type="Grenade_ChemGas" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+            <proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+            <proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_Prison" lootmax="10">
         <usage name="Military" />
         <usage name="Underground" />
-        <!-- <value name="Tier2" /> -->
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
@@ -13873,23 +13793,17 @@
             <proxy type="AK101" pos="-1.808472 0.012756 -0.1717" rpy="90.000000 110.000000 0.000000" dechance="0.25" />
         </dispatch>
         <dispatch dechance="1.000000">
-            <proxy type="PlateCarrierVest_Green" pos="-2.901246 0.012756 3.09815" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.2" />
-            <proxy type="PlateCarrierVest_Black" pos="-2.796021 0.012756 -3.1388" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.2" />
-            <proxy type="PlateCarrierVest_Green" pos="2.291627 0.012756 -3.21477" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.2" />
-            <proxy type="PlateCarrierVest_Black" pos="-4.811768 0.012756 -0.1574" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.2" />
-            <proxy type="PlateCarrierVest_Green" pos="-8.244873 0.012756 -0.5780" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.2" />
+            <proxy type="PlateCarrierVest_Green" pos="-2.901246 0.012756 3.09815" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
+            <proxy type="PlateCarrierVest_Black" pos="-2.796021 0.012756 -3.1388" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
+            <proxy type="PlateCarrierVest_Green" pos="2.291627 0.012756 -3.21477" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
+            <proxy type="PlateCarrierVest_Black" pos="-4.811768 0.012756 -0.1574" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
+            <proxy type="PlateCarrierVest_Green" pos="-8.244873 0.012756 -0.5780" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
         </dispatch>
     </group>
     <group name="Land_Underground_Storage_Workshop" lootmax="10">
         <usage name="Military" />
         <usage name="Industrial" />
         <usage name="Underground" />
-        <!-- <value name="Tier1" /> -->
         <container name="lootTools" lootmax="10">
             <category name="tools" />
             <category name="containers" />
@@ -15412,9 +15326,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_BlueRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_BlueRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban1_blue_DE" lootmax="2">
@@ -15438,9 +15352,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_BlueRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_BlueRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban1_green" lootmax="2">
@@ -15465,9 +15379,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_GreenRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_GreenRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban1_green_DE" lootmax="2">
@@ -15492,9 +15406,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_GreenRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_GreenRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban1_white" lootmax="2">
@@ -15518,9 +15432,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_WhiteRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_WhiteRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban1_white_DE" lootmax="2">
@@ -15544,9 +15458,9 @@
             <point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
             <proxy type="HatchbackDoors_Driver_WhiteRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
             <proxy type="HatchbackTrunk_WhiteRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_blue" lootmax="2">
@@ -15570,9 +15484,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_BlueRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_BlueRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_blue_DE" lootmax="2">
@@ -15596,9 +15510,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_BlueRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_BlueRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_green" lootmax="2">
@@ -15623,9 +15537,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_GreenRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_GreenRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_green_DE" lootmax="2">
@@ -15650,9 +15564,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_GreenRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_GreenRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_white" lootmax="2">
@@ -15676,9 +15590,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_WhiteRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_WhiteRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb01_aban2_white_DE" lootmax="2">
@@ -15702,9 +15616,9 @@
             <point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
             <proxy type="HatchbackDoors_CoDriver_WhiteRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
             <proxy type="HatchbackHood_WhiteRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+            <proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
 
@@ -15729,10 +15643,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_RedRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_RedRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_RedRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban1_red_DE" lootmax="2">
@@ -15756,10 +15670,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_RedRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_RedRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_RedRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban1_black" lootmax="2">
@@ -15783,10 +15697,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_BlackRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_BlackRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_BlackRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban1_black_DE" lootmax="2">
@@ -15810,10 +15724,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_BlackRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_BlackRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_BlackRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban1_blue" lootmax="2">
@@ -15837,10 +15751,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_BlueRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_BlueRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_BlueRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban1_blue_DE" lootmax="2">
@@ -15864,10 +15778,10 @@
             <point pos="1.589356 -0.123903 -0.355557" range="0.179352" height="0.448379" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
             <proxy type="Hatchback_02_Door_1_1_BlueRust" pos="-0.271 -0.093 -1.024" rpy="0.0 200.0 0.0" />
             <proxy type="Hatchback_02_Door_2_2_BlueRust" pos="0.683 0.025 0.909" rpy="0.0 150.0 0.0" />
             <proxy type="Hatchback_02_Trunk_BlueRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="1.356 -0.458 0.697" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_red" lootmax="2">
@@ -15893,10 +15807,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_RedRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_RedRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_RedRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_red_DE" lootmax="2">
@@ -15922,10 +15836,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_RedRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_RedRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_RedRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_black" lootmax="2">
@@ -15951,10 +15865,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_BlackRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_BlackRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_BlackRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_black_DE" lootmax="2">
@@ -15980,10 +15894,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_BlackRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_BlackRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_BlackRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_blue" lootmax="2">
@@ -16009,10 +15923,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_BlueRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_BlueRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_BlueRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_hb02_aban2_blue_DE" lootmax="2">
@@ -16038,10 +15952,10 @@
             <point pos="-0.318821 -0.302542 -0.524253" range="0.156159" height="0.213125" />
         </container>
         <dispatch>
-            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
             <proxy type="Hatchback_02_Door_1_2_BlueRust" pos="1.002 0.078 -0.987" rpy="0.0 210.0 0.0" />
             <proxy type="Hatchback_02_Door_2_1_BlueRust" pos="-0.057 -0.060 1.132" rpy="0.0 140.0 0.0" />
             <proxy type="Hatchback_02_Hood_BlueRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
+            <proxy type="Hatchback_02_Wheel" pos="-1.003 -0.394 -0.711" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
 
@@ -16070,10 +15984,10 @@
             <point pos="-0.304003 -1.279922 -0.610155" range="0.083643" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
             <proxy type="Offroad_02_Door_2_1_Rust" pos="-0.35 -0.85 1.15" rpy="2.0 170.0 0.0" />
-            <proxy type="Offroad_02_Wheel" pos="1.5 -1.4 1.1" rpy="0.0 0.0 0.0" />
+            <proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
             <proxy type="Offroad_02_Trunk_Rust" pos="1.75 -0.3 0.0" rpy="37.0 0.0 100.0" />
+            <proxy type="Offroad_02_Wheel" pos="1.5 -1.4 1.1" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_offroad02_aban1_DE" lootmax="3">
@@ -16101,10 +16015,10 @@
             <point pos="-0.304003 -1.279922 -0.610155" range="0.083643" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
             <proxy type="Offroad_02_Door_2_1_Rust" pos="-0.35 -0.85 1.15" rpy="2.0 170.0 0.0" />
-            <proxy type="Offroad_02_Wheel" pos="1.5 -1.3 1.5" rpy="0.0 0.0 0.0" />
+            <proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
             <proxy type="Offroad_02_Trunk_Rust" pos="1.75 -0.3 0.0" rpy="37.0 0.0 100.0" />
+            <proxy type="Offroad_02_Wheel" pos="1.5 -1.3 1.5" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_offroad02_aban2" lootmax="2">
@@ -16132,8 +16046,8 @@
             <point pos="-1.554413 -0.488274 0.639648" range="0.271875" height="0.679688" />
         </container>
         <dispatch>
-            <proxy type="Offroad_02_Door_1_2_Rust" pos="0.55 -0.75 -1.15" rpy="-2.0 190.0 0.0" />
             <proxy type="Offroad_02_Door_1_1_Rust" pos="-0.35 -0.65 -1.2" rpy="0.0 190.0 0.0" />
+            <proxy type="Offroad_02_Door_1_2_Rust" pos="0.55 -0.75 -1.15" rpy="-2.0 190.0 0.0" />
             <proxy type="Offroad_02_Wheel" pos=" -1.7 -1.2 -1.05" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
@@ -16162,8 +16076,8 @@
             <point pos="-1.554413 -0.488274 0.639648" range="0.271875" height="0.679688" />
         </container>
         <dispatch>
-            <proxy type="Offroad_02_Door_1_2_Rust" pos="0.55 -0.75 -1.15" rpy="-2.0 190.0 0.0" />
             <proxy type="Offroad_02_Door_1_1_Rust" pos="-0.35 -0.65 -1.2" rpy="0.0 190.0 0.0" />
+            <proxy type="Offroad_02_Door_1_2_Rust" pos="0.55 -0.75 -1.15" rpy="-2.0 190.0 0.0" />
             <proxy type="Offroad_02_Wheel" pos=" -1.7 -1.2 -1.05" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
@@ -16193,10 +16107,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_WhiteRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_WhiteRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_WhiteRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_WhiteRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_black" lootmax="2">
@@ -16224,10 +16138,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_BlackRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_BlackRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_BlackRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_BlackRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_wine" lootmax="2">
@@ -16255,10 +16169,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_WineRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_WineRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_WineRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_WineRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_police" lootmax="6">
@@ -16306,10 +16220,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_WhiteRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_WhiteRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_WhiteRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_WhiteRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_wine" lootmax="2">
@@ -16335,10 +16249,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_WineRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_WineRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_WineRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_WineRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_black" lootmax="2">
@@ -16364,10 +16278,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_BlackRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_BlackRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_BlackRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_police" lootmax="6">
@@ -16414,10 +16328,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_YellowRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_YellowRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_YellowRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_YellowRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban1_grey" lootmax="2">
@@ -16442,10 +16356,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_GreyRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_GreyRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_GreyRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_GreyRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban1_red" lootmax="2">
@@ -16470,10 +16384,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_RedRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_RedRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_yellow" lootmax="2">
@@ -16499,10 +16413,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_YellowRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_YellowRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_YellowRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_grey" lootmax="2">
@@ -16528,10 +16442,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_GreyRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_GreyRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_GreyRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_red" lootmax="2">
@@ -16557,10 +16471,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_RedRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_RedRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_RedRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
 
@@ -16589,10 +16503,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_WhiteRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_WhiteRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_WhiteRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_WhiteRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_black_DE" lootmax="2">
@@ -16620,10 +16534,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_BlackRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_BlackRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_BlackRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_BlackRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_wine_DE" lootmax="2">
@@ -16651,10 +16565,10 @@
             <point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
-            <proxy type="CivSedanDoors_CoDriver_WineRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanDoors_BackLeft_WineRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+            <proxy type="CivSedanDoors_CoDriver_WineRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
             <proxy type="CivSedanHood_WineRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban1_police_DE" lootmax="4">
@@ -16702,10 +16616,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_WhiteRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_WhiteRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_WhiteRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_WhiteRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_wine_DE" lootmax="2">
@@ -16731,10 +16645,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_WineRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_WineRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_WineRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_WineRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_black_DE" lootmax="2">
@@ -16760,10 +16674,10 @@
             <point pos="-0.801483 -0.370373 0.625000" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
-            <proxy type="CivSedanDoors_Driver_BlackRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanDoors_BackRight_BlackRust" pos="0.550 -0.114 1.083" rpy="0.0 160.0 0.0" />
+            <proxy type="CivSedanDoors_Driver_BlackRust" pos="-0.506 -0.181 -1.033" rpy="0.0 220.0 0.0" />
             <proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
+            <proxy type="CivSedanWheel" pos="-1.659 -0.416 0.796" rpy="90.0 180.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed01_aban2_police_DE" lootmax="4">
@@ -16810,10 +16724,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_YellowRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_YellowRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_YellowRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_YellowRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="2">
@@ -16838,10 +16752,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_GreyRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_GreyRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_GreyRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_GreyRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban1_red_DE" lootmax="2">
@@ -16866,10 +16780,10 @@
             <point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-            <proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Door_1_2_RedRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+            <proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
             <proxy type="Sedan_02_Trunk_RedRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+            <proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_yellow_DE" lootmax="2">
@@ -16895,10 +16809,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_YellowRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_YellowRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_YellowRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_grey_DE" lootmax="2">
@@ -16924,10 +16838,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_GreyRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_GreyRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_GreyRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_sed02_aban2_red_DE" lootmax="2">
@@ -16953,10 +16867,10 @@
             <point pos="1.413422 0.248268 -0.544922" range="0.124725" height="0.311813" />
         </container>
         <dispatch>
-            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
             <proxy type="Sedan_02_Door_1_1_RedRust" pos="-0.556 0.125 -0.860" rpy="0.0 190.0 0.0" />
             <proxy type="Sedan_02_Door_2_2_RedRust" pos="0.156 0.168 1.150" rpy="-2.0 310.0 0.0" />
             <proxy type="Sedan_02_Hood_RedRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
+            <proxy type="Sedan_02_Wheel" pos="-1.486 -0.296 0.805" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
 
@@ -16981,10 +16895,10 @@
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
         </container>
         <dispatch>
-            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
             <proxy type="Truck_01_Door_2_1_GreenRust" pos="-1.55 1.11 0.97" rpy="0.0 190.0 0.0" />
             <proxy type="Truck_01_Hood_GreenRust" pos="-1.85 1.70 -0.1" rpy="0.0 180.0 0.0" />
+            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
+            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban1_green_DE" lootmax="15">
@@ -17002,9 +16916,9 @@
             <point pos="1.779244 0.104156 2.437904" range="0.959375" height="2.000000" flags="32" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban1_blue">
@@ -17028,10 +16942,10 @@
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
         </container>
         <dispatch>
-            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
             <proxy type="Truck_01_Door_2_1_BlueRust" pos="-1.55 1.11 0.97" rpy="0.0 190.0 0.0" />
             <proxy type="Truck_01_Hood_BlueRust" pos="-1.85 1.70 -0.1" rpy="0.0 180.0 0.0" />
+            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
+            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban1_blue_DE" lootmax="3">
@@ -17051,10 +16965,10 @@
             <point pos="0.722845 1.138458 -0.120233" range="0.670942" height="1.677856" />
         </container>
         <dispatch>
-            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
             <proxy type="Truck_01_Door_2_1_BlueRust" pos="-1.55 1.11 0.97" rpy="0.0 190.0 0.0" />
             <proxy type="Truck_01_Hood_BlueRust" pos="-1.85 1.70 -0.1" rpy="0.0 180.0 0.0" />
+            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
+            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban1_orange">
@@ -17078,10 +16992,10 @@
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
         </container>
         <dispatch>
-            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
             <proxy type="Truck_01_Door_2_1_OrangeRust" pos="-1.55 1.11 0.97" rpy="0.0 190.0 0.0" />
             <proxy type="Truck_01_Hood_OrangeRust" pos="-1.85 1.70 -0.1" rpy="0.0 180.0 0.0" />
+            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
+            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban1_orange_DE" lootmax="3">
@@ -17101,10 +17015,10 @@
             <point pos="0.722845 1.138458 -0.120233" range="0.670942" height="1.677856" />
         </container>
         <dispatch>
-            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
             <proxy type="Truck_01_Door_2_1_OrangeRust" pos="-1.55 1.11 0.97" rpy="0.0 190.0 0.0" />
             <proxy type="Truck_01_Hood_OrangeRust" pos="-1.85 1.70 -0.1" rpy="0.0 180.0 0.0" />
+            <proxy type="Truck_01_Wheel" pos="-2.18 0.46 0.98" rpy="0.0 0.0 0.0" />
+            <proxy type="Truck_01_WheelDouble" pos="2.48 0.43 -0.86" rpy="0.0 0.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban2_green">
@@ -17126,9 +17040,9 @@
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban2_green_DE" lootmax="15">
@@ -17147,9 +17061,9 @@
             <point pos="1.779244 0.104156 2.437904" range="0.959375" height="2.000000" flags="32" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_GreenRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban2_blue">
@@ -17171,9 +17085,9 @@
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_BlueRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_BlueRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban2_blue_DE" lootmax="3">
@@ -17193,9 +17107,9 @@
             <point pos="0.722845 1.138458 -0.120233" range="0.670942" height="1.677856" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_BlueRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_BlueRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban2_orange">
@@ -17217,9 +17131,9 @@
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_Wreck_truck01_aban2_orange_DE" lootmax="3">
@@ -17239,9 +17153,9 @@
             <point pos="0.722845 1.138458 -0.120233" range="0.670942" height="1.677856" />
         </container>
         <dispatch>
+            <proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
             <proxy type="Truck_01_Wheel" pos="-2.18 0.46 -0.98" rpy="0.0 180.0 0.0" />
             <proxy type="Truck_01_WheelDouble" pos="1.42 0.43 0.96" rpy="0.0 0.0 0.0" />
-            <proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban1_firetruck">
@@ -17271,10 +17185,8 @@
             <point pos="0.887351 1.052353 -0.238587" range="0.134375" height="0.335938" />
         </container>
         <dispatch dechance="0.000000">
-            <proxy type="Truck_01_Wheel" pos="-2.180125 0.459991 0.979816" rpy="0.000000 5.263660 0.000000"
-                   dechance="0.000000" />
-            <proxy type="Truck_01_WheelDouble" pos="2.480012 0.429993 -0.860163" rpy="0.000000 5.263660 0.000000"
-                   dechance="0.000000" />
+            <proxy type="Truck_01_Wheel" pos="-2.180125 0.459991 0.979816" rpy="0.000000 5.263660 0.000000" dechance="0.000000" />
+            <proxy type="Truck_01_WheelDouble" pos="2.480012 0.429993 -0.860163" rpy="0.000000 5.263660 0.000000" dechance="0.000000" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban2_firetruck">
@@ -17300,10 +17212,8 @@
             <point pos="3.312476 1.045105 -0.330585" range="0.237500" height="0.593750" />
         </container>
         <dispatch dechance="0.000000">
-            <proxy type="Truck_01_Wheel" pos="-2.179965 0.459991 -0.980243" rpy="0.000000 185.275574 0.000000"
-                   dechance="0.000000" />
-            <proxy type="Truck_01_WheelDouble" pos="1.420045 0.429993 0.959693" rpy="0.000000 185.724426 0.000000"
-                   dechance="0.000000" />
+            <proxy type="Truck_01_Wheel" pos="-2.179965 0.459991 -0.980243" rpy="0.000000 185.275574 0.000000" dechance="0.000000" />
+            <proxy type="Truck_01_WheelDouble" pos="1.420045 0.429993 0.959693" rpy="0.000000 185.724426 0.000000" dechance="0.000000" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban1_firetruck_DE">
@@ -17333,10 +17243,8 @@
             <point pos="0.887351 1.052353 -0.238587" range="0.134375" height="0.335938" />
         </container>
         <dispatch dechance="0.000000">
-            <proxy type="Truck_01_Wheel" pos="-2.180125 0.459991 0.979816" rpy="0.000000 5.263660 0.000000"
-                   dechance="0.000000" />
-            <proxy type="Truck_01_WheelDouble" pos="2.480012 0.429993 -0.860163" rpy="0.000000 5.263660 0.000000"
-                   dechance="0.000000" />
+            <proxy type="Truck_01_Wheel" pos="-2.180125 0.459991 0.979816" rpy="0.000000 5.263660 0.000000" dechance="0.000000" />
+            <proxy type="Truck_01_WheelDouble" pos="2.480012 0.429993 -0.860163" rpy="0.000000 5.263660 0.000000" dechance="0.000000" />
         </dispatch>
     </group>
     <group name="Land_wreck_truck01_aban2_firetruck_DE">
@@ -17906,12 +17814,9 @@
             <point pos="-0.564277 -1.795883 -2.646985" range="0.837598" height="2.000000" flags="32" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="GiftBox_Large_3" pos="-0.221761 -0.583313 0.805818" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
-            <proxy type="GiftBox_Large_4" pos="-0.351653 -0.609894 0.023589" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
-            <proxy type="FireworksLauncher" pos="-1.726919 -0.39 0.223045" rpy="0.000000 0.000000 0.000000"
-                   dechance="0.25" />
+            <proxy type="FireworksLauncher" pos="-1.726919 -0.39 0.223045" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+            <proxy type="GiftBox_Large_3" pos="-0.221761 -0.583313 0.805818" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+            <proxy type="GiftBox_Large_4" pos="-0.351653 -0.609894 0.023589" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
         </dispatch>
     </group>
 </prototype>
