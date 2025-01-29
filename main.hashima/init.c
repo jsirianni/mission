@@ -39,21 +39,6 @@ class CustomMission : MissionServer
     override void OnInit()
     {
         super.OnInit();
-
-        if ( m_EventManager )
-        {
-             //m_EventManager.Run( 120, 180, 1 );
-             m_EventManager.Run( 400, 650, 1 );
-
-            //m_EventManager.RegisterEvent( LXDStorm, 0.15 );
-            m_EventManager.RegisterEvent( LXDRainShower, 0.20 );
-            m_EventManager.RegisterEvent( LXDCloudySkies, 0.35 );
-            m_EventManager.RegisterEvent( LXDHeavyFog, 0.18 );
-            m_EventManager.RegisterEvent( LXDClearSkies, 0.65 );
-            m_EventManager.RegisterEvent( LXDTremors, 0.30 );
-        }
-
-        // CreateCustomUndergroundTrigger();
     };
 
     void SetRandomHealth(EntityAI itemEnt)
