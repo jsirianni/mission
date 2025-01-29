@@ -45,6 +45,7 @@ main.hashima/
 │   ├── ccs_spawnabletypes_clothing.xml
 │   ├── ccs_spawnabletypes_medical.xml
 │   ├── ccs_spawnabletypes_tool.xml
+│   ├── ccs_spawnabletypes_weapon.xml
 │   ├── ccs_spawnabletypes_zombie.xml
 │   ├── ccs_types_ammo.xml
 │   ├── ccs_types_bag.xml
@@ -130,8 +131,6 @@ profiles/
 **[Hashima Islands 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371)**
 
 **[Hashima Islands Assets 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)**
-
-**[Dab's Framework 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)**
 
 #### Required Server Mod
 
