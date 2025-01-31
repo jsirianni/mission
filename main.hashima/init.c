@@ -6,8 +6,8 @@ void main()
         ce.InitOffline();
     };
 
-    GetCEApi().ExportProxyData("2560 0 2560", 5120);
-    GetCEApi().ExportClusterData();
+    // GetCEApi().ExportProxyData("2560 0 2560", 5120);
+    // GetCEApi().ExportClusterData();
 
     int year, month, day, hour, minute;
     int reset_month = 9, reset_day = 20;
