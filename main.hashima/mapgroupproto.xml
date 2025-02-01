@@ -4026,7 +4026,6 @@
             <point pos="6.933640 -5.445484 2.678190" range="1.063965" height="1.999962" />
         </container>
         <container name="lootweapons">
-            <category name="weapons" />
             <category name="explosives" />
             <point pos="-2.185230 11.880581 3.263445" range="1.058594" height="2.000008" />
             <point pos="4.852196 -5.445484 0.743070" range="1.199951" height="1.999962" />
@@ -4048,7 +4047,6 @@
             <point pos="13.393311 -12.229988 12.202633" range="1.027456" height="2.000000" />
         </container>
         <container name="lootfloor" lootmax="5">
-            <category name="tools" />
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
