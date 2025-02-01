@@ -17319,12 +17319,10 @@
     ║ DZ - StaticObj ║
     ╚════════════════╝
 -->
-    <group name="StaticObj_Misc_SupplyBox1_DE" lootmax="8">
+    <group name="StaticObj_Misc_SupplyBox1_DE" lootmax="4">
         <usage name="Military" />
-        <usage name="Village" />
-        <usage name="Town" />
         <container name="lootfloor">
-            <category name="food" />
+            <category name="weapons" />
             <tag name="floor" />
             <tag name="ground" />
             <point pos="-0.466845 -0.577179 -1.298379" range="0.280357" height="0.700892" flags="32" />
@@ -17340,7 +17338,7 @@
             <point pos="0.345056 0.561157 0.339634" range="0.369713" height="0.937500" />
         </container>
     </group>
-    <group name="StaticObj_Misc_SupplyBox2_DE" lootmax="8">
+    <group name="StaticObj_Misc_SupplyBox2_DE" lootmax="4">
         <usage name="Military" />
         <container name="lootfloor">
             <category name="weapons" />
@@ -17359,11 +17357,10 @@
             <point pos="0.878849 -0.900024 -0.231583" range="0.366364" height="0.920135" flags="32" />
         </container>
     </group>
-    <group name="StaticObj_Misc_SupplyBox3_DE" lootmax="8">
-        <usage name="Medic" />
+    <group name="StaticObj_Misc_SupplyBox3_DE" lootmax="4">
+        <usage name="Military" />
         <container name="lootfloor">
-            <category name="clothes" />
-            <category name="tools" />
+            <category name="weapons" />
             <tag name="floor" />
             <tag name="ground" />
             <point pos="0.002854 0.438721 0.542980" range="0.134375" height="0.335938" />
