@@ -177,8 +177,8 @@
     </event>
     <event name="StaticAirplaneCrate">
         <nominal>10</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>6</min>
+        <max>10</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -195,9 +195,9 @@
         </children>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <min>1</min>
-        <max>1</max>
+        <max>2</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -209,8 +209,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="1" min="0" type="Wreck_Mi8_Crashed" />
-            <child lootmax="15" lootmin="10" max="1" min="0" type="Wreck_UH1Y" />
+            <child lootmax="15" lootmin="10" max="1" min="1" type="Wreck_Mi8_Crashed" />
+            <child lootmax="15" lootmin="10" max="1" min="1" type="Wreck_UH1Y" />
         </children>
     </event>
 </events>
