@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <economycore>
-    <!--
-        ╔════════════╗
-        ║ DZ - Class ║
-        ╚════════════╝
-    -->
+<!--
+    ╔════════════╗
+    ║ DZ - Class ║
+    ╚════════════╝
+-->
     <classes>
         <rootclass name="DefaultWeapon" />
         <rootclass name="DefaultMagazine" />
@@ -28,18 +28,17 @@
         <default name="log_ce_statistics" value="false" />
         <default name="log_ce_zombie" value="false" />
         <default name="log_storageinfo" value="false" />
-        <default name="log_hivewarning" value="true" />
-        <default name="log_missionfilewarning" value="true" />
-        <default name="save_events_startup" value="true" />
-        <default name="save_types_startup" value="true" />
+        <default name="log_hivewarning" value="false" />
+        <default name="log_missionfilewarning" value="false" />
+        <default name="save_events_startup" value="false" />
+        <default name="save_types_startup" value="false" />
     </defaults>
-
+<!--
+    ╔══════════════╗
+    ║ CCS - Events ║
+    ╚══════════════╝
+-->
     <ce folder="ccs_ce">
-    <!--
-        ╔══════════════╗
-        ║ CCS - Events ║
-        ╚══════════════╝
-    -->
         <file name="ccs_events_misc.xml" type="events" />
         <file name="ccs_events_zombie.xml" type="events" />
     <!--
@@ -75,13 +74,12 @@
         <file name="ccs_types_weapon.xml" type="types" />
         <file name="ccs_types_zombie.xml" type="types" />
     </ce>
-
+<!--
+    ╔═════════════╗
+    ║ DZ - Events ║
+    ╚═════════════╝
+-->
     <ce folder="dz_ce">
-    <!--
-        ╔═════════════╗
-        ║ DZ - Events ║
-        ╚═════════════╝
-    -->
         <file name="dz_events_animal.xml" type="events" />
         <file name="dz_events_misc.xml" type="events" />
     <!--

@@ -175,10 +175,10 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone" />
         </children>
     </event>
-    <event name="StaticAirplaneCrate">
-        <nominal>10</nominal>
-        <min>6</min>
-        <max>10</max>
+    <event name="StaticAirplaneCrate_1">
+        <nominal>3</nominal>
+        <min>2</min>
+        <max>3</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -190,6 +190,22 @@
         <active>1</active>
         <children>
             <child lootmax="4" lootmin="2" max="4" min="2" type="StaticObj_Misc_SupplyBox1_DE" />
+        </children>
+    </event>
+    <event name="StaticAirplaneCrate_2">
+        <nominal>7</nominal>
+        <min>5</min>
+        <max>7</max>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
             <child lootmax="4" lootmin="2" max="4" min="2" type="StaticObj_Misc_SupplyBox2_DE" />
             <child lootmax="4" lootmin="2" max="4" min="2" type="StaticObj_Misc_SupplyBox3_DE" />
         </children>
