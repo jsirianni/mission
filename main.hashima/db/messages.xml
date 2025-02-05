@@ -15,10 +15,10 @@
         <shutdown>1</shutdown>
         <text>Hello, #name will shutdown in #tmin minutes.</text>
     </message> -->
-    <message>
+    <!-- <message>
         <delay>10</delay>
         <repeat>80</repeat>
         <onconnect>1</onconnect>
         <text>Join the Discord at https://hashima.gg</text>
-    </message>
+    </message> -->
 </messages>
