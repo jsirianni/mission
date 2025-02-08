@@ -7,17 +7,17 @@
         <changelimits min="0.0" max="1.0" />
     </overcast>
     <fog>
-        <current actual="0.1" time="120" duration="240" />
-        <limits min="0.0" max="1.0" />
-        <timelimits min="900" max="1800" />
-        <changelimits min="0.0" max="1.0" />
+        <current actual="0.0" time="120" duration="240" />
+        <limits min="0.0" max="0.0" />
+        <timelimits min="0" max="0" />
+        <changelimits min="0.0" max="0.0" />
     </fog>
     <rain>
         <current actual="0.0" time="120" duration="240" />
-        <limits min="0.0" max="1.0" />
-        <timelimits min="300" max="600" />
-        <changelimits min="0.0" max="1.0" />
-        <thresholds min="0.5" max="1.0" end="120" />
+        <limits min="0.0" max="0.1" />
+        <timelimits min="600" max="1200" />
+        <changelimits min="0.0" max="0.1" />
+        <thresholds min="0.05" max="0.1" end="120" />
     </rain>
     <windMagnitude>
         <current actual="8.0" time="120" duration="240" />
@@ -31,5 +31,5 @@
         <timelimits min="60" max="120" />
         <changelimits min="-1.0" max="1.0" />
     </windDirection>
-    <storm density="1.0" threshold="0.7" timeout="25" />
+    <storm density="0.0" threshold="1.0" timeout="9999" />
 </weather>
