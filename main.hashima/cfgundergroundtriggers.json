@@ -3923,6 +3923,40 @@
             "Size": [40.000000, 19.500000, 40.000000],
             "EyeAccommodation": 0,
             "Breadcrumbs": []
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "Position": [2122.629395, 2.000000, 3019.723633],
+            "Orientation": [45.000000, 0.000000, 0.000000],
+            "Size": [13.500000, 6.000000, 21.500000],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [2109.309326, 2.000000, 3022.234863],
+            "Orientation": [45.000000, 0.000000, 0.000000],
+            "Size": [4.600000, 6.000000, 4.600000],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
         }
     ]
 }
