@@ -2,8 +2,6 @@
 
 Mission files for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki.
 
-#### [Download Mission Files (.zip)](https://hashima.gg)
-
 ---
 
 ## File Structure
