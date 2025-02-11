@@ -6589,7 +6589,7 @@
         <usage name="Military" />
     </type>
     <type name="UKAssVest_Khaki">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>2</min>
