@@ -141,6 +141,7 @@ profiles/
 
 **[SpawnerBubaku 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670)**
 Follow the instructions on Steam Workkshop.
+
 Replace the file `SpawnerBubaku.json`.
 
 ---
