@@ -126,6 +126,7 @@ profiles/
 
 **[Download files (.zip) 🡥](https://github.com/hashimagg/mission/archive/refs/heads/main.zip)**
 **[Download areaflags.map 🡥](https://github.com/hashimagg/mission/raw/refs/heads/main/main.hashima/areaflags.map)**
+
 <small>Replace the areaflags.map inside `main.hashima`</small>
 
 ## Server Setup
