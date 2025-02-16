@@ -176,9 +176,9 @@
         </children>
     </event>
     <event name="StaticAirplaneCrate_1">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>2</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>

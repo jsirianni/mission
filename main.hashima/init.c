@@ -228,7 +228,7 @@ class CustomMission : MissionServer
             itemBs = ItemBase.Cast(itemEnt);
 
             // Shoes
-            player.GetInventory().CreateInInventory("AthleticShoes_Black");
+            player.GetInventory().CreateInInventory("CCS_Hashima_Clothing_Sneaker_Black");
             itemBs = ItemBase.Cast(itemEnt);
 
             // Food
@@ -295,7 +295,17 @@ class CustomMission : MissionServer
         "768.184 84.9511 678.734",
         "700.515 43.1604 836.105",
         "730.377 18.7271 1182.48",
-        "792.554 16.3638 1221.54"
+        "792.554 16.3638 1221.54",
+
+        "682.117 13.7361 2118.61",
+        "645.213 12.8687 1861.39",
+        "902.234 5.21478 2436.08",
+        "956.537 17.3357 2338.05",
+        "934.673 6.61758 2548.15",
+        "1417.52 91.3714 1492.15",
+        "1118.06 97.3787 2420.84",
+        "938.199 7.98381 2545.52",
+        "1007.02 58.0468 2469.19"
     };
 
     override PlayerBase OnClientNewEvent(PlayerIdentity identity, vector pos, ParamsReadContext ctx)

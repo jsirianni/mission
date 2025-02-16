@@ -662,7 +662,6 @@
     ╚════════════════════════╝
 -->
     <attachments chance="0.60" name="hatsArmy">
-        <item name="NVGHeadstrap" chance="0.01" />
         <item name="PilotkaCap" chance="0.10" />
         <item name="TankerHelmet" chance="0.10" />
         <item name="ZSh3PilotHelmet" chance="0.05" />
@@ -711,7 +710,7 @@
     ╚══════════════════════════════╝
 -->
     <attachments chance="1.00" name="heavyArmorArmy">
-        <item name="PlateCarrierVest_Camo" chance="1.00" />
+        <item name="PlateCarrierVest_Black" chance="1.0" />
     </attachments>
 <!--
     ╔═══════════════════════════════╗

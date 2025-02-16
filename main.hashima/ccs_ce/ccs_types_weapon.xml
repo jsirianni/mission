@@ -49,7 +49,7 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hattori_Hanzo">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>2</min>
