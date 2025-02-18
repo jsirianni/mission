@@ -11,6 +11,9 @@ jobs:
   create_release:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Create Release
         run: |
           gh release create ${{ github.ref }} \
