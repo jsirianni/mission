@@ -44,6 +44,23 @@ jobs:
       - name: Upload ${{ matrix.dir }}
         run: gh release upload ${{ github.ref_name }} ${{ matrix.dir }}.zip
 
+  release_areaflags:
+    runs-on: ubuntu-latest
+    needs: create_release
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: 'true'
+        
+      - run: git lfs pull
+
       - name: Upload Area Flags
-        if: ${{ matrix.dir == 'main.hashima' }}
         run: gh release upload ${{ github.ref_name }} main.hashima/areaflags.map
+
+      - name: Hash Area Flags
+        run: sha256sum main.hashima/areaflags.map > main.hashima/areaflags.map.sha256
+
+      - name: Upload Hash
+        run: gh release upload ${{ github.ref_name }} main.hashima/areaflags.map.sha256
+
